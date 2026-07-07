@@ -188,6 +188,16 @@ h1 .flourish{ color:var(--brass-2); }
   font-family:'Courier New',monospace; padding:.25em .5em; border-radius:3px;
   box-shadow:0 2px 5px rgba(0,0,0,.4); letter-spacing:.05em;
 }
+.drawer.vault-drawer{
+  background:
+    linear-gradient(160deg,#241017,#160a10 60%,#0d0508);
+  border-color:#4a2030;
+  box-shadow:inset 0 2px 3px rgba(217,178,88,.15), inset 0 -4px 9px rgba(0,0,0,.6), 0 0 22px rgba(217,178,88,.35), 0 4px 10px rgba(0,0,0,.5);
+  animation:vault-appear .7s cubic-bezier(.2,.9,.3,1.15);
+}
+.drawer.vault-drawer .plate{background:linear-gradient(170deg,#e8c46a,#7a1424 70%,#4a0d16); color:#f3e2c0}
+.drawer.vault-drawer .count{color:#d9b258; opacity:.9}
+@keyframes vault-appear{from{transform:scale(.6) rotate(-8deg); opacity:0} to{transform:none; opacity:1}}
 .drawer.opening{animation:yank .5s ease}
 @keyframes yank{
   0%{transform:translateY(0)} 35%{transform:translateY(26px) scale(1.04)}
@@ -454,6 +464,9 @@ const CATALOG=[
  {file:"20-existential-and-philosophical.md",title:"Existential & Philosophical",adult:false},
  {file:"21-holidays-and-family.md",  title:"Holidays & Family",           adult:false},
 ];
+/* The 22nd drawer is not on this list on purpose. It is not counted, not
+   indexed, and not on the wall until a curious visitor unlocks it. */
+const VAULT={file:"22-the-vault.md", title:"🔒 The Vault", adult:false, idx:21, jokes:[], loaded:false, unlocked:false};
 const state={cats:[], all:[], read:0, ack:{}, current:null, currentJoke:null};
 
 /* ---------- the world ballot box (Supabase) ----------
@@ -540,6 +553,53 @@ async function loadAll(){
   state.all=[];
   state.cats.forEach(c=>c.jokes.forEach(j=>state.all.push({cat:c,j})));
   renderDrawers(); renderTotal(); seedTicker(); renderDaily(); openFromParam();
+  armVaultUnlock();
+}
+
+/* ---------- the locked drawer ----------
+   Not in CATALOG, not in state.all, not in the count. It appears only for
+   the curious: type "vault", or rub the footer plaque five times like a lamp. */
+async function loadVault(){
+  if(VAULT.loaded) return;
+  try{
+    const r=await fetch("jokes/"+VAULT.file,{cache:"no-cache"});
+    if(r.ok) VAULT.jokes=parseMd(await r.text());
+  }catch(e){}
+  VAULT.loaded=true;
+}
+async function unlockVault(){
+  await loadVault();
+  if(!VAULT.jokes.length) return;
+  if(!VAULT.unlocked){
+    VAULT.unlocked=true;
+    const wall=document.getElementById("drawers");
+    const d=document.createElement("button");
+    d.className="drawer vault-drawer"; d.type="button";
+    d.innerHTML='<span class="plate">'+VAULT.title+'</span>'+
+      '<span class="count">??? specimens</span><span class="pull"></span>';
+    d.addEventListener("click",()=>{ d.classList.remove("opening"); void d.offsetWidth; d.classList.add("opening"); setTimeout(()=>openExhibit(VAULT),260); });
+    wall.appendChild(d);
+    d.scrollIntoView({behavior:"smooth",block:"center"});
+  }
+  openExhibit(VAULT);
+}
+function armVaultUnlock(){
+  let buf="";
+  document.addEventListener("keydown",e=>{
+    if(e.key&&e.key.length===1 && document.activeElement.tagName!=="INPUT"){
+      buf=(buf+e.key.toLowerCase()).slice(-5);
+      if(buf==="vault") unlockVault();
+    }
+  });
+  const plaque=document.querySelector("footer .plaque");
+  if(plaque){
+    let rubs=0, timer=null;
+    plaque.style.cursor="pointer"; plaque.title="";
+    plaque.addEventListener("click",()=>{
+      rubs++; clearTimeout(timer); timer=setTimeout(()=>{rubs=0;},1400);
+      if(rubs>=5){ rubs=0; unlockVault(); }
+    });
+  }
 }
 
 /* ---------- drawers ---------- */
