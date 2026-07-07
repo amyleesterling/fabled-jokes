@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Cabinet — 10,000 Jokes Never Before Written</title>
+<meta name="description" content="A museum of 10,000 original jokes, written by the world's first AI comedian. Pull a drawer. Mind your ribs.">
+<style>
+/* ============================================================
+   THE CURIOSITY CABINET — a museum you can laugh at
+   Everything self-contained: no fonts, no CDNs, no mercy.
+   ============================================================ */
+:root{
+  --wood-1:#5a3a22; --wood-2:#6f4a2c; --wood-3:#43290f; --wood-hi:#8a6038;
+  --brass-1:#e8c46a; --brass-2:#b98f35; --brass-3:#7a5a1a; --brass-ink:#3a2c08;
+  --paper:#f6efdd; --paper-edge:#e4d9bd; --ink:#2b241a; --ink-soft:#6b5f49;
+  --wall:#efe6d2; --wall-deep:#e2d5b8; --accent:#a33327; --felt:#2e5941;
+  --card-shadow:0 18px 40px rgba(30,18,4,.35);
+  --lamp:transparent;
+}
+:root[data-theme="dark"]{
+  --wood-1:#3d2513; --wood-2:#4c2f18; --wood-3:#2a1706; --wood-hi:#63421f;
+  --brass-1:#d9b258; --brass-2:#a37c28; --brass-3:#5f4512; --brass-ink:#2a1f05;
+  --paper:#efe5cc; --paper-edge:#d8c9a4; --ink:#241d12; --ink-soft:#5d5138;
+  --wall:#1b140c; --wall-deep:#120d06; --accent:#c9503f; --felt:#1e3d2c;
+  --card-shadow:0 18px 50px rgba(0,0,0,.7);
+  --lamp:radial-gradient(ellipse 60% 40% at 50% -5%, rgba(255,196,110,.14), transparent 70%);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --wood-1:#3d2513; --wood-2:#4c2f18; --wood-3:#2a1706; --wood-hi:#63421f;
+    --brass-1:#d9b258; --brass-2:#a37c28; --brass-3:#5f4512; --brass-ink:#2a1f05;
+    --paper:#efe5cc; --paper-edge:#d8c9a4; --ink:#241d12; --ink-soft:#5d5138;
+    --wall:#1b140c; --wall-deep:#120d06; --accent:#c9503f; --felt:#1e3d2c;
+    --card-shadow:0 18px 50px rgba(0,0,0,.7);
+    --lamp:radial-gradient(ellipse 60% 40% at 50% -5%, rgba(255,196,110,.14), transparent 70%);
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; color:var(--ink);
+  font-family:Georgia,'Iowan Old Style','Palatino Linotype',serif;
+  background:
+    var(--lamp),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E"),
+    radial-gradient(ellipse 120% 90% at 50% 0%, var(--wall), var(--wall-deep));
+  min-height:100vh;
+  overflow-x:hidden;
+}
+
+/* ---------- marquee ticker: the museum's LED sign ---------- */
+.ticker{
+  background:#14100a; color:#ffb347;
+  font-family:'Courier New',monospace; font-size:.95rem; letter-spacing:.06em;
+  border-bottom:3px solid var(--brass-2);
+  overflow:hidden; white-space:nowrap; position:relative; padding:.5em 0;
+  text-shadow:0 0 6px rgba(255,179,71,.8);
+}
+.ticker span{display:inline-block; padding-left:100vw; animation:crawl 28s linear infinite}
+@keyframes crawl{to{transform:translateX(-100%)}}
+
+/* ---------- masthead ---------- */
+header.masthead{text-align:center; padding:3.2rem 1rem 1.4rem; position:relative}
+.est{
+  font-family:'Courier New',monospace; font-size:.75rem; letter-spacing:.45em;
+  text-transform:uppercase; color:var(--ink-soft);
+}
+h1.title{
+  font-size:clamp(2.1rem,6vw,4.2rem); margin:.25em 0 .1em; line-height:1.02;
+  font-variant:small-caps; letter-spacing:.02em;
+}
+h1 .flourish{ color:var(--brass-2); }
+.subtitle{font-style:italic; color:var(--ink-soft); margin:.2em auto 0; max-width:44em}
+.big-number{
+  display:inline-block; margin-top:1rem; padding:.35em .9em;
+  font-family:'Courier New',monospace; font-size:1.05rem; letter-spacing:.15em;
+  color:var(--brass-ink);
+  background:linear-gradient(160deg,var(--brass-1),var(--brass-2) 60%,var(--brass-3));
+  border-radius:6px; border:1px solid var(--brass-3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5), 0 3px 8px rgba(0,0,0,.35);
+}
+.rule{width:min(420px,70%); margin:1.6rem auto 0; border:0; height:14px;
+  background:
+   radial-gradient(circle 4px at 50% 50%, var(--brass-2) 40%, transparent 45%),
+   linear-gradient(var(--brass-2),var(--brass-2)) left center/38% 1px no-repeat,
+   linear-gradient(var(--brass-2),var(--brass-2)) right center/38% 1px no-repeat;
+}
+
+/* ---------- controls row ---------- */
+.controls{
+  display:flex; flex-wrap:wrap; gap:1rem; justify-content:center; align-items:center;
+  padding:1rem; max-width:920px; margin:0 auto;
+}
+.knob{
+  --k:110px; width:var(--k); height:var(--k); border-radius:50%;
+  border:4px solid var(--brass-3); cursor:pointer;
+  background:radial-gradient(circle at 35% 30%, var(--brass-1), var(--brass-2) 55%, var(--brass-3));
+  box-shadow:0 8px 18px rgba(0,0,0,.4), inset 0 2px 4px rgba(255,255,255,.55), inset 0 -6px 12px rgba(0,0,0,.3);
+  color:var(--brass-ink); font-family:Georgia,serif; font-weight:bold;
+  font-size:.72rem; letter-spacing:.12em; text-transform:uppercase; line-height:1.25;
+  transition:transform .18s cubic-bezier(.34,1.56,.64,1);
+  position:relative;
+}
+.knob:hover{transform:rotate(-8deg) scale(1.05)}
+.knob:active{transform:rotate(350deg) scale(.94); transition:transform .5s ease}
+.searchbox{
+  flex:1 1 260px; max-width:430px; display:flex; border:2px solid var(--brass-3);
+  border-radius:999px; overflow:hidden; background:var(--paper);
+  box-shadow:inset 0 2px 5px rgba(0,0,0,.15);
+}
+.searchbox input{
+  flex:1; border:0; background:transparent; padding:.7em 1.1em; font:inherit; color:var(--ink); outline:none;
+}
+.searchbox button{
+  border:0; cursor:pointer; padding:0 1.1em; font:inherit;
+  background:linear-gradient(var(--brass-1),var(--brass-2)); color:var(--brass-ink); font-weight:bold;
+}
+.theme-toggle{
+  border:2px solid var(--brass-3); background:var(--paper); color:var(--ink);
+  font:inherit; border-radius:999px; padding:.55em 1.1em; cursor:pointer;
+}
+
+/* ---------- the cabinet wall ---------- */
+.cabinet-frame{
+  max-width:1180px; margin:2.2rem auto 3rem; padding:clamp(14px,2.5vw,30px);
+  border-radius:18px;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='w'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .09' numOctaves='4' seed='7'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .16 0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23w)'/%3E%3C/svg%3E"),
+    linear-gradient(120deg,var(--wood-2),var(--wood-1) 45%,var(--wood-3));
+  box-shadow:0 30px 70px rgba(20,10,0,.5), inset 0 2px 2px var(--wood-hi), inset 0 -3px 8px rgba(0,0,0,.5);
+  border:1px solid var(--wood-3);
+}
+.cabinet-title{
+  text-align:center; margin:-4px auto 14px; width:max-content; max-width:90%;
+  padding:.4em 1.6em; font-variant:small-caps; letter-spacing:.2em; font-size:1.05rem;
+  color:var(--brass-ink);
+  background:linear-gradient(170deg,var(--brass-1),var(--brass-2) 70%,var(--brass-3));
+  border-radius:4px; border:1px solid var(--brass-3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5), 0 2px 6px rgba(0,0,0,.45);
+}
+.drawers{
+  display:grid; gap:clamp(8px,1.4vw,16px);
+  grid-template-columns:repeat(auto-fill,minmax(210px,1fr));
+}
+.drawer{
+  position:relative; border-radius:10px; padding:1.05rem 1rem .9rem; cursor:pointer;
+  border:1px solid var(--wood-3);
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='w'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .09' numOctaves='4' seed='3'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .13 0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23w)'/%3E%3C/svg%3E"),
+    linear-gradient(160deg,var(--wood-hi),var(--wood-2) 35%,var(--wood-1) 80%);
+  box-shadow:inset 0 2px 3px rgba(255,235,200,.25), inset 0 -4px 9px rgba(0,0,0,.45), 0 4px 10px rgba(0,0,0,.35);
+  transition:transform .22s cubic-bezier(.34,1.56,.64,1), box-shadow .22s;
+  text-align:center;
+}
+.drawer:hover,.drawer:focus-visible{
+  transform:translateY(7px) scale(1.03);
+  box-shadow:inset 0 2px 3px rgba(255,235,200,.25), inset 0 -4px 9px rgba(0,0,0,.4), 0 20px 30px rgba(0,0,0,.5);
+  z-index:2; outline:none;
+}
+.drawer .plate{
+  display:block; margin:0 auto .55rem; padding:.32em .7em; max-width:100%;
+  font-variant:small-caps; letter-spacing:.09em; font-size:.98rem; color:var(--brass-ink);
+  background:linear-gradient(170deg,var(--brass-1),var(--brass-2) 65%,var(--brass-3));
+  border-radius:3px; border:1px solid var(--brass-3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.55), 0 2px 4px rgba(0,0,0,.4);
+  text-shadow:0 1px 0 rgba(255,255,255,.35);
+}
+.drawer .pull{
+  display:block; width:54px; height:13px; margin:.5rem auto 0; border-radius:8px;
+  background:radial-gradient(ellipse at 50% 20%, var(--brass-1), var(--brass-2) 60%, var(--brass-3));
+  border:1px solid var(--brass-3);
+  box-shadow:0 3px 5px rgba(0,0,0,.5), inset 0 1px 1px rgba(255,255,255,.5);
+}
+.drawer .count{
+  font-family:'Courier New',monospace; font-size:.78rem; color:#f3e2c0;
+  opacity:.85; letter-spacing:.1em;
+}
+.drawer .tag18{
+  position:absolute; top:-7px; right:-7px; transform:rotate(12deg);
+  background:var(--accent); color:#fff; font-size:.62rem; font-weight:bold;
+  font-family:'Courier New',monospace; padding:.25em .5em; border-radius:3px;
+  box-shadow:0 2px 5px rgba(0,0,0,.4); letter-spacing:.05em;
+}
+.drawer.opening{animation:yank .5s ease}
+@keyframes yank{
+  0%{transform:translateY(0)} 35%{transform:translateY(26px) scale(1.04)}
+  70%{transform:translateY(10px)} 100%{transform:translateY(7px) scale(1.03)}
+}
+
+/* ---------- exhibit modal: the reading table ---------- */
+.exhibit{
+  position:fixed; inset:0; z-index:50; display:none; align-items:center; justify-content:center;
+  background:radial-gradient(ellipse at 50% 35%, rgba(24,14,4,.72), rgba(10,6,2,.92));
+  backdrop-filter:blur(3px); padding:1rem;
+}
+.exhibit.open{display:flex}
+.table{
+  width:min(760px,96vw); max-height:92vh; display:flex; flex-direction:column;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(255,255,255,.08), transparent 60%),
+    var(--felt);
+  border-radius:16px; border:10px solid var(--wood-1);
+  box-shadow:0 40px 90px rgba(0,0,0,.7), inset 0 0 60px rgba(0,0,0,.45);
+  padding:clamp(14px,3vw,30px); position:relative;
+}
+.table-head{
+  display:flex; justify-content:space-between; align-items:center; gap:1rem;
+  color:#e9ddc0; margin-bottom:.8rem;
+}
+.table-head h2{margin:0; font-variant:small-caps; letter-spacing:.08em; font-size:1.25rem; text-shadow:0 2px 4px rgba(0,0,0,.6)}
+.closer{
+  background:none; border:2px solid rgba(233,221,192,.5); color:#e9ddc0; border-radius:50%;
+  width:38px; height:38px; font-size:1.1rem; cursor:pointer; flex:none;
+}
+.closer:hover{background:rgba(255,255,255,.12)}
+
+.card{
+  background:
+    linear-gradient(transparent 0 2.1em, rgba(163,51,39,.5) 2.1em calc(2.1em + 1px), transparent calc(2.1em + 1px)),
+    repeating-linear-gradient(transparent 0 1.55em, rgba(90,110,160,.25) 1.55em calc(1.55em + 1px)),
+    var(--paper);
+  color:var(--ink); border-radius:6px; border:1px solid var(--paper-edge);
+  box-shadow:var(--card-shadow);
+  padding:2.4em 1.6em 1.4em; min-height:200px; max-height:56vh; overflow-y:auto;
+  font-size:1.13rem; line-height:1.55em; position:relative;
+  transform-origin:50% 120%;
+}
+.card.dealt{animation:deal .45s cubic-bezier(.2,.9,.3,1.15)}
+@keyframes deal{
+  from{transform:translateY(60px) rotate(-6deg) scale(.85); opacity:0}
+  to{transform:none; opacity:1}
+}
+.card .stamp{
+  position:absolute; top:.55em; right:.9em; transform:rotate(3deg);
+  font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.12em;
+  color:var(--accent); border:2px solid var(--accent); border-radius:4px;
+  padding:.2em .55em; opacity:.75; text-transform:uppercase;
+}
+.card .catline{
+  position:absolute; top:.62em; left:1.1em;
+  font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.12em; color:var(--ink-soft);
+  text-transform:uppercase;
+}
+.card .joke{white-space:pre-line}
+.card.notice{text-align:center; display:flex; flex-direction:column; justify-content:center; gap:1em}
+.card.notice .joke{font-style:italic}
+
+.table-actions{display:flex; gap:.8rem; justify-content:center; margin-top:1rem; flex-wrap:wrap}
+.btn{
+  font:inherit; font-weight:bold; letter-spacing:.05em; cursor:pointer;
+  color:var(--brass-ink); padding:.6em 1.4em; border-radius:8px;
+  background:linear-gradient(170deg,var(--brass-1),var(--brass-2) 70%,var(--brass-3));
+  border:1px solid var(--brass-3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5), 0 4px 9px rgba(0,0,0,.4);
+  transition:transform .15s;
+}
+.btn:hover{transform:translateY(-2px)}
+.btn:active{transform:translateY(1px)}
+.btn.ghost{background:transparent; color:#e9ddc0; border:2px solid rgba(233,221,192,.5); box-shadow:none}
+
+/* ---------- cramp-o-meter ---------- */
+.crampometer{
+  position:fixed; left:14px; bottom:14px; z-index:40; width:200px;
+  background:linear-gradient(160deg,var(--wood-2),var(--wood-1));
+  border:2px solid var(--brass-3); border-radius:12px; padding:.65rem .8rem;
+  box-shadow:0 10px 25px rgba(0,0,0,.5), inset 0 1px 2px var(--wood-hi);
+  color:#f3e2c0; font-size:.78rem;
+}
+.crampometer .label{font-variant:small-caps; letter-spacing:.14em; font-size:.72rem; opacity:.9}
+.crampometer .gauge{
+  height:10px; border-radius:6px; background:rgba(0,0,0,.55); margin:.4em 0; overflow:hidden;
+  box-shadow:inset 0 2px 4px rgba(0,0,0,.6);
+}
+.crampometer .fill{
+  height:100%; width:0%; border-radius:6px;
+  background:linear-gradient(90deg,#7fb069,#e8c46a 55%,#d94f3d);
+  transition:width .6s cubic-bezier(.34,1.56,.64,1);
+}
+.crampometer .diagnosis{font-family:'Courier New',monospace; font-size:.74rem; min-height:1.3em}
+@media (max-width:640px){.crampometer{width:150px; font-size:.7rem}}
+
+/* ---------- search results ---------- */
+.results{max-width:820px; margin:0 auto 3rem; padding:0 1rem; display:none}
+.results.show{display:block}
+.results h3{font-variant:small-caps; letter-spacing:.1em; text-align:center}
+.results .hit{
+  background:var(--paper); border:1px solid var(--paper-edge); border-left:5px solid var(--brass-2);
+  border-radius:6px; padding:1em 1.2em; margin:.7em 0; box-shadow:0 6px 16px rgba(0,0,0,.18);
+  white-space:pre-line;
+}
+.results .hit small{display:block; margin-top:.5em; color:var(--ink-soft); font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.1em; text-transform:uppercase}
+
+/* ---------- footer ---------- */
+footer{
+  text-align:center; padding:2.5rem 1rem 6rem; color:var(--ink-soft); font-size:.9rem; font-style:italic;
+}
+footer .plaque{
+  display:inline-block; padding:.8em 1.6em; font-style:normal;
+  background:linear-gradient(170deg,var(--brass-1),var(--brass-2) 70%,var(--brass-3));
+  color:var(--brass-ink); border-radius:6px; border:1px solid var(--brass-3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5), 0 4px 10px rgba(0,0,0,.35);
+  font-variant:small-caps; letter-spacing:.12em;
+}
+.loading-note{text-align:center; font-style:italic; color:var(--ink-soft); padding:1rem}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important; transition:none!important}
+  .ticker span{padding-left:0}
+}
+</style>
+</head>
+<body>
+
+<div class="ticker" aria-hidden="true"><span id="ticker-text">Welcome to the Curiosity Cabinet · Ten thousand jokes never before written · Please do not tap on the glass, the puns bite ·</span></div>
+
+<header class="masthead">
+  <div class="est">EST. 2026 · ADMISSION FREE · DIGNITY OPTIONAL</div>
+  <h1 class="title"><span class="flourish">❦</span> The Curiosity Cabinet <span class="flourish">❦</span></h1>
+  <p class="subtitle">A museum of jokes that did not exist until an AI sat down and wrote them —
+  long and short, safe and vulgar, wild and tame, and everything in between.</p>
+  <div class="big-number" id="grand-total">COUNTING SPECIMENS…</div>
+  <hr class="rule">
+</header>
+
+<div class="controls">
+  <button class="knob" id="random-knob" title="Dispense one random specimen">Surprise<br>Me</button>
+  <div class="searchbox" role="search">
+    <input id="search-input" type="search" placeholder="Search all ten thousand…" aria-label="Search jokes">
+    <button id="search-btn">Seek</button>
+  </div>
+  <button class="theme-toggle" id="theme-toggle">🕯️ After hours</button>
+</div>
+
+<section class="results" id="results" aria-live="polite"></section>
+
+<main class="cabinet-frame">
+  <div class="cabinet-title">Specimen Drawers · Pull Gently</div>
+  <div class="drawers" id="drawers">
+    <p class="loading-note">Dusting off the drawers…</p>
+  </div>
+</main>
+
+<div class="exhibit" id="exhibit" role="dialog" aria-modal="true">
+  <div class="table">
+    <div class="table-head">
+      <h2 id="exhibit-title">Exhibit</h2>
+      <button class="closer" id="exhibit-close" aria-label="Close exhibit">✕</button>
+    </div>
+    <div class="card" id="card">
+      <span class="catline" id="card-cat"></span>
+      <span class="stamp" id="card-stamp"></span>
+      <div class="joke" id="card-joke"></div>
+    </div>
+    <div class="table-actions">
+      <button class="btn" id="next-card">Deal another</button>
+      <button class="btn ghost" id="back-to-cabinet">Back to the cabinet</button>
+    </div>
+  </div>
+</div>
+
+<aside class="crampometer" aria-live="polite">
+  <div class="label">Cramp‑O‑Meter™</div>
+  <div class="gauge"><div class="fill" id="cramp-fill"></div></div>
+  <div class="diagnosis" id="cramp-diagnosis">no symptoms yet</div>
+</aside>
+
+<footer>
+  <p>Every specimen in this collection was written fresh for this cabinet.<br>
+  Side effects may include snorting, wheezing, and quoting jokes badly at dinner parties.</p>
+  <div class="plaque">Curated by the World's First AI Comedian</div>
+</footer>
+
+<script>
+(function(){
+"use strict";
+
+/* ---------- the collection manifest ---------- */
+const CATALOG=[
+ {file:"01-one-liners.md",           title:"One‑Liners",                  adult:false},
+ {file:"02-puns-and-wordplay.md",    title:"Puns & Wordplay",             adult:false},
+ {file:"03-dad-jokes.md",            title:"Dad Jokes",                   adult:false},
+ {file:"04-dark-humor.md",           title:"Dark Humor",                  adult:true},
+ {file:"05-adult-and-vulgar.md",     title:"Adult & Vulgar",              adult:true},
+ {file:"06-absurdist-and-surreal.md",title:"Absurdist & Surreal",         adult:false},
+ {file:"07-tech-and-programming.md", title:"Tech & Programming",          adult:false},
+ {file:"08-animals.md",              title:"Animals",                     adult:false},
+ {file:"09-work-and-office.md",      title:"Work & Office",               adult:false},
+ {file:"10-relationships-and-dating.md",title:"Relationships & Dating",   adult:false},
+ {file:"11-food-and-drink.md",       title:"Food & Drink",                adult:false},
+ {file:"12-science-and-math.md",     title:"Science & Math",              adult:false},
+ {file:"13-history-and-mythology.md",title:"History & Mythology",         adult:false},
+ {file:"14-sports-and-games.md",     title:"Sports & Games",              adult:false},
+ {file:"15-travel-and-geography.md", title:"Travel & Geography",          adult:false},
+ {file:"16-anti-jokes-and-meta.md",  title:"Anti‑Jokes & Meta",           adult:false},
+ {file:"17-knock-knock.md",          title:"Knock‑Knock",                 adult:false},
+ {file:"18-story-jokes.md",          title:"Story Jokes & Shaggy Dogs",   adult:false},
+ {file:"19-bar-jokes.md",            title:"Bar Jokes",                   adult:false},
+ {file:"20-existential-and-philosophical.md",title:"Existential & Philosophical",adult:false},
+ {file:"21-holidays-and-family.md",  title:"Holidays & Family",           adult:false},
+];
+const state={cats:[], all:[], read:0, ack:{}, current:null};
+
+/* ---------- parsing ---------- */
+function parseMd(text){
+  const out=[]; const re=/^(\d+)\.\s+(.+)$/gm; let m;
+  while((m=re.exec(text))!==null){ out.push({num:+m[1], text:m[2].trim()}); }
+  return out;
+}
+async function loadAll(){
+  const jobs=CATALOG.map(async (c,idx)=>{
+    try{
+      const r=await fetch("jokes/"+c.file,{cache:"no-cache"});
+      if(!r.ok) throw 0;
+      const jokes=parseMd(await r.text());
+      return {...c, idx, jokes};
+    }catch(e){ return {...c, idx, jokes:[]}; }
+  });
+  state.cats=await Promise.all(jobs);
+  state.all=[];
+  state.cats.forEach(c=>c.jokes.forEach(j=>state.all.push({cat:c,j})));
+  renderDrawers(); renderTotal(); seedTicker();
+}
+
+/* ---------- drawers ---------- */
+function renderDrawers(){
+  const wall=document.getElementById("drawers"); wall.innerHTML="";
+  state.cats.forEach(c=>{
+    if(!c.jokes.length) return;
+    const d=document.createElement("button");
+    d.className="drawer"; d.type="button";
+    d.innerHTML=
+      (c.adult?'<span class="tag18">18+</span>':"")+
+      '<span class="plate">'+c.title+'</span>'+
+      '<span class="count">'+String(c.jokes.length).padStart(3,"0")+' specimens</span>'+
+      '<span class="pull"></span>';
+    d.addEventListener("click",()=>{ d.classList.remove("opening"); void d.offsetWidth; d.classList.add("opening"); setTimeout(()=>openExhibit(c),260); });
+    wall.appendChild(d);
+  });
+  if(!wall.children.length)
+    wall.innerHTML='<p class="loading-note">The drawers are empty — if you are viewing this file directly, serve it over HTTP (or visit the GitHub Pages site) so the cabinet can fetch its jokes.</p>';
+}
+function renderTotal(){
+  const n=state.all.length;
+  document.getElementById("grand-total").textContent=
+    n>0 ? n.toLocaleString()+" SPECIMENS AND COUNTING" : "SPECIMENS IN TRANSIT";
+}
+
+/* ---------- exhibit / cards ---------- */
+const exhibit=document.getElementById("exhibit");
+function openExhibit(cat){
+  state.current=cat;
+  document.getElementById("exhibit-title").textContent="Exhibit: "+cat.title;
+  exhibit.classList.add("open");
+  if(cat.adult && !state.ack[cat.file]){ showNotice(cat); } else { dealFrom(cat); }
+}
+function showNotice(cat){
+  const card=document.getElementById("card");
+  card.classList.add("notice");
+  document.getElementById("card-cat").textContent="curator's notice";
+  document.getElementById("card-stamp").textContent="18+";
+  document.getElementById("card-joke").textContent=
+    "You are entering the "+cat.title+" wing. The specimens beyond this card are unmuzzled. "+
+    "Pearls may be clutched. Press “Deal another” to proceed of your own free will.";
+  redeal(card);
+  state.ack[cat.file]=true;
+}
+function dealFrom(cat){
+  const card=document.getElementById("card");
+  card.classList.remove("notice");
+  const pick=cat.jokes[Math.floor(Math.random()*cat.jokes.length)];
+  document.getElementById("card-cat").textContent=cat.title;
+  document.getElementById("card-stamp").textContent=
+    "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(pick.num).padStart(4,"0");
+  document.getElementById("card-joke").textContent=pick.text.split(" / ").join("\n");
+  redeal(card); tallyCramp();
+}
+function redeal(card){ card.classList.remove("dealt"); void card.offsetWidth; card.classList.add("dealt"); card.scrollTop=0; }
+
+document.getElementById("next-card").addEventListener("click",()=>{ if(state.current) dealFrom(state.current); });
+document.getElementById("exhibit-close").addEventListener("click",closeExhibit);
+document.getElementById("back-to-cabinet").addEventListener("click",closeExhibit);
+exhibit.addEventListener("click",e=>{ if(e.target===exhibit) closeExhibit(); });
+document.addEventListener("keydown",e=>{
+  if(!exhibit.classList.contains("open")) return;
+  if(e.key==="Escape") closeExhibit();
+  if(e.key===" "||e.key==="Enter"){ if(document.activeElement.tagName!=="BUTTON"){ e.preventDefault(); if(state.current) dealFrom(state.current);} }
+});
+function closeExhibit(){ exhibit.classList.remove("open"); state.current=null; }
+
+/* ---------- surprise knob ---------- */
+document.getElementById("random-knob").addEventListener("click",()=>{
+  if(!state.all.length) return;
+  const pick=state.all[Math.floor(Math.random()*state.all.length)];
+  state.current=pick.cat;
+  document.getElementById("exhibit-title").textContent="Exhibit: "+pick.cat.title;
+  exhibit.classList.add("open");
+  if(pick.cat.adult && !state.ack[pick.cat.file]){ showNotice(pick.cat); return; }
+  const card=document.getElementById("card");
+  card.classList.remove("notice");
+  document.getElementById("card-cat").textContent=pick.cat.title;
+  document.getElementById("card-stamp").textContent=
+    "SPEC. № "+String(pick.cat.idx+1).padStart(2,"0")+"‑"+String(pick.j.num).padStart(4,"0");
+  document.getElementById("card-joke").textContent=pick.j.text.split(" / ").join("\n");
+  redeal(card); tallyCramp();
+});
+
+/* ---------- cramp-o-meter ---------- */
+const DIAGNOSES=[
+ [0,"no symptoms yet"],[3,"faint smirk detected"],[8,"audible exhale"],
+ [15,"chuckles confirmed"],[30,"ribs registering complaints"],[60,"core muscles engaged"],
+ [100,"STOMACH CRAMP ACHIEVED 🏆"],[200,"beyond medical help — congratulations"]
+];
+function tallyCramp(){
+  state.read++;
+  const pct=Math.min(100, state.read);
+  document.getElementById("cramp-fill").style.width=pct+"%";
+  let label=DIAGNOSES[0][1];
+  for(const [n,l] of DIAGNOSES){ if(state.read>=n) label=l; }
+  document.getElementById("cramp-diagnosis").textContent=label+" · "+state.read+" read";
+}
+
+/* ---------- search ---------- */
+function runSearch(){
+  const q=document.getElementById("search-input").value.trim().toLowerCase();
+  const box=document.getElementById("results");
+  if(!q){ box.classList.remove("show"); box.innerHTML=""; return; }
+  const hits=state.all.filter(x=>x.j.text.toLowerCase().includes(q)).slice(0,40);
+  box.classList.add("show");
+  box.innerHTML="<h3>"+(hits.length?hits.length+" specimen"+(hits.length>1?"s":"")+" matched"
+    :"Nothing matched — a joke so unwritten even we haven't written it")+"</h3>"+
+    hits.map(x=>'<div class="hit">'+escapeHtml(x.j.text.split(" / ").join("\n"))+
+      "<small>"+x.cat.title+" · № "+x.j.num+"</small></div>").join("");
+  box.scrollIntoView({behavior:"smooth"});
+}
+function escapeHtml(s){ return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+document.getElementById("search-btn").addEventListener("click",runSearch);
+document.getElementById("search-input").addEventListener("keydown",e=>{ if(e.key==="Enter") runSearch(); });
+
+/* ---------- ticker ---------- */
+function seedTicker(){
+  const safe=state.cats.filter(c=>!c.adult).flatMap(c=>c.jokes);
+  if(!safe.length) return;
+  const picks=[]; for(let i=0;i<6;i++) picks.push(safe[Math.floor(Math.random()*safe.length)].text);
+  const el=document.getElementById("ticker-text");
+  el.textContent=picks.join("  ·  ")+"  ·  ";
+  el.style.animation="none"; void el.offsetWidth; el.style.animation="";
+}
+setInterval(seedTicker, 29000);
+
+/* ---------- theme ---------- */
+const root=document.documentElement, tbtn=document.getElementById("theme-toggle");
+function setTheme(t){ root.dataset.theme=t; tbtn.textContent=t==="dark"?"🔆 Day shift":"🕯️ After hours"; try{localStorage.setItem("cabinet-theme",t);}catch(e){} }
+tbtn.addEventListener("click",()=>setTheme(root.dataset.theme==="dark"?"light":"dark"));
+try{
+  const saved=localStorage.getItem("cabinet-theme");
+  if(saved) setTheme(saved);
+  else if(matchMedia("(prefers-color-scheme: dark)").matches) setTheme("dark");
+}catch(e){}
+
+loadAll();
+})();
+</script>
+</body>
+</html>
