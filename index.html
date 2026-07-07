@@ -246,6 +246,34 @@ h1 .flourish{ color:var(--brass-2); }
 .card.notice{text-align:center; display:flex; flex-direction:column; justify-content:center; gap:1em}
 .card.notice .joke{font-style:italic}
 
+/* ---------- voting ---------- */
+.votebar{display:flex; gap:.9rem; justify-content:center; align-items:center; margin-top:.9rem}
+.votebar.hidden{visibility:hidden}
+.vote{
+  width:46px; height:46px; border-radius:50%; cursor:pointer; font-size:1.15rem; line-height:1;
+  color:var(--brass-ink); border:1px solid var(--brass-3);
+  background:radial-gradient(circle at 35% 30%, var(--brass-1), var(--brass-2) 60%, var(--brass-3));
+  box-shadow:0 4px 9px rgba(0,0,0,.45), inset 0 1px 2px rgba(255,255,255,.5);
+  transition:transform .15s cubic-bezier(.34,1.56,.64,1);
+}
+.vote:hover{transform:translateY(-3px) scale(1.08)}
+.vote:active{transform:scale(.9)}
+.vote.up:hover{box-shadow:0 4px 12px rgba(90,180,90,.55), inset 0 1px 2px rgba(255,255,255,.5)}
+.vote.down:hover{box-shadow:0 4px 12px rgba(200,70,50,.55), inset 0 1px 2px rgba(255,255,255,.5)}
+.vote-score{
+  font-family:'Courier New',monospace; font-size:1.15rem; color:#e9ddc0; min-width:3.2ch; text-align:center;
+  text-shadow:0 2px 4px rgba(0,0,0,.6);
+}
+.vote-score.pos{color:#9fd18a} .vote-score.neg{color:#e58a77}
+.vote-hint{width:100%; text-align:center; color:rgba(233,221,192,.55); font-size:.72rem; font-style:italic; margin-top:.25rem}
+.hit .scorebadge{
+  float:right; margin-left:.8em; font-family:'Courier New',monospace; font-weight:bold; font-size:.85rem;
+  padding:.15em .55em; border-radius:999px; border:1px solid var(--brass-3);
+}
+.hit .scorebadge.pos{background:rgba(127,176,105,.2); color:#4c7a3d}
+.hit .scorebadge.neg{background:rgba(217,79,61,.18); color:var(--accent)}
+:root[data-theme="dark"] .hit .scorebadge.pos{color:#9fd18a}
+
 .table-actions{display:flex; gap:.8rem; justify-content:center; margin-top:1rem; flex-wrap:wrap}
 .btn{
   font:inherit; font-weight:bold; letter-spacing:.05em; cursor:pointer;
@@ -329,6 +357,7 @@ footer .plaque{
     <button id="search-btn">Seek</button>
   </div>
   <button class="theme-toggle" id="theme-toggle">🕯️ After hours</button>
+  <button class="theme-toggle" id="leaderboard-btn">🏆 Hall of Fame</button>
 </div>
 
 <section class="results" id="results" aria-live="polite"></section>
@@ -350,6 +379,12 @@ footer .plaque{
       <span class="catline" id="card-cat"></span>
       <span class="stamp" id="card-stamp"></span>
       <div class="joke" id="card-joke"></div>
+    </div>
+    <div class="votebar" id="votebar">
+      <button class="vote up" id="vote-up" aria-label="Vote this joke up">▲</button>
+      <span class="vote-score" id="vote-score">0</span>
+      <button class="vote down" id="vote-down" aria-label="Vote this joke down">▼</button>
+      <div class="vote-hint">vote as many times as your ribs demand — favorites rise, duds sink</div>
     </div>
     <div class="table-actions">
       <button class="btn" id="next-card">Deal another</button>
@@ -398,7 +433,25 @@ const CATALOG=[
  {file:"20-existential-and-philosophical.md",title:"Existential & Philosophical",adult:false},
  {file:"21-holidays-and-family.md",  title:"Holidays & Family",           adult:false},
 ];
-const state={cats:[], all:[], read:0, ack:{}, current:null};
+const state={cats:[], all:[], read:0, ack:{}, current:null, currentJoke:null};
+
+/* ---------- the ballot box (browser-local: your taste stays between you and your localStorage) ---------- */
+let votes={};
+try{ votes=JSON.parse(localStorage.getItem("cabinet-votes")||"{}")||{}; }catch(e){ votes={}; }
+function saveVotes(){ try{ localStorage.setItem("cabinet-votes",JSON.stringify(votes)); }catch(e){} }
+function vkey(cat,j){ return cat.file+"#"+j.num; }
+function scoreOf(cat,j){ return votes[vkey(cat,j)]||0; }
+/* upvoted specimens get dealt more often; downvoted ones sink toward the bottom of the drawer */
+function pickWeighted(items){
+  let total=0;
+  const ws=items.map(x=>{
+    const v=Math.max(-6,Math.min(6,scoreOf(x.cat,x.j)));
+    const w=Math.pow(1.6,v); total+=w; return w;
+  });
+  let r=Math.random()*total;
+  for(let i=0;i<items.length;i++){ r-=ws[i]; if(r<=0) return items[i]; }
+  return items[items.length-1];
+}
 
 /* ---------- parsing ---------- */
 function parseMd(text){
@@ -455,6 +508,7 @@ function openExhibit(cat){
 }
 function showNotice(cat){
   const card=document.getElementById("card");
+  state.currentJoke=null; updateVoteWidget();
   card.classList.add("notice");
   document.getElementById("card-cat").textContent="curator's notice";
   document.getElementById("card-stamp").textContent="18+";
@@ -467,7 +521,8 @@ function showNotice(cat){
 function dealFrom(cat){
   const card=document.getElementById("card");
   card.classList.remove("notice");
-  const pick=cat.jokes[Math.floor(Math.random()*cat.jokes.length)];
+  const pick=pickWeighted(cat.jokes.map(j=>({cat,j}))).j;
+  state.currentJoke={cat,j:pick}; updateVoteWidget();
   document.getElementById("card-cat").textContent=cat.title;
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(pick.num).padStart(4,"0");
@@ -490,19 +545,62 @@ function closeExhibit(){ exhibit.classList.remove("open"); state.current=null; }
 /* ---------- surprise knob ---------- */
 document.getElementById("random-knob").addEventListener("click",()=>{
   if(!state.all.length) return;
-  const pick=state.all[Math.floor(Math.random()*state.all.length)];
+  const pick=pickWeighted(state.all);
   state.current=pick.cat;
   document.getElementById("exhibit-title").textContent="Exhibit: "+pick.cat.title;
   exhibit.classList.add("open");
   if(pick.cat.adult && !state.ack[pick.cat.file]){ showNotice(pick.cat); return; }
   const card=document.getElementById("card");
   card.classList.remove("notice");
+  state.currentJoke=pick; updateVoteWidget();
   document.getElementById("card-cat").textContent=pick.cat.title;
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(pick.cat.idx+1).padStart(2,"0")+"‑"+String(pick.j.num).padStart(4,"0");
   document.getElementById("card-joke").textContent=pick.j.text.split(" / ").join("\n");
   redeal(card); tallyCramp();
 });
+
+/* ---------- vote widget ---------- */
+function updateVoteWidget(){
+  const bar=document.getElementById("votebar"), s=document.getElementById("vote-score");
+  if(!state.currentJoke){ bar.classList.add("hidden"); return; }
+  bar.classList.remove("hidden");
+  const v=scoreOf(state.currentJoke.cat,state.currentJoke.j);
+  s.textContent=(v>0?"+":"")+v;
+  s.className="vote-score"+(v>0?" pos":v<0?" neg":"");
+}
+function castVote(dir){
+  if(!state.currentJoke) return;
+  const k=vkey(state.currentJoke.cat,state.currentJoke.j);
+  votes[k]=Math.max(-99,Math.min(99,(votes[k]||0)+dir));
+  if(!votes[k]) delete votes[k];
+  saveVotes(); updateVoteWidget();
+}
+document.getElementById("vote-up").addEventListener("click",()=>castVote(1));
+document.getElementById("vote-down").addEventListener("click",()=>castVote(-1));
+
+/* ---------- hall of fame / compost bin ---------- */
+function renderLeaderboard(){
+  const box=document.getElementById("results");
+  const byKey={};
+  state.all.forEach(x=>{ byKey[vkey(x.cat,x.j)]=x; });
+  const ranked=Object.entries(votes)
+    .map(([k,v])=>({x:byKey[k], v})).filter(e=>e.x&&e.v);
+  const top=ranked.filter(e=>e.v>0).sort((a,b)=>b.v-a.v).slice(0,20);
+  const bottom=ranked.filter(e=>e.v<0).sort((a,b)=>a.v-b.v).slice(0,20);
+  box.classList.add("show");
+  const hit=e=>'<div class="hit"><span class="scorebadge '+(e.v>0?"pos":"neg")+'">'+(e.v>0?"+":"")+e.v+"</span>"+
+    escapeHtml(e.x.j.text.split(" / ").join("\n"))+
+    "<small>"+e.x.cat.title+" · № "+e.x.j.num+"</small></div>";
+  box.innerHTML=
+    (!ranked.length)
+    ? "<h3>The ballot box is empty</h3><p style='text-align:center;font-style:italic'>Pull a drawer, read a card, and pass judgment with ▲ or ▼ — your favorites will rise here (and get dealt more often), your victims will sink below (and be dealt less).</p>"
+    : "<h3>🏆 Risen to the Top</h3>"+(top.length?top.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing upvoted yet.</p>")+
+      "<h3>🗑️ The Compost Bin</h3>"+(bottom.length?bottom.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing downvoted yet — generous crowd.</p>")+
+      "<p style='text-align:center;font-style:italic;font-size:.8rem'>Rankings live in this browser — the museum keeps no central ledger of your taste.</p>";
+  box.scrollIntoView({behavior:"smooth"});
+}
+document.getElementById("leaderboard-btn").addEventListener("click",renderLeaderboard);
 
 /* ---------- cramp-o-meter ---------- */
 const DIAGNOSES=[
