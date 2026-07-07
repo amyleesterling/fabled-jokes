@@ -22,7 +22,7 @@
 18. Dad carves the turkey like a surgeon and the conversation like a lumberjack.
 19. Every year someone suggests Friendsgiving instead, and every year guilt wins by a landslide.
 20. Our family's Thanksgiving tradition is watching football, eating too much, and pretending the toast wasn't aimed at anyone specific.
-21. Christmas logistics in my family require the strategic planning of D-Day and the emotional resilience of a customer service rep in December.
+21. Our family Christmas schedule is finalized in October, laminated in November, and abandoned by 9 a.m. on the 25th when Grandma unilaterally moves dinner.
 22. We drew names for Secret Santa, and my mother immediately launched an investigation with the thoroughness of a federal agency.
 23. My family's Christmas Eve schedule has more time zones than an airline and less flexibility.
 24. "We'll do Christmas morning at your place" is how my in-laws declare war while smiling.
@@ -32,11 +32,11 @@
 28. Wrapping presents at 2 a.m. on Christmas Eve is my cardio, my therapy, and my annual crisis of faith in tape.
 29. The Elf on the Shelf is just a middle manager we hired to surveil our children so we don't have to parent in December.
 30. Every Christmas my dad says "we're keeping it small this year" while ordering a turkey the size of a labrador.
-31. The true meaning of Christmas is realizing at 4 p.m. on the 24th that you forgot batteries, again, like every year, forever.
+31. The true meaning of Christmas is prying the batteries out of the smoke detector at midnight so the robot dinosaur can live.
 32. My family opens one present on Christmas Eve, which is how we quality-test the disappointment before the main event.
 33. Untangling Christmas lights is the only marital counseling my parents have ever attended.
 34. My in-laws and my parents both claim Christmas Day, so we celebrate the birth of Christ with a custody arrangement.
-35. Nothing says "holiday magic" like driving four hours to watch your uncle fall asleep in front of a game no one is watching.
+35. Every year we drive four hours to watch Uncle Ted sleep through the game, which Mom insists still counts as visiting, and technically she's right: it's a viewing.
 36. The family gift exchange has a twenty-dollar limit and an unlimited capacity for judgment.
 37. My grandmother wraps presents so tightly I'm convinced she's mad at us specifically.
 38. Christmas morning is thirty seconds of joy per child followed by six hours of finding tiny plastic pieces with your bare feet.
@@ -103,7 +103,7 @@
 99. My son asked where babies come from, and I gave a speech so evasive I could run for office.
 100. I finally understand my parents now, which is the cruelest thing my children have ever done to me.
 101. The school called to discuss my son's behavior, and I asked if we could also discuss whose genes were responsible, because I have theories.
-102. Parenting means owning forty sippy cups and being able to locate zero of them.
+102. We own forty sippy cups: thirty-nine are under the car seats evolving new milk, and the last one is the wrong color, so per my toddler we have never owned a sippy cup at all.
 103. My daughter drew our family, and I'm honored to report I appear as a large potato holding coffee.
 104. The hardest part of parenting is not laughing at the exact moment discipline is required.
 105. I used to have hobbies; now I have children with hobbies and a car that smells like a locker room.
@@ -128,7 +128,7 @@
 124. Toddler logic: refuses to wear a coat in winter, insists on rain boots at a wedding.
 125. The most dangerous phrase in my house is a toddler saying "I do it myself" near anything liquid.
 126. My toddler gave up napping the same week I finally understood why naps exist.
-127. Teenagers are proof that you can love someone who communicates exclusively in door slams and shrugs.
+127. My teenager communicates in door slams, and I've learned the dialect: one slam means "fine," two means "you've ruined my life," and silence means he's already out the window.
 128. My teenager says "nothing's wrong" with the emotional range of a haunted house.
 129. Raising a teenager means paying for a phone so someone can ignore your calls on it.
 130. My teenage son's room smells like a science experiment that's about to earn tenure.
@@ -477,7 +477,7 @@
 473. My cousin and I bonded for life the summer we jointly denied breaking the garage window, and our pact has outlasted two of his marriages.
 474. The cousin hierarchy is set in childhood: whoever controlled the video games then controls the reunion playlist now.
 475. Family holidays with divorced parents means two Thanksgivings, two Christmases, and one child doing shuttle diplomacy with a suitcase.
-476. My blended family holiday schedule requires color-coded calendars, three time slots, and the diplomatic instincts of a UN veteran.
+476. My stepson gets four Christmases across our blended family, and every year he tells us the arrangement is "really hard on him," from under a new PlayStation.
 477. My stepdad and my dad get along great, which everyone says is wonderful and my mother finds vaguely insulting.
 478. Co-parenting during the holidays means negotiating custody of Christmas morning like it's beachfront property.
 479. My half-brother, stepsister, and I made a family tree for school, and the teacher gave us extra credit and a counselor's card.
@@ -503,7 +503,7 @@
 499. We gave the baby a family name, which satisfied one grandmother and started a forty-year cold front with the other.
 500. A baby's first laugh gets forty replays in the group chat; the parent's first full night of sleep gets a moment of silence, eventually, someday.
 501. My family whispers around the sleeping baby and then lets the dog bark like it pays rent.
-502. The holiday season with a newborn means celebrating three time zones of feedings in one house with mandatory cheer.
+502. Our newborn slept through the entire Christmas dinner and woke up screaming the second I sat down with my plate, because babies don't have schedules; they have surveillance.
 503. Everyone says "sleep when the baby sleeps," which is easy: the baby sleeps in the car, at 2 p.m., for nine minutes.
 504. Family advice on the baby comes in one flavor: contradiction, served warm, with a side of "well, YOU turned out fine."
 505. Our family holiday card ranks the household: kids first, dog centered, parents cropped like witnesses in a documentary.

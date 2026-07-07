@@ -15,7 +15,7 @@
 11. My travel influencer friend calls it "van life," but the van calls it "hostage situation with mood lighting."
 12. Every hostel has one guy playing acoustic guitar like the building's lease depends on it.
 13. The cruise ship buffet is open twenty-four hours because the sea is vast but the human capacity for shrimp is vaster.
-14. I love how the airline says "we know you have a choice" right after proving I absolutely did not.
+14. The airline says "we know you have a choice when you fly," and they're right: window or aisle.
 15. A map is just a piece of paper that's confident, which already makes it more qualified than me.
 16. The hotel minibar charges twelve dollars for peanuts because grief is expensive.
 17. My luggage got rerouted to a city I've never mentioned aloud, which suggests it's not lost, it's hiding.
@@ -32,7 +32,7 @@
 28. I packed light for once, and my luggage rewarded me by staying behind out of spite for the demotion.
 29. The window seat gets the view, the aisle gets the freedom, and the middle gets the character development.
 30. Cruise ships are hotels that got tired of waiting for you to come to them and committed to the bit.
-31. Every road trip has a moment where the snacks become dinner and nobody acknowledges it.
+31. Road trips operate under maritime law: forty miles from the nearest real restaurant, the snacks are legally promoted to dinner and the driver performs the ceremony.
 32. The airport is the only place where a salad costs nineteen dollars and you say "fine" out loud, to no one.
 33. My hotel room key stopped working because I put it next to my phone, my other key, my wallet, and apparently my hopes.
 34. Google Maps said "you have arrived," and honestly, standing in that parking lot at midnight, I had never felt further from arrival.
@@ -60,15 +60,15 @@
 56. My luggage was the first one out at baggage claim once, and I photographed it like a solar eclipse.
 57. The exit row speech asks if I'm willing and able to assist, and legally I said yes, but spiritually I'm a carry-on.
 58. Travel-size toiletries are proof we'll pay double for less if the bottle is cute enough.
-59. The hotel hairdryer is attached to the wall, wired to the 1980s, and powered by disappointment.
-60. Every airport has a gate that's technically in another county, and it's always yours.
+59. The hotel hairdryer is bolted to the wall to prevent theft, a security measure on par with chaining up a kazoo.
+60. My gate was so deep in the terminal that first the shops thinned out, then the carpet ended, and the last stretch was just frontier.
 61. I speak four languages: English, bad restaurant French, pointing, and the universal sign for "where is the bathroom, this is urgent."
 62. The seat recline debate ends the moment you feel knees in your kidneys and become a philosopher of mutual destruction.
 63. "Walking distance" in a travel guide is measured by someone who has never carried a backpack, a grudge, or a child.
 64. The airport announcement voice says "final boarding call" like a lullaby and "unattended bags will be destroyed" like a birthday toast.
 65. Souvenirs are just receipts you display, proving you paid forty euros to remember a place you complained about the whole time.
 66. My hotel had a rooftop bar, which is where I learned "sweeping views" means "you can see the other hotel's better rooftop bar."
-67. Long-haul flights serve dinner at 4 p.m., breakfast at midnight, and existential dread on a continuous loop.
+67. Long-haul flights serve dinner at 4 p.m. and breakfast at midnight, because whoever controls the meals controls what time it is, and the airline knows it.
 68. The rental car agent offered me insurance with the energy of a man who has seen how I merge.
 69. A road atlas never once said "recalculating," it just let your family scream at each other with dignity, the old way.
 70. Airport chapels exist for people of all faiths, but mostly for people whose connection is in Terminal F and they're in Terminal A.
@@ -83,7 +83,7 @@
 79. "Continental breakfast" is French for "we found croissants somewhere and it wasn't a bakery."
 80. My passport photo looks like I was caught doing something, and after nine hours in economy, the resemblance is finally accurate.
 81. The equator is an imaginary line, which makes it the only part of my itinerary that behaved as advertised.
-82. I love hotel checkout time: 11 a.m. sharp for me, "whenever housekeeping gets there" for the room being ready in the first place.
+82. Checkout is 11 and check-in is 4, so every hotel room sits unclaimed for five hours a day, which I assume is when the decorative pillows breed.
 83. The flight tracker showed our plane doing a small loop over the airport, which is aviation for "the pilot also can't find parking."
 84. A "quick stop for gas" on a road trip is forty minutes, two slushies, one questionable hot dog, and a keychain shaped like the state.
 85. My luggage arrived three days late with a sticker from an airport in a country that requires a visa, so at least one of us is living.
@@ -125,7 +125,7 @@
 121. I planned a relaxing vacation, and the itinerary relaxing me had activities scheduled in fifteen-minute blocks with two contingency museums.
 122. The plane wifi costs nineteen dollars and delivers your emails one word at a time, like a telegram from a sender who hates you.
 123. Everyone on a cruise dresses up for formal night, which is beautiful, watching a thousand people in gowns and tuxes line up for soft serve.
-124. The airport lounge had free snacks, quiet chairs, and showers, so naturally my membership let me in to none of it.
+124. My credit card promised airport lounge access, and technically it delivered: I now get rejected somewhere much quieter, by staff with better lighting.
 125. My friend moved abroad "for the culture" and now his entire personality is telling me what time it is where he lives.
 126. The trail marker said "viewpoint 0.5 km," and it was the longest half kilometer of my life, uphill, both directions, somehow.
 127. Lost luggage compensation forms ask you to list the bag's contents, which is how the airline learns you can't remember owning anything.
@@ -147,7 +147,7 @@
 143. The hotel hallway has forty identical doors and mine is the one my key disagrees with.
 144. I bought travel insurance that covers everything except the things that happen, a niche it dominates.
 145. The seat pocket says "life vest under your seat," and I checked, and I choose to believe them, which is what faith is.
-146. Glaciers move faster than the boarding process and complain less.
+146. Boarding proceeds in geological eras: Group 1 is the Cretaceous, Group 5 is the Ice Age, and by Group 9 the overhead bins are the fossil record.
 147. My travel journal has one entry that says "day one, exhausted, will write more tomorrow," in nine different countries.
 148. The "family-friendly resort" review section is just parents rating the kids' club like it's a parole board.
 149. Currency exchange booths give a rate so bad it should legally be called a performance piece.
@@ -230,7 +230,7 @@
 226. The bed and breakfast owner asked what time I wanted breakfast, and the correct answer was apparently "when SHE wanted breakfast."
 227. Airplane coffee tastes like it was brewed at altitude by someone who fears coffee, and I order it every single flight.
 228. The tourist trap restaurant had photos of the food on the menu, which is a warning label politely disguised as a design choice.
-229. My international data plan offered a gigabyte of "high-speed data," which lasted exactly one round of directions and half a photo upload.
+229. My international data plan includes a gigabyte of high-speed data, and the plan defines "includes" the way a claw machine defines "wins."
 230. The trailhead sign listed the summit at 3.2 miles, and the trail listed it at whatever it felt like, mile by mile, like a negotiation.
 231. Hotel room numbers follow no known mathematics: 412 is next to 418, across from 407, and my room is behind the ice machine in a hallway from a dream.
 232. The ferry's "light refreshments" were a coffee urn and a basket of crackers with a maritime past.
@@ -512,7 +512,7 @@
 508. The vacation rental's checkout list includes stripping beds, running the dishwasher, and taking out trash, at which point the cleaning fee becomes a tip for supervision.
 509. The city's love-lock bridge groans under ten tons of padlocks, the only infrastructure failing from commitment.
 510. My travel strategy of "we'll find parking when we get there" has a documented success rate, and the documents are parking tickets.
-511. The airport gate's seat design ensures no human can lie down, a triumph of engineering over the one thing everyone there wants.
+511. During my delay, one man defeated the gate's anti-sleep armrests by lying flat across three seats like a fakir on a bed of nails, and the rest of us studied his technique like game film.
 512. The tour boat's "guaranteed dolphin sighting" fine print defines dolphin as "marine activity," and defines sighting as "the captain pointing."
 513. Hotel room searches follow protocol: safe, drawers, under the bed, and one final sweep where you find the previous guest's phone charger, your inheritance.
 514. The high-altitude town's welcome sign lists the elevation first and the population second, because up there, oxygen is the bigger celebrity.

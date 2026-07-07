@@ -32,7 +32,7 @@
 29. Online dating taught me that the human body can produce infinite fish photos.
 30. We're in a long-distance relationship: he's in the living room and I'm still mad in the kitchen.
 31. My ex texted "I miss us," and I replied "us who," because I also remember us.
-32. Dating apps ask what I'm looking for, and honestly, at this point, proof of life.
+32. Dating apps ask what I'm looking for, so I typed "a man with a bed frame," and the app quietly expanded my search radius to four states.
 33. Marriage means never having to finish a sentence, because your spouse already disagrees with where it was going.
 34. She said she wanted a man who could handle her at her worst, and I said, ma'am, this is a first date, pace yourself.
 35. Couples therapy is expensive, but so is dividing furniture, so really we're just comparison shopping.
@@ -376,7 +376,7 @@
 373. My mother-in-law brought her own seasoning to my dinner party, in her purse, like a food critic with a vendetta.
 374. He love-bombed me for three weeks, then went quiet like a firework: loud, bright, and suddenly just smoke and neighbors asking if I'm okay.
 375. Our shared bank account has an emoji in the name, which was cute until the overdraft notice arrived, also, somehow, cute.
-376. She wanted to "keep things light," so I stopped carrying the conversation, and it turns out light meant weightless, and weightless meant nothing was holding it up.
+376. She wanted to "keep things light," so I never unpacked my boxes, and when she asked why, I said we're both just staging this place for the next tenant.
 377. Marriage means one person is the historian and one is the defendant, and the roles rotate without notice.
 378. My ex said he needed to find himself, and he did: on three apps, under two different names, with one new haircut.
 379. First dates should come with a intermission, so both parties can call their group chats for coaching.
@@ -440,7 +440,7 @@
 437. My mother-in-law signs her texts "Mom," in quotes, and I've spent years decoding the punctuation.
 438. He said, "I don't need therapy, I have the gym," and his deadlift is impressive, but it never once asked him about his father.
 439. Our first fight as a married couple was in the parking lot of the reception, over who forgot the card box, and the marriage has been faithful to that theme.
-440. Dating in the digital age means your relationship can be long-distance even when you live together, depending on the Wi-Fi and the mood.
+440. My boyfriend and I do long-distance from the same apartment: he's on his headset in the office, I'm in the bedroom, and last night he liked my post from twelve feet away, which in this house counts as a kiss goodnight.
 441. My boyfriend cooks with every pot we own, like the meal is being catered for the pots.
 442. She said, "Tell me something nobody knows about you," and I did, and now two people are uncomfortable at this Olive Garden.
 443. The ex who "wasn't ready for commitment" now posts weekly about his sourdough starter, which he has kept alive longer than us.
@@ -450,7 +450,7 @@
 447. My girlfriend claims she's "not competitive," and our Monopoly set is in two households now.
 448. Love is sharing your fries without doing inventory, and marriage is doing inventory anyway, out loud, as a bit, for years.
 449. He put his location as "everywhere and nowhere," which turned out to mean his mom's basement in a suburb with excellent schools.
-450. The wedding toast from his college roommate told me more about my husband in four minutes than three years of dating had.
+450. The wedding toast from his college roommate opened with, "First of all, the charges were dropped," and my mother set down her fork and never picked it up again.
 451. My ex said, "I'll always care about you," which is what people say when they've switched you to their loyalty program.
 452. We downloaded a couples app to sync our schedules, and now the app knows we're avoiding each other with impressive coordination.
 453. She wanted a man in touch with his feelings, and I'm in touch with them the way I'm in touch with my cousin: holidays, briefly, with dread.

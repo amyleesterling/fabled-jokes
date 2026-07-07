@@ -58,8 +58,8 @@
 54. I don't need anger management; I need people to manage their behavior around my anger.
 55. My ancestors crossed oceans so I could argue with strangers about whether a hot dog is a sandwich.
 56. I put my toddler's art on the fridge to remind him that even his best work gets covered by magnets eventually.
-57. I bought a treadmill desk and now I'm exhausted and behind on everything at the same time.
-58. My phone autocorrected "I'm fine" to "I'm find," and even the algorithm knows I'm lost.
+57. I bought a treadmill desk so I could finally run from my responsibilities without missing a meeting.
+58. My phone autocorrected "I'm fine" to "I'm fired," and by Friday it had been upgraded from typo to prophecy.
 59. I told the barista my name was Voldemort just to hear someone finally say it.
 60. I have a personal trainer, and by that I mean a dog who screams at six a.m.
 61. I keep a gratitude journal, and today's entry is just the word "caffeine" underlined twice.
@@ -75,7 +75,7 @@
 71. My yoga instructor said to release everything that doesn't serve me, so I exhaled and left the class.
 72. I entered a sarcasm contest and told the judges they were doing a great job.
 73. My weather app just says "why bother" for the whole week.
-74. I set my alarm ringtone to my own voicemail greeting so I wake up already disappointed in myself.
+74. I set my alarm ringtone to my doorbell, and now I wake up instantly and lie very still until morning gives up and leaves.
 75. The escape room employee said my time was the fastest they'd seen, but my family is still in there.
 76. I whitened my teeth so at least one part of my dark humor would land.
 77. I asked for a raise and my boss gave me a rousing speech about family, which I forwarded to my actual family as a warning.
@@ -277,7 +277,7 @@
 273. I keep a to-do list so my anxiety has a table of contents.
 274. My smoke alarm doubles as a dinner bell.
 275. I asked my grandpa the secret to his long marriage, and he said, "we never sleep angry, which is why I haven't slept since 1987."
-276. The motivational calendar in my office is stuck on March, and so am I.
+276. The motivational calendar in my office is stuck on March, and I've started lying to it about how the year turned out.
 277. I bought a kayak to find inner peace, and now I have inner peace and outer drowning.
 278. My kid told his teacher I work "on the computer," which is the most flattering description of crying into spreadsheets I've heard.
 279. I don't need a life coach; I need a life referee, someone to blow a whistle when the fouls start.
@@ -340,7 +340,7 @@
 336. My deodorant promises 48-hour protection, which means it knows something about my weekends.
 337. I finally cleaned under the bed and found three pens, a sock, and a decade.
 338. My dog has a therapist now, and the therapist says the problem is me, and the dog agrees, in writing, somehow.
-339. I bought a rowing machine, and it's rowing nowhere, which we have in common.
+339. I bought a rowing machine, and my downstairs neighbors have started wearing life jackets.
 340. My family's group chat has a mute button and a martyr complex.
 341. I asked the sommelier what pairs with despair, and he said "the house red, generously."
 342. My alarm clock's snooze button has a groove shaped like my thumb and my future.
