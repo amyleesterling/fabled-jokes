@@ -147,7 +147,7 @@
 143. The hotel hallway has forty identical doors and mine is the one my key disagrees with.
 144. I bought travel insurance that covers everything except the things that happen, a niche it dominates.
 145. The seat pocket says "life vest under your seat," and I checked, and I choose to believe them, which is what faith is.
-146. Glaciers move faster than the boarding process and complain less.
+146. Boarding proceeds in geological eras: Group 1 is the Cretaceous, Group 5 is the Ice Age, and by Group 9 the overhead bins are the fossil record.
 147. My travel journal has one entry that says "day one, exhausted, will write more tomorrow," in nine different countries.
 148. The "family-friendly resort" review section is just parents rating the kids' club like it's a parole board.
 149. Currency exchange booths give a rate so bad it should legally be called a performance piece.
@@ -230,7 +230,7 @@
 226. The bed and breakfast owner asked what time I wanted breakfast, and the correct answer was apparently "when SHE wanted breakfast."
 227. Airplane coffee tastes like it was brewed at altitude by someone who fears coffee, and I order it every single flight.
 228. The tourist trap restaurant had photos of the food on the menu, which is a warning label politely disguised as a design choice.
-229. My international data plan offered a gigabyte of "high-speed data," which lasted exactly one round of directions and half a photo upload.
+229. My international data plan includes a gigabyte of high-speed data, and the plan defines "includes" the way a claw machine defines "wins."
 230. The trailhead sign listed the summit at 3.2 miles, and the trail listed it at whatever it felt like, mile by mile, like a negotiation.
 231. Hotel room numbers follow no known mathematics: 412 is next to 418, across from 407, and my room is behind the ice machine in a hallway from a dream.
 232. The ferry's "light refreshments" were a coffee urn and a basket of crackers with a maritime past.
@@ -512,7 +512,7 @@
 508. The vacation rental's checkout list includes stripping beds, running the dishwasher, and taking out trash, at which point the cleaning fee becomes a tip for supervision.
 509. The city's love-lock bridge groans under ten tons of padlocks, the only infrastructure failing from commitment.
 510. My travel strategy of "we'll find parking when we get there" has a documented success rate, and the documents are parking tickets.
-511. The airport gate's seat design ensures no human can lie down, a triumph of engineering over the one thing everyone there wants.
+511. During my delay, one man defeated the gate's anti-sleep armrests by lying flat across three seats like a fakir on a bed of nails, and the rest of us studied his technique like game film.
 512. The tour boat's "guaranteed dolphin sighting" fine print defines dolphin as "marine activity," and defines sighting as "the captain pointing."
 513. Hotel room searches follow protocol: safe, drawers, under the bed, and one final sweep where you find the previous guest's phone charger, your inheritance.
 514. The high-altitude town's welcome sign lists the elevation first and the population second, because up there, oxygen is the bigger celebrity.

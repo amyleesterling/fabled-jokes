@@ -503,7 +503,7 @@
 499. We gave the baby a family name, which satisfied one grandmother and started a forty-year cold front with the other.
 500. A baby's first laugh gets forty replays in the group chat; the parent's first full night of sleep gets a moment of silence, eventually, someday.
 501. My family whispers around the sleeping baby and then lets the dog bark like it pays rent.
-502. The holiday season with a newborn means celebrating three time zones of feedings in one house with mandatory cheer.
+502. Our newborn slept through the entire Christmas dinner and woke up screaming the second I sat down with my plate, because babies don't have schedules; they have surveillance.
 503. Everyone says "sleep when the baby sleeps," which is easy: the baby sleeps in the car, at 2 p.m., for nine minutes.
 504. Family advice on the baby comes in one flavor: contradiction, served warm, with a side of "well, YOU turned out fine."
 505. Our family holiday card ranks the household: kids first, dog centered, parents cropped like witnesses in a documentary.
