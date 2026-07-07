@@ -402,3 +402,125 @@
 398. Sex bingo with my husband has one square: "Tuesday," and we still don't always get a full card.
 399. My penis entered its flop era with the confidence of a sequel nobody greenlit.
 400. Four hundred deep and still going — which is, coincidentally, the dirtiest sentence in this entire file.
+401. My erection texts "on my way" and then never leaves the house, like everyone else I love.
+402. The gyno's stirrups, my bike, and my last relationship: three places I've been uncomfortable while someone said "almost done."
+403. His penis was so average it should have run for local office: forgettable, functional, and I only noticed it during elections.
+404. Our sex life is farm-to-table: organic, seasonal, and there's a three-week wait.
+405. I moaned my own name in bed once, and honestly, at least somebody in that room meant it.
+406. My balls are the two most co-dependent things I own: can't be separated, hate each other in cold weather, cling in a crisis.
+407. Her safeword is "pineapple," mine is "okay you win," and marriage is knowing they get used equally.
+408. Sexting at work is thrilling until you paste it into the all-hands chat, and now the whole company knows I call it "the board meeting."
+409. My prostate is the only stakeholder my doctor consults annually, and it never has notes, just feedback.
+410. He said "I'll make you forget your ex," and he did — the amnesia covered my ex, my name, and forty minutes I want back.
+411. Shower head technology has advanced faster than my husband, and only one of them has a pulse setting.
+412. My virginity story involves a futon, a Dave Matthews CD, and an apology that we renew annually like a timeshare.
+413. Sex in the kitchen ends one of two ways: dessert, or explaining the dent in the flour bag to a nine-year-old detective.
+414. My penis and my phone battery both drop to one percent the moment I leave the house with plans.
+415. The dominatrix asked about my pain tolerance, and I said "I have a group text with both exes," and she waived the fee.
+416. Our reverse cowgirl attempt ended with a pulled hamstring and a genuine moment of eye contact with the cat, and only one of us recovered.
+417. My orgasm has terms and conditions, and like everyone else, my husband scrolled to the bottom and clicked "accept" without reading.
+418. His name tattooed above my ass was a mistake; luckily his name was "Ryan" and so is the next one's, because I plan ahead now.
+419. Naked cooking taught me the erotic power of an apron and the legal definition of "grease splash zone."
+420. My weed guy and my libido have the same schedule, which is either a coincidence or a business model.
+421. Foreplay with my wife starts at breakfast: I unload the dishwasher slowly, maintaining eye contact, flexing nothing because there's nothing to flex, and it works.
+422. My testicle ultrasound tech said "cough," and I said "buy me dinner first," and she said "this is dinner for me," and I've never respected anyone more.
+423. Sex with a drummer is all rhythm and no dynamics: same tempo, too loud, and he finishes with a solo nobody requested.
+424. My body is a temple: ancient, drafty, and the pillars out front stopped standing decades ago.
+425. Her toy drawer has a waitlist, an org chart, and a device that outranks me in three categories including "attendance."
+426. We tried the Kama Sutra alphabetically and got divorced at "D," which the lawyer said was at least efficient.
+427. My erection during the massage was mortifying, mostly because the massage was for my wife and I was reading in the waiting room.
+428. Pillow princess is a slur for what I actually am: a mattress monarch, a duvet dignitary, horizontally sovereign.
+429. My penis is like a groundhog: emerges once a year, sees its shadow, and we all get six more weeks of nothing.
+430. Sex noise complaints from the neighbors stopped when they realized the rhythmic banging was me assembling furniture alone, weeping, which they said was worse.
+431. His tongue game was so good I forgot my Social Security number, which he then asked for, which is how I learned about romance scams.
+432. My cervix has met more professionals than my LinkedIn, and every single one of them said "you'll feel a little pressure."
+433. Marriage after twenty years: we still have sex weekly — weakly, feebly, one might say faintly, but the adverb survives.
+434. The condom aisle asks bigger questions than church: magnum or honest, ribbed for whose pleasure, and where does the XL confidence come from.
+435. My orgasm is a group project: I do all the work, someone else takes credit, and the professor gives us both a C.
+436. His penis piercing was called a "Prince Albert," and like most royals, it was decorative, expensive, and caused problems at airports.
+437. Sober, I'm a gentleman; two drinks in, I'm a poet; four drinks in, I'm a cautionary tale my penis tells other penises.
+438. My kegels are so advanced I can applaud a performance no one else attended.
+439. Shower sex checklist: waterproof lube, grip mat, realistic goals, and a towel for crying in after the second knee pop.
+440. She said "impress me," so I lasted eleven minutes, and she said "with your clothes on we could have watched half a show."
+441. My balls have a two-party system: lefty hangs low and does nothing, righty is uptight and does nothing, and every four years my doctor audits both.
+442. The erotic bakery made my wife a cake shaped like me naked, and the baker added "artistic license" and four inches, and I tipped him for the fiction.
+443. Post-nut clarity hit so hard last Tuesday I finally understood my taxes, my father, and why she actually left.
+444. My dirty talk is region-locked: works in hotel rooms, buffers at home, unavailable at her mother's house.
+445. Sex with the socks on, we finish in four minutes; socks off, six — my feet were carrying the team's cardio.
+446. Her moan woke the dog, the dog woke the baby, the baby woke the whole street, and that domino run is our last completed act of passion.
+447. My proctologist said "you'd be surprised what I find in here," and I said "hope, doc, is it hope?" and he charged me for two visits.
+448. I role-played as a plumber and actually fixed the sink first, and my wife said the foreplay had never been so effective or so billed.
+449. My penis has an understudy: my personality, and critics agree the understudy carries the whole run.
+450. The wet spot has a name now, a birthday, and a side of the bed, and legally it's been there long enough to claim tenancy.
+451. My sex tape is fifty minutes long: three minutes of action, forty-seven of us finding our glasses and discussing dinner.
+452. She likes bad boys, so I told her I've never once returned a shopping cart, and we were engaged by spring.
+453. His O-face triggered my fight-or-flight, and reader, I flew, and the Uber driver said I wasn't the first from that address.
+454. My libido and my houseplants die from the same two causes: neglect, and then panicked overwatering.
+455. Anniversary sex hits different: same person, same position, but now the candles are for the smell of the dog.
+456. My erection is loyal to a fault: it shows up for the 6 a.m. shift no one scheduled and calls in sick for every actual event.
+457. The gyno said "scoot down," the universal cue for the least sexy choreography a woman ever performs on a table with a paper runway.
+458. His dirty talk was all questions — "you like that? is this good? should I keep going?" — sir, this is intercourse, not a customer satisfaction survey.
+459. My balls thermoregulate better than my house, and neither of them consulted me about the energy bill.
+460. Bought a "couples' massage candle," burned it, poured it, screamed — turns out the regular candle was next to it, and our safeword is now "read the label."
+461. My orgasm files a flight plan, taxis for forty minutes, and gets rerouted to a nap in another city.
+462. Skinny jeans give me camel toe, which my wife calls "false advertising" and my tailor calls "sir, please stop coming here."
+463. We tried edging, and I edged so long the mood expired, the lube expired, and my wife renewed her library books from bed.
+464. My penis is a rescue: nobody knows its history, it's scared of fireworks, and it takes months to warm up to new people.
+465. She wanted a silver fox, and I'm more of a gray possum: plays dead in emergencies, screams at night, oddly proud of it.
+466. Sex ed never covered the real stuff: how to un-stick a leather couch from your ass mid-act without breaking eye contact or skin.
+467. His penis was named after a sword, which was accurate: kept in a sheath, drawn ceremonially, and dull from never touching anything.
+468. My wife's dirty talk peaked at "the kids are asleep," five syllables that outperform anything ever whispered in French.
+469. Sixty-nine at our age requires an osteopath's clearance, a printed diagram, and a mutual agreement to just do sixty-eight: one of us naps.
+470. My pubes went through every era mine did: bowl cut, frosted tips, the buzz, and now the receding acceptance.
+471. The hotel charged us for the mirror we didn't break; the invoice said "emotional damage to housekeeping," and we paid in cash and shame.
+472. My erection negotiates like a toddler: wrong time, wrong place, full tantrum, and gone the moment the audience arrives.
+473. Her vibrator's warranty card asked "reason for wear," and she wrote my name, and the company sent a replacement and a sympathy card.
+474. We had sex in the car for nostalgia, and nostalgia has a stick shift, a hip cramp, and a cop with a flashlight who said "at your age, respect."
+475. My testicles pay property tax on real estate my penis can't develop.
+476. His post-sex tradition was rating himself aloud — "solid eight" — and my tradition became dating men who wait for external scores.
+477. Dirty texting my husband from the next room is our kink now: "I'm not wearing any patience," and he arrives within the hour.
+478. My orgasms have a bouncer, a dress code, and a list I'm somehow not on at my own club.
+479. The lactation consultant said my breasts were "overachievers," the first time that word has applied to me anywhere near a bed.
+480. My penis retired without telling me, and now it just consults: shows up occasionally, does nothing measurable, invoices anyway.
+481. My balls and my grandfather's watch are both heirlooms: hairy, wound down, and nobody wants them appraised.
+482. Sex on the beach taught me sand has a security deposit policy and my crack held the escrow for a week.
+483. Her nickname for me in bed is "the trailer," because I show all the best parts in ninety seconds and the full feature disappoints.
+484. My erection has a fine print disclaimer: "dramatization, results not typical, do not attempt without professional supervision."
+485. The urologist said "turn your head and cough," so I coughed up my copay, my dignity, and a joke he'd heard four hundred times that day.
+486. We tried mirror sex, and the man in the mirror had thoughts, opinions, and a beer gut he swore was new.
+487. My wife's romance audiobook narrator does my dirty talk better than me, in my own bedroom, at 1.5x speed, and I've accepted the layoff.
+488. His pubes were manscaped into a landing strip, which was optimistic, because nothing that short needs a runway.
+489. My orgasm face broke the front camera's trust: it auto-deleted the photo and suggested I contact support.
+490. Sex in a sleeping bag is two people fighting one zipper, and the zipper wins, and the zipper always wins.
+491. My penis identifies as a grower, but the growth reports are self-published and peer review has been brutal.
+492. Her ex was a magician in bed: he'd finish, and poof, the satisfaction disappeared, and the rabbit never came out of anything.
+493. My prostate exam ran long because I kept making small talk, and my doctor billed the extra time under "emotional labor, his."
+494. The couples' toy syncs to an app, the app pushed an update mid-act, and I lost my wife's affection to a loading screen at 84 percent.
+495. My testicles brief each other before cold showers like Navy SEALs: "it's a retreat, not a surrender, we regroup at the body."
+496. She said "I'll be your good girl," and I said "then unload the dishwasher," and we discovered my kink is delegation.
+497. Our sex life has a wikipedia page: short, disputed, marked "citation needed" since 2019.
+498. My erection follows the gym rule of thumb: three seconds of good form, then swinging wildly and blaming the equipment.
+499. His moans were in ALL CAPS but his performance was fine print, and my lawyer says that's textbook false advertising.
+500. Five hundred jokes deep — even my vibrator has never gone this long without a recharge.
+501. My balls hang like participation medals: earned by showing up, worth nothing at resale, jangling at inappropriate ceremonies.
+502. The tantra instructor said "breathe into your root chakra," and I did, and the class evacuated, and enlightenment smells like regret.
+503. My wife sleeps naked as a threat, not a promise, and after twenty years I finally know the difference: eye contact.
+504. Sexting my husband is a group project now: I draft, my best friend edits, and he replies "nice" to our finest work.
+505. My penis has a customer loyalty program: after ten visits, the eleventh disappointment is free.
+506. The strip club DJ announced "gentlemen, put your hands together," which is the only action my hands saw all night, and they finished early too.
+507. My orgasm requires the alignment of three planets, a white-noise machine, and my husband not saying "almost?" like a GPS.
+508. His penis curved like a question mark, which was fitting, because every time I saw it I asked myself several.
+509. My kegel strength is now the only firm thing either of us brings to bed, and I use it to hold in the laughter.
+510. Sex after the vasectomy is carefree, they said, and it is: he's free of care, effort, and any urgency whatsoever now that the stakes are gone.
+511. My dirty thirties turned into my filthy forties, and by sixty I'll just be sediment with a libido.
+512. The safeword list on our fridge sits next to the grocery list, and one dinner party guest read "eggplant" off the wrong one — nobody corrected him, and he brought three.
+513. My erection during the eulogy was my body's tribute to a man who always said "stand up for what you believe in."
+514. Her onlyfans bio says "authentic amateur content," and as her husband, I can confirm: it is authentic, and I am the amateur.
+515. My testicle sits lower on the left, votes lower on the left, and my urologist says both facts are normal and neither is my personality.
+516. We roleplay "strangers at a bar," and it's realistic: I buy her drinks all night and she leaves with someone more interesting — me, after I stop doing the accent.
+517. My penis and the office printer both work only when a stranger is watching over my shoulder saying "it was fine a minute ago."
+518. His post-nut clarity was so strong he remembered he was married, which was new information for exactly one of us in that room.
+519. My orgasm has a stunt double, a body double, and a laugh track, and the credits roll before any of them appear.
+520. The wet dream, the dry spell, and the moist handshake: my sex life described entirely in weather conditions.
+521. My wife says our sex life is like this joke file: longer than expected, cruder than necessary, and she skimmed the middle.
+522. I asked my penis for a closing line and it did what it always does: nothing, early, and somehow that's the punchline.

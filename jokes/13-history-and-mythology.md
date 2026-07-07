@@ -401,3 +401,83 @@
 398. The Borgia family produced popes, poisoners, and patrons of art, sometimes in the same person, efficiency the Renaissance never matched again.
 399. Etana of Sumer rode an eagle to heaven seeking the plant of birth, recorded history's first flight and first layover complaint.
 400. The Salem accusers later recanted, which restored exactly zero of the executed, history's timeless lesson on the refund policy of mobs.
+401. The Vestal Virgins kept Rome's sacred fire for thirty years each, the empire's only job with mandatory celibacy and better pay than the legions.
+402. Gudrid Thorbjarnardottir sailed to Vinland, gave birth in North America, then walked pilgrimage to Rome, out-traveling every famous explorer while raising a baby.
+403. The Aztec god Tezcatlipoca's name means Smoking Mirror, which sounds mystical until you realize it's also a review of most oracles.
+404. The Peloponnesian War ended Athens's golden age, proving that the two smartest city-states in the world could still choose the dumbest option available.
+405. Medieval bestiaries described beavers, pelicans, and unicorns with equal confidence, natural history's era of citation-free publishing.
+406. The Inca road system spanned 25,000 miles without wheels or horses, meaning every mile was rated for foot traffic and llama attitude.
+407. Hera's wedding gift from Gaia was a tree of golden apples, which she immediately assigned a hundred-headed dragon to guard, marriage insecurity at divine scale.
+408. The Ottoman janissaries began as elite slave soldiers and ended as an entrenched interest group blocking reform, the empire's first case of tenure.
+409. Pompey the Great got his title as a young man and spent his life defending it, history's earliest example of peaking before the midterm.
+410. The Norse thought thunder was Thor commuting, meaning bad weather was just a god's traffic report.
+411. Elizabethan theaters were closed during plagues, forcing Shakespeare to write poems instead, history's most productive quarantine and a bar no one else should be judged by.
+412. The Bantu migrations spread language and ironworking across a continent over millennia, history's slowest and most successful rollout.
+413. Emperor Commodus fought as a gladiator against opponents given lead swords, the ancient world's most rigged ranked ladder.
+414. The Phoenix burns itself and rises anew every few centuries, making it mythology's only bird with a documented restructuring cycle.
+415. The Great Schism of 1054 split Christianity partly over one Latin word in a creed, the highest-stakes edit conflict in history.
+416. Timur built pyramids of skulls as messaging, proving some empires had a communications strategy no one asked to receive.
+417. The medieval water clock told time until the water froze, giving winter Europe the official excuse of the clock being weather-dependent.
+418. Nut, the Egyptian sky goddess, swallows the sun each night and births it each morning, holding the most reliable production schedule in mythology.
+419. The Gauls sacked Rome in 390 BC and Rome spent eight centuries making sure everyone else paid for it, history's longest revenge arc.
+420. Empanadas, dumplings, and pasties emerged across unconnected cultures, because every civilization independently discovered that food needs a wrapper for the commute.
+421. The Delian League began as an alliance and became the Athenian Empire when Athens moved the treasury home, history's smoothest conversion of roommates' rent money.
+422. Skadi chose her husband by looking only at gods' feet, Norse mythology's most literal implementation of speed dating with incomplete information.
+423. The Antonine Plague was likely brought home by victorious legions, war's classic bonus content nobody ordered.
+424. Pericles's funeral oration praised Athenian democracy while a plague broke it, the eternal gap between the keynote and the deployment.
+425. The chakram, boomerang, and chakra of empires prove every culture eventually invented a way to throw a circle at problems.
+426. Hatshepsut's temple architect Senenmut may have been more than an employee, and their shared tomb graffiti is Egyptology's oldest unresolved HR file.
+427. The fall of Constantinople sent Greek scholars fleeing west with manuscripts, meaning the Renaissance was partly a refugee resettlement bonus.
+428. Ancient Roman firefighting crews under Crassus negotiated prices while buildings burned, the free market's most honest demonstration.
+429. Izanagi washed himself after visiting the underworld and gods sprang from the droplets, mythology's most productive shower.
+430. The British Empire's sun famously never set, which the colonized noted was because even the sun refused to be caught alone with it in the dark.
+431. Trepanation, drilling holes in skulls, was performed for millennia with surprising survival rates, meaning our ancestors' worst idea was executed with our best craftsmanship.
+432. The Olmec carved colossal stone heads and left no explanation, ancient Mesoamerica's founders committing to the mystery brand.
+433. Roman marriages were sealed with the word "ubi tu Gaius, ego Gaia," a vow of unity from a culture that also invented divorce by letter.
+434. Sleipnir, Odin's eight-legged horse, was the fastest steed in existence, and no one at Asgard's stables asked follow-up questions about his parentage.
+435. The Krakatoa eruption of 1883 was heard three thousand miles away, nature's loudest event and history's least necessary alarm clock.
+436. Medieval guilds controlled quality, prices, and membership, unions and cartels having not yet decided to become different things.
+437. The Griffin guarded gold in legends across cultures, making it mythology's most consistently employed security contractor.
+438. Caesar Augustus claimed he found Rome brick and left it marble, the first leader to describe gentrification as a legacy.
+439. The Chavin culture built temples with disorienting corridors and roaring water acoustics, pre-Columbian Peru's investment in the haunted house industry.
+440. Freyja's necklace Brisingamen cost her a price the myths whisper about, proving even goddesses faced predatory luxury financing.
+441. The plague of Justinian arrived on grain ships from Egypt, meaning the empire's breadbasket delivered dinner and the apocalypse in one shipment.
+442. Pythagoras allegedly forbade his followers from eating beans, mathematics' first cult with a firm legume policy.
+443. The Chola dynasty's bronze sculptures set standards unmatched for a millennium, southern India casually solving art while Europe argued about relics.
+444. Mordred was King Arthur's son and destroyer, chivalric literature's reminder that succession planning is the true final boss.
+445. The Dutch tulip mania saw bulbs trade for house prices before crashing, history's prettiest financial catastrophe.
+446. Wepwawet, the Egyptian wolf god, was the Opener of Ways, worshipped as a divine scout, making him mythology's first product to promise route optimization.
+447. The Battle of Agincourt was won by muddy terrain and longbows, meaning England's greatest victory belonged partly to bad drainage.
+448. Sacagawea navigated for Lewis and Clark with a newborn strapped to her back, doing the expedition's hardest job as the only unpaid member.
+449. The Roman ludus trained gladiators with better medical care than most citizens received, because assets get healthcare and people get philosophy.
+450. Chang'e drank the elixir of immortality and floated to the moon, becoming the only mythological figure whose exile has a space program named after her.
+451. The Thirty Tyrants ruled Athens for barely a year, proving oligarchy's shelf life is inversely proportional to its name's drama.
+452. The medieval hue and cry required everyone to chase criminals when summoned, law enforcement by mandatory neighborhood cardio.
+453. Viracocha created giants, disliked them, and flooded the world to start over, the Andean creator god pioneering the hard reset.
+454. The Meroe pyramids of Nubia outnumber Egypt's, a fact Egypt's marketing team has suppressed for two thousand years.
+455. Caesar's ghostwritten campaign reports were bestsellers in Rome, meaning the general's real weapon was self-published quarterly updates.
+456. The Fenrir wolf was bound by a ribbon made of impossible things like a cat's footsteps, Norse dwarves inventing the unbreakable NDA.
+457. The Chumash built plank canoes with asphalt sealant from natural tar seeps, coastal California engineering that predates the freeway using the same material.
+458. Charlemagne's elephant Abul-Abbas was a gift from Baghdad's caliph, medieval diplomacy's most logistically ambitious fruit basket.
+459. The Roman damnatio memoriae erased people from records and monuments, cancel culture with a chisel budget.
+460. Ptah spoke the world into being in Memphite theology, making creation Egypt's first case of talking a project into existence.
+461. The Wounded Knee massacre followed a demand to disarm a people already surrendering, history repeating its cruelest paperwork.
+462. Griffins, dragons, and cyclopes may all trace to ancient fossil finds, meaning mythology was paleontology's rough draft.
+463. The Roman naumachia flooded arenas for staged naval battles, entertainment budgets that made modern blockbusters look fiscally responsible.
+464. Nanahuatzin, the humble Aztec god, leapt into the fire to become the sun when the wealthy god hesitated, mythology's clearest referendum on courage versus credentials.
+465. The Field of the Cloth of Gold summit between Henry VIII and Francis I featured temporary palaces and wine fountains and accomplished nothing, diplomacy's first offsite.
+466. Ammit, devourer of unworthy hearts, waited beside the scales of judgment, ancient Egypt's most patient compliance officer.
+467. The Great Zimbabwe stone walls rose without mortar, and colonial scholars invented foreign builders rather than credit locals, archaeology's most stubborn refusal to accept the data.
+468. Odysseus told the cyclops his name was Nobody, ancient literature's first burner account.
+469. The Crimean War popularized the balaclava, the cardigan, and the raglan sleeve, making it history's deadliest fashion week.
+470. Ix Chel, the Maya moon goddess, governed medicine and weaving, holding the healthcare and textile portfolios like every grandmother since.
+471. The Roman cursus honorum laid out a strict career ladder to the consulship, the ancient world's most fatal LinkedIn path.
+472. The Ghost Army of World War II used inflatable tanks and sound effects to fool the Germans, warfare's greatest theater kids finally getting their due.
+473. Marduk defeated Tiamat and built the world from her body, Babylonian creation doubling as the first hostile asset conversion.
+474. The Edo period's strict isolation kept Japan at peace for two centuries, history's longest successful do-not-disturb sign.
+475. Roman children played with dolls, hoops, and knucklebones, then dedicated the toys to gods at adulthood, the original deleting your old accounts.
+476. The Basilisk killed with a glance, medieval bestiaries' warning about eye contact that introverts have honored ever since.
+477. Queen Nzinga of Ndongo negotiated with the Portuguese while seated on a servant's back after they denied her a chair, then fought them for decades, diplomacy's coldest opening move.
+478. The Antonine Wall was abandoned for Hadrian's Wall, meaning even Rome once conceded that Scotland wasn't worth the second attempt.
+479. Popocatepetl the warrior became a volcano mourning his beloved Iztaccihuatl, Aztec legend explaining why Mexico's mountains smoke like a grieving widower.
+480. The Statute of Laborers tried to freeze wages after the Black Death, history's first employer attempt to legislate away a labor market and its first failure at it.

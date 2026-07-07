@@ -322,3 +322,83 @@
 318. My blender's smoothie setting and my blender's honesty setting are the same button held down longer. Kale, banana, and "you only bought me for January."
 319. The lighthouse posted an opening for an apprentice dark. Someone has to maintain the part of the beam that isn't, and the last dark retired to a movie theater.
 320. I keep an umbrella by the door for dry spells. When nothing's wrong for too long, I open it indoors, to give luck something to do.
+321. My town's museum of the future is closed for renovations. The sign says "opening soon," and it's said that since before the museum existed, which the curator calls "the exhibit."
+322. I bought a bird feeder that also dispenses feedback. The finches get seed; I get "you hover," and we all take what we came for.
+323. The moving company offered to move me emotionally for an extra fee. Three men showed up and carefully carried my attachment to the old apartment down two flights.
+324. My printer prints everything with a watermark that says "draft," including my diploma, my lease, and, once, a mirror. It may have a point.
+325. The tollbooth operator on Route 12 collects exact change and inexact memories. A dollar fifty, or tell him about a kitchen you loved. Traffic backs up at dinnertime.
+326. My apartment's peephole works both ways on holidays. Thanksgiving morning, an eye. We wave now. It's fine. We've decided it's fine.
+327. The garden gnome rotated to face the house. Nothing else changed. The realtor says this affects the appraisal in ways she can't put in writing.
+328. I ordered a glass of water at the fanciest restaurant in town, and the sommelier described it: "notes of pipe, faucet, and forgetting; a long municipal finish."
+329. My dentist's office plays the sound of drills relaxing. Whale song, but for drills. My molars unclench and the drills, off duty somewhere, feel seen.
+330. The crossing guard at Fifth and Main stops traffic, time, and, if you're not careful, conversations. Her sign says STOP on both sides, and she means both sides.
+331. My yoga mat rolled itself up and stood in the corner. It says it needs to hold itself for a while, and honestly, boundaries.
+332. The town's echo canyon got a second echo, cheaper, from overseas. It repeats what you said but in a tone, and the original echo is suing.
+333. I bought a night stand that stands up for the night. Every dawn, it argues for five more minutes on behalf of the darkness, and the blinds, weak, comply.
+334. My soup asked for a lid, not for warmth, but for privacy. It's going through something with the crackers and doesn't want the steam quoting it.
+335. The parking lot at the mall reserved a spot for whoever needs it most. It's always empty, because to park there is to admit it, and we're not ready, none of us.
+336. My scarf came back from the lost and found with new memories. It smells like a train station now, and it flinches at the word "hook."
+337. The town approved a crosswalk to the past. It's just paint, but old men wait at it anyway, looking left, looking right, looking left again.
+338. I bought a decoy wallet for muggers and a decoy calendar for obligations. "Sorry, I'm busy," I say, showing them a June full of lies.
+339. My radiator clanks in the winter and, in the summer, writes. It's working on a memoir called "Heat: What I Gave."
+340. The supermarket's express lane is ten items or fewer, or one item you can't stop thinking about. The second line moves slower but nobody's in a hurry there.
+341. My binocular case contains a smaller binocular case. The smallest case, four cases down, holds a single lens and a note: "you're overthinking the birds."
+342. The city's manhole covers rotated one degree overnight, all of them, in unison. The utilities department says it's fine, and they say it in unison too.
+343. I bought a welcome mat and a farewell mat. Guests step onto the second one and can't leave, exactly; they just stand there being farewelled, sometimes for an hour.
+344. My ice cube tray produces eleven cubes and one confession. This morning: "I've been the freezer noise." We suspected, tray. We always suspected.
+345. The ferris wheel operator lets the wheel decide when you get off. "It knows," he says, and it does: it held the arguing couple aloft until they laughed.
+346. My toolbox has a tool for everything except the thing. For the thing, there's a smaller box, locked, labeled "you know what you did to the shelf."
+347. The bank's vault door is open on Sundays, revealing a smaller bank inside, also closed. Its vault is also open Sundays. Employees don't go past the third bank.
+348. I bought a humidifier that outputs fog with a narrative. My bedroom is misty and something is being foreshadowed near the dresser.
+349. My town's oldest tree started charging for shade. Acorns accepted, memories preferred, and the bench underneath is now "premium seating," says the squirrel in the vest.
+350. The post office added a stamp for letters that shouldn't arrive. You mail them, they're carried with full ceremony, and they're delivered to the dead-letter office's fireplace.
+351. My couch cushions hold change, crumbs, and one small cold hand that returns remotes. We don't look. It's helpful. That's the arrangement.
+352. The traffic reporter started reporting on the traffic within us. "Backed up near the heart," she says over helicopter sounds, "expect delays into the evening."
+353. I bought a level that measures whether I'm level. On my best days the bubble centers; at family dinners it leaves the tool entirely and hides in my water glass.
+354. My alarm has a snooze button and a "come to terms" button. Nine more minutes, or one honest look at the ceiling. Both take nine minutes.
+355. The taxidermist opened a second shop for stuffing awkward pauses. Bring him a silence from any dinner party and he'll mount it, glass-eyed, forever mid-cringe.
+356. My apartment number changed overnight from 4B to 4B, but italic. The mail still comes; it just arrives leaning, urgent, like everything else in italics.
+357. The city retired the fire hydrant on my corner with full honors. It sits there still, capped, decorated, and the dogs observe a moment of silence, briefly, daily.
+358. I bought a suggestion box for my own head. First suggestion, in my handwriting: "a lock for this box." Motion denied. The box stays open. That's the disorder.
+359. My weighted blanket got promoted to a consequential blanket. It doesn't just hold me down now; it holds me accountable, warmly, until morning.
+360. The marina rents boats, kayaks, and one rowboat that only goes toward. Toward what, the sign doesn't say, and the man with the clipboard just points at the horizon.
+361. My cheese grater joined a support group for things that are abrasive but mean well. The sandpaper chairs the meetings; the pumice stone brings snacks; nobody shakes hands.
+362. The town's drawbridge started drawing. Charcoal sketches of the boats that pass under it, from below, unflattering, honest. The yacht club has filed a complaint.
+363. I bought a coin sorter that sorts coins by what they've seen. The vending machine quarters are in therapy; the fountain pennies are in a jar labeled "retired wishes."
+364. My office chair remembers everyone who spun in it and is dizzy on their behalf. It leans left because of an intern from 2019, permanently, in tribute.
+365. The bakery installed a window for buying yesterday's bread with yesterday's money. The line is full of men holding coins that don't exist anymore, and they are served.
+366. My key ring holds twelve keys, and I know what seven of them open. The other five hold me, is how the locksmith put it, and he wouldn't cut a copy of that sentence.
+367. The reservoir holds the town's water and, at the bottom, the town's holidays from the eighties. Divers report streamers, a cake, and everyone's tan uncle, mid-toast, preserved.
+368. I bought a lint roller for the conversation. After the party, I rolled it over the couch and pulled up small talk, a stray opinion, and one long compliment, still warm.
+369. My microwave's popcorn button knows something about popcorn that I don't. It adds four seconds at the end, every time, and every time those seconds matter.
+370. The town's roundabout flower bed spells a word from above. The pilots know it, the crows know it, and the gardener plants it fresh every spring, chuckling at street level.
+371. My basement stairs added a creak in a new place. The old creak retired; there was a small ceremony; the new creak is louder and hasn't earned it yet.
+372. The eye doctor's waiting room has a poster of the poster. Look closely and there's a smaller waiting room in it, with a smaller you, more patient, better glasses.
+373. I bought a return ticket to my hometown and the conductor punched it twice. "Once for the town," he said, "once for what you'll expect it to be."
+374. My spatula flips pancakes, burgers, and, once a year, on the equinox, its own worldview. That week it lifts everything gently, from underneath, checking for a soft side.
+375. The town's monument to the unknown commuter depicts a figure checking a watch, forever. Fresh coffee is left at its base every morning by the 7:14, running late, guilty.
+376. My electric kettle boils water and one small doubt per use. The water's for tea; the doubt rises off the top, and I've learned to lean back when I pour.
+377. The parking garage's automated voice says "remember where you parked" and then, softer, "remember where you were going." Level three has heard things.
+378. I bought a magnifying glass that magnifies significance. Under it, my grocery list became a psalm, and the word "eggs" made me sit down for a while.
+379. My town's four seasons arrive by appointment now. Autumn was double-booked this year and sent a junior associate: two weeks of "crisp," invoiced separately.
+380. The dog park added a section for dogs whose owners need to run free. We're released at the gate; we do laps; our dogs watch from benches, proud, holding our leashes.
+381. My smoke detector's low-battery chirp syncs to 3 a.m. by international treaty. All of them, everywhere, honoring an accord signed in a dark ceiling somewhere, once.
+382. The hotel's fourth floor is between the third and fifth, usually. During conferences it sublets its position to a mezzanine, and guests sleep somewhere adjacent to four.
+383. I bought a nutcracker that negotiates first. It sits with the walnut, they talk, and most nuts open voluntarily. The cracking is for the ones who lawyer up.
+384. My town's welcome sign lists the population as "enough." The census bureau objected, then visited, then agreed, and now the federal number is also "enough."
+385. The laundromat's lost sock board went digital, then sentient, then quiet. It knows where they are now, all of them, and it's decided we can't handle the pattern.
+386. My desk lamp works normally, but its light arrives a little tired. The photons commute from the bulb, and lately, the lamp admits, morale in there is low.
+387. The city's snowplow driver plows the streets, then, quietly, one path through the cemetery, unassigned, unpaid, because his father hated wet shoes.
+388. I bought an appointment book for the sea. High tide, low tide, and one slot on Thursdays marked "sea's personal time," when the waves face the other way.
+389. My refrigerator door holds photos, magnets, and a drawing by a child no one in this family can identify. It's of the refrigerator. It's very good. We leave it alone.
+390. The town's bells ring the hour, the half hour, and, once a decade, the moment nobody was ready for. They rang it in March. We're still not ready. That's why they ring it.
+391. My car's blind spot contains a small diner. I can't see it, by definition, but I smell hash browns when I merge, and once, faintly, applause.
+392. The pharmacy's white noise machine broke and started playing beige noise. It's the sound of a hallway in a building where you once waited. Sales of everything went up.
+393. I bought a bookmark that holds my place in books and, if asked nicely, in lines, arguments, and life. I'm on chapter eleven of all three.
+394. My town's wind sock at the airfield filled with wind and kept some. It hangs full on still days now, saving, the airfield manager says, "for a calm that's coming."
+395. The furniture store's showroom bedroom has been slept in. The bed is made wrong in a specific way, the lamp is warm, and the fake window's fake dawn is coming up.
+396. My chess clock times the game and, on the side, the silences between my father and me. Our record is nine minutes; the clock called it "a draw."
+397. The city painted "SLOW" on my street, then "SLOWER," then, near my house, "WHY." I've started walking, which is what the road wanted, which is why it learned to write.
+398. I bought a doorbell camera that shows who's at the door and who they were on the way over. Delivery drivers arrive as whole biographies now. I tip accordingly.
+399. My attic fan pulls hot air out of the house and, occasionally, an idea I wasn't done with. Somewhere above my insulation is a novel, circling, waiting for winter.
+400. The town's oldest resident turned 104 and revealed she's been aging on behalf of the gazebo. It's 12. It looks great. She's tired and would like someone to take over.

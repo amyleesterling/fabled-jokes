@@ -402,3 +402,125 @@
 398. A eulogy walks into a bar and finally says all the nice things to someone's face — the bartender, who is very alive and very uncomfortable.
 399. A load screen walks into a bar and shares a tip nobody asked for while everyone waits.
 400. Mahatma Gandhi walks into a bar and orders nothing, and somehow it's the most influential order of the night.
+401. A git commit walks into a bar with the message "fixed stuff" and nobody, including itself, knows what it did.
+402. Papyrus the font walks into a bar and the bartender says, "The spa next door has been looking for you since 2004."
+403. A phantom traffic jam walks into a bar for no reason at all, and everyone behind it has to stop for forty minutes.
+404. Baroness von Blixen the bartender sees a duck walk in and asks, "Grapes again?" The duck says, "No, I've matured. Raisins."
+405. A gas leak walks into a bar and suddenly everyone agrees the jukebox sounds amazing and the walls are breathing.
+406. An A/B test walks into a bar and half the patrons see a slightly greener door and nobody knows why they're happier.
+407. A pinch of salt walks into a bar full of wild claims and gets taken with everything.
+408. Homer walks into a bar and starts the story in the middle, invoking a muse to explain the tab.
+409. A hairline fracture walks into a bar and insists it's fine, it can walk, it just needs to sit down for six-to-eight weeks.
+410. Feedback walks into a bar with a microphone and the whole room learns what regret sounds like at 4 kHz.
+411. A crash test dummy walks into a bar, and a wall, and a windshield, and requests literally any other assignment.
+412. Nefertiti walks into a bar and every profile in the room turns to face her, which is how she prefers to be seen anyway.
+413. A slippery slope walks into a bar for one quick drink and by midnight it's legally married to the pinball machine.
+414. Kerning walks into abar.
+415. A saber-toothed cat walks into a bar and the bartender says, "We stopped serving your kind 10,000 years ago." The cat says, "That explains a lot, actually."
+416. A rhetorical question walks into a bar, and does anyone even need to ask what happens next?
+417. Frost walks into a bar and takes the stool less sat upon, and that has made all the difference.
+418. Scope creep walks into a bar for one beer, then a snack, then a renovation of the kitchen, then somehow the bar has a marina.
+419. A show of hands walks into a bar and the bartender counts it twice, because someone always votes with both.
+420. Herodotus walks into a bar and recounts what happened there, mostly accurately, with several dragons added for texture.
+421. A brownout walks into a bar and everything gets 30 percent moodier without fully committing to a blackout.
+422. An old wives' tale walks into a bar and warns everyone their faces will stick like that. Several faces do. Nobody apologizes to the tale.
+423. A limbo stick walks into a bar and asks how low everyone's standards can go. The bar was ready for this question years ago.
+424. Stockholm syndrome walks into a bar it hates and honestly, once you get to know the place, the mold has charm.
+425. An owl walks into a bar and asks who's on shift. The bartender says, "Me." The owl says, "Who." This continues until dawn.
+426. A dropped call walks into a bar and says, "Can you hear me? Hello? I'll call you back," and never does.
+427. Boadicea walks into a Roman bar and the bar files an insurance claim in advance.
+428. A canary walks into a coal-mine bar, goes quiet, and every miner in the room is out the door before the bartender finishes pouring.
+429. A safe word walks into a bar and everything stops, immediately, respectfully.
+430. A false summit walks into a bar and the hikers at the counter start weeping into their trail mix.
+431. Vitamin D deficiency walks into a bar in Seattle and gets greeted by name, which is everyone's name.
+432. A cursive Z walks into a bar and nobody can identify it, including its own mother.
+433. Anansi walks into a bar and by closing time owns the bar, the stories about the bar, and the story you're reading right now.
+434. A speed bump walks into a bar and everyone slows down for it out of muscle memory, even the ones on foot.
+435. Buyer's remorse walks into a bar it just purchased.
+436. A wind-up toy walks into a bar and into the wall and into the bar and into the wall until someone, mercifully, turns it sideways.
+437. The Oregon Trail walks into a bar and orders dysentery for the table — sorry, force of habit, waters all around.
+438. A bar walks into a bar, and the second bar says, "Finally, someone who gets it."
+439. A blind spot walks into a bar and, look, we can't tell you what happened next; nobody saw it.
+440. Eleanor of Aquitaine walks into a bar in France, then a bar in England, and rules both happy hours simultaneously.
+441. A pep talk walks into a bar at halftime and turns four sad beers into four determined beers.
+442. Quicksand walks into a bar and everyone panics way more than the situation requires, exactly as the movies trained them to.
+443. A dangling participle walks into a bar wearing a hat, which orders a whiskey.
+444. Mutually assured destruction walks into a bar and everyone stays extremely polite all night.
+445. A phoenix walks into a bar, closes out its tab in flames, and reopens a new one from the ashes, first round comped by tradition.
+446. An almost-joke walks into a bar and the bartender waits, and waits, and the punchline never
+447. A supply chain walks into a bar and the beer arrives in eleven weeks, damaged, in the wrong state.
+448. Empress Wu walks into a bar and the historians at the counter immediately start disagreeing about how it went.
+449. A hiccup cure walks into a bar and scares the hiccups from earlier; they leave, offended it worked.
+450. The main character walks into a bar and assumes the jukebox is his soundtrack. The bartender, a narrator, lets him.
+451. A humidity-proof hairstyle walks into a bar in August and everyone demands its secrets. The secret is a hat.
+452. A gateway drug walks into a bar. It's coffee. It's always been coffee.
+453. A bar walks into an economics lecture and finally learns why its own drinks cost that much; it walks out radicalized.
+454. Occam's razor walks into a bar because it wanted a drink. That's it. Stop looking for more.
+455. A migrating goose walks into a bar, honks at the manager, assaults a stool, and leaves without paying — a perfect visit, by goose standards.
+456. Hard water walks into a bar and orders a soft drink, hoping for balance.
+457. A cul-de-sac walks into a bar, mingles, circles back, and leaves the way it came, as is its entire nature.
+458. Ada the bartender sees an AI walk in and asks what it'll have. "Whatever the training data says people like," it says, "so, statistically, beer, and validation."
+459. A June bug walks into a bar in October and everyone respects the commitment to arriving fashionably late.
+460. Second-hand smoke walks into a bar and gets all the harm with none of the flavor, a raw deal it never agreed to.
+461. Genghis Khan walks into a bar a second time, and the bartender, who read joke 11, has already surrendered the till.
+462. A trapdoor walks into a bar, and the bar has never been more careful about where it stands.
+463. A silent disco walks into a bar and forty people dance to forty different songs, and one guy with no headphones finds religion.
+464. Voltage walks into a bar and the bartender says, "Watt'll it be?" Voltage says, "Don't. I have the potential to hurt you."
+465. Ripley's Believe It or Not walks into a bar and, believe it or not, orders a beer, which is the least believable exhibit they've ever run.
+466. A speakeasy walks into a bar and whispers the password to itself, out of habit, forever.
+467. A leech walks into a bar and offers to split the check, which for a leech is enormous personal growth.
+468. Hatshepsut walks into a bar in a false beard and the bartender says, "Sir?" She says, "Pharaoh. And a beer."
+469. A near miss walks into a bar and everyone gasps, then applauds, then buys it drinks for the story.
+470. A backup walks into a bar and nobody appreciates it until the original doesn't show.
+471. Growing pains walk into a bar and order a tall one, taller than yesterday, taller by morning.
+472. A false ceiling walks into a bar and the raccoon from joke 222 waves down at it like an old colleague.
+473. Perfect pitch walks into a bar, winces at the door chime, winces at the blender, winces at the ice, and orders in B-flat out of spite.
+474. A control-Z walks into a bar and un-walks into a bar.
+475. King Midas walks into a bar and the bartender says, "Don't touch the taps." The taps are gold now. The beer is gold now. Nobody can drink the gold.
+476. A whisper walks into a loud bar and dies at the door; its message, "your car is being towed," dies with it.
+477. A late fee walks into a bar and compounds by the hour, like it was born to.
+478. Bad reception walks into a b— and orders a —, and the bartender pours it a — which was exactly right.
+479. A retired guard dog walks into a bar, checks everyone's ID by smell, and finally, finally, accepts a belly rub on duty.
+480. Athena walks into a bar fully formed, out of nowhere, with a headache that isn't hers.
+481. A linked list walks into a bar, and to find its friends the bartender has to visit every table in order, twice.
+482. Braille walks into a bar and the menu finally makes sense to somebody.
+483. An understatement walks into a bar during the fire and remarks that it's a bit warm in here.
+484. Ching Shih walks into a harbor bar and by last call she commands the bar, the fleet outside, and the tab of every admiral present.
+485. A yo-yo walks into a bar, and out of the bar, and into the bar, and out of the bar, and the bouncer just holds the door now.
+486. Wanderlust walks into a bar and immediately asks what's down the road past this bar.
+487. A snake walks into a bar, which is already the most impressive thing anyone's done there all week.
+488. The bystander effect walks into a bar and collapses, and forty people wait for someone else to call for help.
+489. A pop-up ad walks into a bar and blocks the bartender until someone finds the tiny X on its jacket.
+490. Grigori the bartender watches a bar stool walk in and sit on a customer, and decides tonight is a night for the good vodka, for himself.
+491. A perfect crime walks into a bar and — no it doesn't; you can't prove anything walked in anywhere.
+492. Vasco da Gama walks into a bar the long way around, and insists the route was worth it for the spice selection.
+493. A dust bunny walks into a bar from under the pool table where it has lived, rent-free, since the Clinton administration.
+494. An inferiority complex walks into a bar and assumes even the peanuts are judging it. The peanuts, to be fair, are.
+495. A lightning rod walks into a bar and everyone stands a little closer to it during the storm, which is both flattering and rude.
+496. Beta testing walks into a bar and the door falls off, which is exactly why beta testing walks into bars.
+497. An old flame walks into a bar and the candles all flicker jealously.
+498. A defensive driver walks into a bar, checks his mirrors, signals, and takes the corner stool at a cautious three miles per hour.
+499. Murphy's law walks into a bar and the tap breaks, the till jams, and the band's van catches fire, all before it orders.
+500. A middle seat walks into a bar and both armrests are already taken; some things follow you everywhere.
+501. Emmy Noether walks into a bar and proves the number of drinks is conserved; they've merely transformed into the bartender's problem.
+502. A stray shopping cart walks into a bar from three neighborhoods away, wheels shrieking, answering to no one.
+503. Groundhog Day walks into a bar. Groundhog Day walks into a bar. Groundhog Day learns the piano and walks into a bar.
+504. A humid handshake walks into a bar and everyone pretends they need both hands for their drinks.
+505. The last slice of pizza walks into a bar and sits untouched for an hour because everyone's too polite; a stranger from outside eats it.
+506. A conga line walks into a bar one person at a time, forever, technically.
+507. Empedocles walks into a bar made of earth, air, fire, and water, and declares his tab elemental and therefore eternal.
+508. A ceiling fan walks into a bar and immediately gets asked to just hang around and take the heat off everyone; classic.
+509. An alibi walks into a bar at exactly 9:14 p.m., loudly greets the bartender by name, and asks him to remember the time.
+510. A dropped pin walks into a bar 300 feet from where it said it would be.
+511. Sacagawea walks into a bar two explorers claimed to have discovered, orders in three languages, and leaves a map correction.
+512. A tan line walks into a bar and everyone can see exactly where it's been all summer.
+513. The five-second rule walks into a bar and gets extended to nine seconds by unanimous vote after the nachos incident.
+514. A haunted doll walks into a bar and the bartender says, "You can stay, but blink twice if you're going to be a problem." It blinks twice, slowly.
+515. Solar noon walks into a bar with no shadow at all and the regulars find that deeply unsettling, as they should.
+516. A safety meeting walks into a bar and everyone signs the attendance sheet without listening, per tradition, minutes before the ladder thing.
+517. Empress Theodora walks into a bar and the historian in the corner starts a rumor; she promotes him to court gossip, salaried.
+518. A wobbly table walks into a bar and every engineer present dives for a coaster at once.
+519. A long shot walks into a bar, orders the impossible, and gets it, and now everyone in this bar believes in something.
+520. The end of this list walks into a bar, and the bartender says, "Last call." It says, "Finally, a punchline I can live with."
+521. A sequel walks into a bar and it's not quite as good, but you were already sitting down, so you stay.
+522. An encore walks into a bar after pretending, unconvincingly, that it had gone home.

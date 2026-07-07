@@ -482,3 +482,45 @@
 478. The retired racing greyhound's new hobby is a professional-grade nap he calls "the long taper."
 479. My dog and the neighbor's dog have argued through the fence for six years and once, when the gate was open, had nothing to say.
 480. The pilot fish's job title is "advance scout," which means swimming in front of a shark and hoping the shark remembers the arrangement.
+481. The tardigrade survived the vacuum of space, boiling, freezing, and radiation, and still calls his sister's kids "a lot."
+482. My cat's fan theory is that the refrigerator hums because it's guarding something, and after four years of surveillance she's close to proof.
+483. The kestrel hovers in one spot over the highway median like the world's smallest, most judgmental traffic helicopter.
+484. The clownfish can change sex to become the dominant female, which makes his career ladder more flexible than mine.
+485. The vet's scale is calibrated, certified, and, according to every pet placed on it, lying.
+486. The bull elk's bugle echoed across the valley, and three rivals, two tourists, and one confused car alarm answered.
+487. My dog's dreams involve running, judging by his legs, and catching, judging by his face, and losing it, judging by mine.
+488. The banana slug is the school mascot somewhere, which proves marketing can do anything with enough yellow.
+489. The osprey's fishing show has no bait, no boat, and no mercy, and the ratings among other ospreys are excellent.
+490. The chinchilla's fur is so dense fleas can't live in it, making her the only mammal whose skin is a gated community.
+491. My cat's apology for biting me was sitting slightly nearer to me than usual, which her lawyer called full restitution.
+492. The horseshoe crab has survived four mass extinctions and still can't survive being flipped over without a stranger's help.
+493. The weaver bird's nest failed inspection, so the female tore it down, and he rebuilt it, which is how weaver birds invented the revision process.
+494. The skink's tail is still wriggling in the hawk's talons, buying time, which makes it the most loyal body part in the desert.
+495. My dog believes the couch cushion fort I built for him is load-bearing for the whole house, and he defends it accordingly.
+496. The emu war remains the only conflict where the birds won and never even knew they were enrolled.
+497. The barnyard's gossip chain runs hen to goose to goat, and by the goat, every story involves someone eating something they shouldn't.
+498. The blue jay's alarm call has a false-alarm rate of ninety percent, and the forest keeps falling for it because the ten percent is a hawk.
+499. My cat's night parkour route includes my ribs, the dresser, and a landing on the one squeaky floorboard, in that order, at 3 a.m., nightly.
+500. The bowhead whale lives two hundred years, which means somewhere in the Arctic there's a whale who remembers your great-great-grandfather's ship and holds a grudge.
+501. The stick bug's improv class went badly; his only character is "stick," and the audience couldn't find him for the bow.
+502. The vet's exotic animal wing has a sign-in sheet where the species column has a "see attached" option.
+503. My dog's recall is perfect indoors, aspirational at the park, and purely theoretical near ducks.
+504. The mantis shrimp's punch boils the water around it, which makes his boxing gym membership less "fitness" and more "containment."
+505. The ptarmigan changes color with the seasons and still gets asked, every molt, if he's "doing okay."
+506. The garden's resident toad has watched me kill four rosemary plants and now handles the pest control himself, out of pity.
+507. My cat's reaction to a closed door is a civil rights campaign; her reaction to the door opening is leaving.
+508. The sperm whale's clicks are the loudest animal sound on Earth, and his neighbors' complaints travel considerably slower.
+509. The rooster's rival is his own echo off the far barn, and every dawn the argument starts fresh.
+510. The vervet monkeys stole the safari lodge's sugar packets and set up a distribution network the manager describes as "better than ours."
+511. My dog's stick collection at the door is either a supply cache or a shrine, and he's not answering questions.
+512. The eiderdown duck plucks her own chest to line the nest, which makes every mother's day card in that family hit different.
+513. The sardines' safety strategy is being in a crowd, which works statistically and fails personally.
+514. The wise old carp at the temple pond has heard forty years of wishes and kept every coin's secret.
+515. My cat's enrichment schedule cost me two hundred dollars in toys and was outperformed by one dropped rubber band.
+516. The frigatebird can't land on water and steals fish mid-air, which the other birds call piracy and he calls logistics.
+517. The dormouse slept through the meeting, the merger, and the entire fiscal winter, and was promoted for stability.
+518. The gharial's snout is too thin for anything but fish, which he calls a specialty and his cousins call a diet.
+519. My dog's bark at 2 a.m. was for a burglar, a possum, or the wind, and he accepted full hero credit for all three.
+520. The last dodo's diary entry reads, "Met some sailors today. Very friendly. Anyway, more tomorrow."
+521. The capybara's spa day is every day, in every pond, with every species, because being unbotherable is a full-time job someone has to do.
+522. My cat, upon achieving 520 documented incidents, requested the file be renamed from "jokes" to "evidence."

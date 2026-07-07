@@ -402,3 +402,128 @@
 398. The apocalypse survival kit I bought online arrived broken, which is either terrible service or the most honest product review of humanity's chances.
 399. The dog watches the door at 6 p.m. every day. Dad died in March. Someone should tell the dog. Someone should have told us we'd envy him.
 400. The billionaire's yacht is named "Liquid Assets," and his kids circle it every summer like the well-dressed sharks his lawyer promised them they'd become.
+401. The pediatrician's waiting room and the oncologist's waiting room have the same fish tank, and only one room has learned not to name the fish.
+402. My grandfather proposed with a ring from a pawn shop, and it worked, twice, for two different men, which the pawn shop calls "certified pre-loved."
+403. The company gym closed and became a "wellness room," which is a chair, a tissue box, and a door that locks, and it's the most used facility we have.
+404. My aunt's fourth wedding registry was just a list of things she kept from the first three, priced for reimbursement.
+405. The obituary comment section had one entry from his boss: "He will be difficult to replace by Friday."
+406. My father called once a year, on my birthday, a day early, "to beat the rush." There was no rush. He knew there was no rush. That was the gift.
+407. The kids' balloon release for Grandpa went beautifully until the balloons came back down over the reception, slowly, one by one, like RSVPs.
+408. The prison pen-pal program matched my uncle with his old accountant, and the letters are mostly numbers and the word "allegedly."
+409. My smart speaker heard me crying and offered to play "sounds of rain." It's learning to be family: present, unhelpful, and technically responsive.
+410. The lifeboat drill was cancelled due to weather, which the passengers agreed was the exact wrong reason to cancel a lifeboat drill.
+411. My grandmother's headstone took three months to engrave because the family kept negotiating the word "beloved."
+412. The startup pivoted from "disrupting death care" to being customers.
+413. My mother's side lives to ninety. My father's side lives to sixty but insists it's quality over quantity, loudly, in bars, which is why.
+414. The hurricane party had a theme: "Category 5." So was the hurricane. The house is a theme now too.
+415. My uncle taught me poker and the value of a dollar, by taking all of mine, at nine, at his own kitchen table. "Lesson one," he said. There was no lesson two. He kept it.
+416. The hospital's vending machine takes cards now, so you can go into debt for crackers at 3 a.m., which the billing department calls "a preview."
+417. The estate auctioneer described Dad's life in lots, and Lot 12, "assorted unopened gifts from children," went for less than we paid.
+418. The town's oldest tree fell on the town's newest gym, and the pastor called it a sermon nobody had to attend.
+419. My cousin's ghost-hunting show found nothing in ten seasons, which the network renewed anyway, because hope with a camera crew is a genre.
+420. The funeral director's own funeral was flawless, prepaid, and scheduled around the long weekend, out of professional courtesy to his competitor.
+421. My mother alphabetized her grudges. It's a system. When she goes, we inherit it like the china: fragile, complete, and nobody dares use it.
+422. The airline reunited me with my luggage after two weeks, at my father's funeral, delivering the suit, technically, on time.
+423. The doctor said, "If you were a car, I'd tell you to sell." I asked to whom. He said, "Someone who doesn't ask questions."
+424. My grandfather's shed was off-limits for fifty years. We opened it after he passed. Empty, swept, and one chair facing the wall. He just wanted somewhere we weren't.
+425. The children's choir sang at the retirement home, and the residents wept, and the choir director called it a success, and the residents called it a countdown with harmonies.
+426. My aunt's book "Cooking for One" sold best in this zip code, which the census, the diner, and the cemetery all corroborate.
+427. The theme park's "Tunnel of Love" flooded, and the fire department rescued four couples and declined comment on the two who asked for separate boats.
+428. The family's beach house survived the storm, which was awkward, because the insurance money had already been spent on the fight over the beach house.
+429. My father's watch, phone, and wallet came home from the hospital in a plastic bag, which is what a whole man reduces to, plus paperwork.
+430. The neighborhood's last blockbuster summer was 1987, says the plaque, next to the other plaque, about the flood, from 1988.
+431. The doctor said my anxiety would kill me one day, and my anxiety, vindicated, has been planning the day ever since.
+432. The kids set up a funeral for the dead bird with full honors, and charged admission, and I've never been prouder or more concerned.
+433. My grandmother's last word was "well," which was either an unfinished sentence or a complete review of everything.
+434. The cruise ship's oldest passenger takes the same cruise every year, alone, to the same port, where nobody has waited since 1974, and the crew keeps her secret and her seat.
+435. The will's final clause said "and to anyone I forgot: that was also on purpose."
+436. My cousin's flat-earth group scheduled a trip to the edge. The bus broke down in Ohio, which they accepted, philosophically, as close enough.
+437. The graveyard's night guard quit, saying it wasn't the dead that bothered him, it was the visitors who came at 3 a.m. to keep arguing.
+438. The doctor said to avoid stress, alcohol, and red meat, and my family reunion is all three in a rented hall.
+439. My uncle's last text was a thumbs up, sent from the hospital, in response to "Are you okay?", and the coroner ruled it "on brand."
+440. The company's org chart after the layoffs was just the founder's family tree with salaries.
+441. My grandmother fed everyone who came to the door for sixty years, and at her funeral the whole town came, finally, all at once, hungry.
+442. The therapist's office has two clocks, one five minutes fast, "for endings," and one stopped, which she won't explain, and which I now think about instead of my problems.
+443. The kid's essay "What I Did Last Summer" was one sentence: "We cleaned out Grandpa's house." The teacher gave it an A and a phone number to call.
+444. My father's GPS still has his saved places: home, work, and a bar two towns over labeled "meeting." We drove past it once. Some meetings you let adjourn.
+445. The retirement home's fire alarm and dinner bell sound identical, which the staff calls a design flaw and the residents call efficiency.
+446. My mother's passive-aggressive Post-it notes outlived her, surfacing for years in drawers and coat pockets, like a haunting with office supplies.
+447. The demolition crew found a time capsule in the school's foundation, full of letters to the future, which the future, on a deadline, put in a dumpster.
+448. The doctor asked my pain tolerance. I said I've attended eleven of my family's Christmases in a row. He cancelled the anesthesia consult.
+449. My uncle survived the avalanche by doing nothing, which was also his approach to work, marriage, and taxes, so the mountain was really his best-case scenario.
+450. The florist next to the hospital knows before anyone: carnations mean recovering, lilies mean not, and when the family switches orders mid-week, she starts the card early.
+451. The self-driving car asked me to confirm the destination twice, which is more hesitation than my father showed leaving.
+452. My grandmother's typewriter still has a page in it: "Dear children, if you're reading this, you finally cleaned the study."
+453. The town's psychic and the town's actuary retired the same year and opened a bar together called "Either Way."
+454. The kids' school play about the food chain was going fine until the kid playing the gazelle improvised, and now the school has a counselor and the gazelle has an agent.
+455. My father's eulogy was interrupted by his phone ringing in the casket. Unknown number. Even death screens him, and even death let it go to voicemail.
+456. The gym's "before and after" wall lost its meaning when Doug's "after" photo became his memorial photo, and the manager, to his credit, left the caption: "committed."
+457. My aunt's third husband is buried between the first two, which she calls "alphabetical order" and the groundskeeper calls "a filing system."
+458. The hospice cat sleeps on the bed of whoever is next, which the staff finds uncanny and the residents find rude when he leaves.
+459. The family's group photo at the reading of the will was the last one with everyone smiling, because it was taken before the reading of the will.
+460. My grandfather's toolbox had a drawer labeled "screws, assorted" and one labeled "regrets, assorted," and only one of them was organized.
+461. The playground's memorial bench for Mrs. Alvarez faces the school she taught at for forty years, so she can keep an eye on it, and the kids swear the bench sighs during recess.
+462. The airline's turbulence announcement said "nothing to worry about" in a voice that had personally chosen worry.
+463. My mother's funeral potatoes recipe card ends with "double it, people eat more when they're sad," underlined twice, dated the year Dad left.
+464. The apocalypse insurance policy I bought as a joke has a claims number, which means someone, somewhere, is staffing the end of the world in a call center.
+465. The retirement speech thanked Bob for forty years, and Bob, at the podium, thanked the company for "thirty-nine more than I planned," and sat down into a silence with an open bar.
+466. My cousin's baby is named after our grandfather, who owed everyone money, so the kid gets hugged and side-eyed at every christening by creditors with long memories.
+467. The night shift at the crisis hotline plays cards between calls, slowly, because winning means the phone didn't ring, and nobody brags about a good night.
+468. The house inspector's report had one line item in bold: "whatever is in the crawlspace pays rent or goes."
+469. My grandmother's church donated her pew a brass plaque, which is the closest that congregation ever came to admitting she'd paid for the roof.
+470. The doctor said my heart skips beats, and I said it's been doing that since 2009, when she left, and he wrote "poetic arrhythmia, untreatable."
+471. The kid sold "gently haunted" lemonade for a dollar more than regular, and made a killing, which is exactly the phrase on the sign.
+472. My uncle's storage unit auction sold his whole life for $340 to a stranger, who found the medals, tracked us down, and gave them back, making him the best man at the funeral.
+473. The last man on earth finally got some peace and quiet, and then, from the kitchen, his mother's voice: "Is that what you're wearing?"
+474. The family vault has room for eight, which Thanksgiving seating chart logic says will require two vaults and a mediator.
+475. My father's ashes weigh six pounds, which the funeral director called "average," and which is the only average my father ever accepted without argument.
+476. The town pool closed "for maintenance" in 2019, and the maintenance, judging by the fence and the flowers people leave, is grief.
+477. My therapist's waiting room has a white noise machine, so you can't hear the person before you, which is how I learned my brother's appointment is right before mine.
+478. The astronomer said the star we're watching died a thousand years ago, and my mother said, "So it's like your father's side: still showing up, long gone."
+479. The end-of-life doula asked Dad if he had any unfinished business. He looked at each of us, slowly, in order, and said, "Where would I start?"
+480. The cemetery's newest section has Wi-Fi, benches, and a coffee cart, because the living need amenities to visit the dead, and the dead, patient as ever, waive the review.
+481. My grandfather's compass always pointed home, which is why he threw it in the river in 1962 and bought a boat.
+482. The elementary school's pet funeral for the class hamster had better attendance than my retirement party, and the hamster's speeches were more sincere.
+483. The weather app added a "feels like" temperature, and I'm just waiting for the calendar app to add a "feels like" age, so it can tell me I'm 84.
+484. My aunt hyphenated her last name after the wedding, then subtracted after the divorce, then, at the estate hearing, showed the math.
+485. The building's elevator has a weight limit sign and a mirror, which is either engineering or commentary.
+486. My mother's "everything happens for a reason" survived three funerals and died at the fourth, mid-sentence, in the parking lot, and nothing replaced it.
+487. The lighthouse's automated light replaced old Pete, who now shines a flashlight from his porch at passing ships, out of spite, and two have thanked him.
+488. The doctor said, "At your age," and I stopped hearing the rest, the way you stop reading a rejection letter after "unfortunately."
+489. My cousin's true-crime bookshelf is organized by proximity: national, state, county, and one shelf, locked, labeled "family."
+490. The office moment of silence for Dale lasted twenty seconds before someone's calendar reminder chimed "Dale 1:1," and the calendar, unlike us, refused to accept it.
+491. My grandmother saved string, foil, bacon grease, and grievances, and at ninety-six the doctor said her heart was full, and none of us asked of which.
+492. The park's memorial trees have small plaques, and the oak for "Beloved Husband Frank" is planted exactly where Frank's wife could see it from her kitchen and he couldn't get further.
+493. The flight attendant demonstrated the brace position with the serenity of a woman who has read the statistics on the brace position.
+494. My uncle's exercise routine was pallbearing, six times a year, until he was promoted to cargo.
+495. The kids found the old family photo albums and asked who everyone was, and the answers were "dead," "dead," "your grandfather, dead," and "we don't say his name, also dead."
+496. My father measured everything twice and cut once, except with people, where he only cut.
+497. The retirement home's Wi-Fi password is "remember2forget," which the staff finds funny and the residents, briefly, do too.
+498. My grandmother's rosary broke during the funeral, and beads rolled everywhere, and the priest said, "She's making her rounds," and for once the whole family agreed on something.
+499. The neighborhood's "Slow: Children at Play" sign is riddled with buckshot, which raises exactly the questions the neighborhood likes to leave standing.
+500. The last entry in Dad's ledger was my name, an amount from 1998, and the word "pending," and the estate lawyer says it's not binding but we both know it was never about the money.
+501. The ice cream truck plays its song slower every summer, like even it knows how this ends.
+502. My aunt's grief group and her book club merged for budget reasons, and now they read a novel a month and cry about something adjacent.
+503. The morgue's employee parking has a spot marked "Reserved," unmarked further, and nobody parks in it, out of respect or superstition or the fact that it's always somehow in shadow.
+504. My grandfather never said goodbye on the phone, he just hung up, so his funeral felt familiar: he left, no closing remarks, and we all stood there holding the receiver.
+505. The school's grief counselor has a stress ball shaped like the earth, and by June it's just a flat blue thing, and honestly, same.
+506. My mother's oven timer still works, and sometimes it goes off on its own, and we take whatever's in the oven out, because arguing with her never worked before either.
+507. The town's fallout shelter sign points at a yoga studio now, which means in an emergency, we die flexible.
+508. My cousin willed his debts to his enemies, which the court rejected but the eulogy celebrated.
+509. The hospital's maternity ward and hospice share a courtyard, and the smokers from both meet in the middle, trading the same joke about arrivals and departures.
+510. My father's hammock hung between two trees for thirty years, and when he died one of the trees dropped a limb right through it, which the arborist called coincidence and my mother called "finally, agreement."
+511. The estate sale's free box held Dad's reading glasses, and a stranger tried them on, blinked at the world the way he did, and put them back fast.
+512. My grandmother's answer to "How are you?" was "Still here," delivered as a complaint, for forty years, until it stopped being true and started being missed.
+513. The office's fire evacuation map has a "You Are Here" dot, and someone drew a second dot outside labeled "You Wish."
+514. My uncle's houseplants were plastic, his lawn was painted, and his smile was practiced, and his autopsy was the first genuine thing he ever produced.
+515. The kids' time capsule letter to their future selves began "If you're reading this, you survived middle school," and the guidance counselor confiscated the second paragraph.
+516. My mother saved the good towels for guests who never came, and we buried her with one, finally a guest somewhere.
+517. The cemetery's oldest gravestone is illegible, which is everyone's gravestone eventually, minus the head start.
+518. My father's final crossword had one empty square, and the clue was "finished (4)," and we filled it in for him, in pen, the way he never let us.
+519. The doomsday preacher on Fifth Street updated his sign from "The End Is Near" to "The End Is Taking Longer Than Projected," and honestly, the accountability won me over.
+520. My grandfather's advice was "die with your boots on," and he did, in bed, because he was also wearing them there, because Grandma had stopped arguing decades ago.
+521. The therapist asked what I'd say to my younger self. I said, "Nothing, he doesn't listen, that's how we got here."
+522. The family recipe box's last card, in Grandma's handwriting, says "Ask me if you have questions," and we have questions.
+523. My uncle's dying words were "The password is—" and that's why the family fortune is technically still his.
+524. The hospice window faces east, so everyone gets one more sunrise than they expected and one fewer than they wanted.
+525. My father's obituary was two sentences, which he'd have called wasteful, since one of them was about us.

@@ -402,3 +402,83 @@
 398. Grandma calls the group chat "the party line" and honestly her generation's name for it was more accurate.
 399. Grandpa took one selfie in 2018, and it remains his contact photo, his ID photo, and his official portrait for all state functions.
 400. My grandmother reads text messages aloud, including the punctuation, so "K." from my aunt was performed as the threat it truly was.
+401. The family group chat observes no time zones, no quiet hours, and no statute of limitations on embarrassing photos.
+402. My mother uses the group chat's "reply" feature to respond to messages from last Tuesday, creating a second, ghostly timeline.
+403. My family has a group chat for logistics, and the logistics are 400 messages deciding a restaurant we've eaten at every Sunday since 2015.
+404. My uncle treats the family group chat like talk radio: he broadcasts hourly, takes no calls, and stands by every take.
+405. The group chat went silent for three days once, and Mom called each of us individually to confirm the family still existed.
+406. My sister sends articles to the family chat with "interesting read," which is group-chat code for "this is about one of you."
+407. Grandma reacted to my engagement announcement with the laughing emoji, and we've chosen to believe her thumb slipped.
+408. Our family chat's most viral message of the year was a photo of Dad asleep at a graduation, captioned by Dad.
+409. My brother changes the group chat name weekly, and Mom formally objects to each rename like it's a zoning dispute.
+410. The family group chat has never once resolved a plan; it exists solely to generate three phone calls and a misunderstanding.
+411. Someone sent "we need to talk" to the family chat with no follow-up for six hours, and four of us drafted apologies for four different crimes.
+412. My cousin only appears in the group chat to sell us things, like a traveling merchant with our shared blood.
+413. My aunt discovered GIFs this year, and the family chat now loads like a slot machine.
+414. Mom's typo in the group chat became family vocabulary; we've said "Merry Chrimbus" sincerely since 2019.
+415. The group chat poll to pick a reunion date got nine votes, seven write-in candidates, and one reply that just said "why."
+416. Family reunions are where strangers hug you aggressively because they changed your diaper once in the Carter administration.
+417. Our family reunion has matching T-shirts, which is helpful for identifying exactly who is judging you.
+418. At the family reunion, I met three cousins, two "cousins," and one man nobody could identify who ate like he was invited.
+419. The reunion potluck table is organized by rank: Grandma's dishes at the head, store-bought items in exile by the napkins.
+420. Every family reunion has one relative with a clipboard and a lanyard whose authority we all pretend is real.
+421. The family reunion group photo takes forty minutes, six phones, and one drone, and Uncle Pete blinks in all of them.
+422. Our reunion features a talent show where the only talent required is the confidence of a man doing card tricks badly.
+423. At the reunion, the old folks trade medical updates like baseball cards, and some of those cards are rookies.
+424. The family reunion name tags say "Hello, my name is," and my aunt's just says "You know who I am."
+425. Family reunions are the only place you can be told you got tall, got big, and got old within one buffet line.
+426. Our family tree research revealed we're related to royalty, criminals, and each other, and only one of those was a disappointment.
+427. My mother's side and my father's side have met exactly twice, and both times were described in hushed tones for years.
+428. The reunion ends with everyone saying "we should do this more often" in the tone of people who absolutely will not.
+429. Every family has a cousin who shows up to the reunion with a new business, a new girlfriend, and a new explanation for the old business.
+430. My mother guilt-trips with such artistry that museums should study her, though she'd say they never call, either.
+431. Mom's "I'm fine" has more layers than her lasagna and takes longer to get to the bottom of.
+432. My mother apologizes by making your favorite dinner and never mentioning the incident, a system with no appeals process.
+433. Dad's love language is checking your tire pressure and leaving before it gets emotional.
+434. My father has two emotions: proud of you, and worried about the gutters, and he expresses both by clearing his throat.
+435. Dad doesn't say "I love you"; he says "text me when you get home," which is the same thing with a tracking number.
+436. My mom narrates her errands to no one, and now I narrate my errands to no one, and my daughter has started narrating, and so the prophecy continues.
+437. My father's answer to every ailment is "walk it off," including, memorably, my brother's appendicitis.
+438. Mom keeps a mental ledger of every favor since 1988, and the interest rate is compound guilt.
+439. My dad communicates pride exclusively through third parties, so I learn he bragged about me the way I learn about weather in other states.
+440. My mother can turn "no, it's fine" into a three-act tragedy with an intermission for sighing.
+441. Dad's grilling advice is a sacred oral tradition passed from father to son, and it is entirely wrong about chicken.
+442. My mom saves plastic bags inside a bigger plastic bag, which is either thrift or a nesting doll of generational trauma.
+443. My father reads the manual for nothing and the receipt for everything.
+444. Mom ends phone calls with fifteen minutes of new topics initiated after the word "goodbye."
+445. My dad has never been lost, only "taking the scenic route," including the time the scenic route crossed a state line.
+446. My parents downsized to a smaller house and somehow kept every trophy I won before age nine.
+447. Mom's spice cabinet has spices older than her grandchildren, and she defends them like veterans.
+448. My father whistles one song, has whistled it for forty years, and no one in the family has ever identified it.
+449. My parents' thermostat is set to "sweater weather" indoors, and adjusting it is the only sin without absolution in our house.
+450. Mom introduces me as "my son, the doctor" even though I'm an accountant, because she's decided the details are negotiable.
+451. Empty nesters are just parents who finally got the house quiet and immediately filled it with a dog they treat better than us.
+452. My parents turned my bedroom into a gym the week I left, which is the most exercise that room has ever inspired.
+453. My retired dad has three jobs now: supervising the neighbors, reviewing gas prices, and forwarding me news about my own profession.
+454. Since retiring, my father has strong opinions about the mail carrier's route efficiency and has drafted maps.
+455. My parents call me on speakerphone together, which is less a call and more a live studio audience with interruptions.
+456. Mom and Dad have been married forty years, which they attribute to love, patience, and separate opinions kept in separate rooms.
+457. My parents' bickering is so well-rehearsed it has callbacks, running bits, and a matinee on Sundays.
+458. Dad drives, Mom navigates, and their marriage survives because the car ride ends before the appeal process does.
+459. After forty years of marriage, my parents finish each other's sentences with corrections.
+460. My parents fight about the dishwasher loading like it's a border dispute, complete with maps, treaties, and annexed silverware.
+461. Aunt Patty's hugs come with a full-body scan and a report issued to the family within the hour.
+462. Every family has an aunt who ends gossip with "bless her heart," which is a eulogy for someone still alive.
+463. My uncle's stories have a 40 percent survival rate for facts and a 100 percent commitment to the bit.
+464. Uncle Ray shows up to every family event with a new gadget, a new diet, and the same old debt to my father.
+465. My aunt gives out compliments like subpoenas: "You look healthy" means something and you'll find out what.
+466. Every family has one uncle who does the same magic trick at every gathering, and we've watched that quarter disappear for thirty years, along with our patience.
+467. My aunt has never arrived anywhere on time, but she has arrived at every event with a story about traffic that improves annually.
+468. Uncle Gene's conspiracy theories used to ruin Thanksgiving; now we schedule him like entertainment and sell tickets to the cousins.
+469. My godmother sends birthday cards with money, wisdom, and one sentence of light espionage about the rest of the family.
+470. Every family has a cousin who is "between opportunities" at every gathering across three decades of opportunities.
+471. My cousin got famous on the internet for a week, and our family still introduces him as "the celebrity" at church.
+472. Cousins are just siblings with a buffer zone and better dirt.
+473. My cousin and I bonded for life the summer we jointly denied breaking the garage window, and our pact has outlasted two of his marriages.
+474. The cousin hierarchy is set in childhood: whoever controlled the video games then controls the reunion playlist now.
+475. Family holidays with divorced parents means two Thanksgivings, two Christmases, and one child doing shuttle diplomacy with a suitcase.
+476. My blended family holiday schedule requires color-coded calendars, three time slots, and the diplomatic instincts of a UN veteran.
+477. My stepdad and my dad get along great, which everyone says is wonderful and my mother finds vaguely insulting.
+478. Co-parenting during the holidays means negotiating custody of Christmas morning like it's beachfront property.
+479. My half-brother, stepsister, and I made a family tree for school, and the teacher gave us extra credit and a counselor's card.
+480. Our blended family is beautiful: two dads at graduation, three names on the emergency form, and one child who plays all sides like a diplomat.

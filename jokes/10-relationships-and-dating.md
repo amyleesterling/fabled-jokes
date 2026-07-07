@@ -401,3 +401,125 @@
 398. Love in the digital age is drafting a risky text, deleting it, and then sending it anyway at the exact moment they were doing the same thing.
 399. He said he was "emotionally fluent," and he was, in one emotion, the way tourists are fluent in "beer, please."
 400. Four hundred jokes deep, and like every long relationship, we're both wondering who's going to bring up where this is going.
+401. My wife alphabetized my hot sauces while I was at work, and now I can find everything except a reason to complain.
+402. He said, "Let's split a dessert," and then defended his half like a border dispute.
+403. Our breakup playlist has 47 songs, which is 46 more than the relationship deserved and exactly what my healing required.
+404. She moved my furniture two inches to the left, and I discovered it with my shin, at midnight, which is how she communicates change management.
+405. Dating apps in a small town are just a yearbook with lighting upgrades.
+406. My husband negotiates with the dryer like it's a hostage situation: "Just give me the other sock and nobody gets folded."
+407. He canceled our third date "for a family thing," and his cousin's story showed the family thing wearing a bodycon dress at a rooftop bar.
+408. Marriage is two people arguing about whether the dishwasher pods go in the little door or the general area, for life.
+409. My girlfriend says, "I'm almost ready," in the same tense that geologists use for continental drift.
+410. And I say, "I'm on my way," from my couch, in my towel, so we've synchronized our fictions beautifully.
+411. The ex who said I was "too much" married someone whose hobby is competitive yodeling, so apparently the ceiling for "too much" was negotiable.
+412. Our therapist asked us to hold hands during hard conversations, so now we argue like we're about to bungee jump.
+413. He listed "travel" as his personality, and after three dates I can confirm he has been to places and returned unchanged.
+414. My in-laws gave us a gravy boat, and we've used it twice: once for gravy and once as evidence in the argument about registries.
+415. She said, "I hate surprises," so I told her about the party in advance, and she said, "You ruined it," and the jury is still out on everything.
+416. Modern love: we met in the comments section, fell in love in the DMs, and broke up in a shared calendar notification.
+417. My boyfriend calls the grocery store "doing errands" like it's a deployment, complete with debrief and complaints about morale.
+418. The first "you up?" text is a question; the fifth is a lifestyle; the tenth is a lease you never signed.
+419. Our anniversary is in tax season, which means every year my husband says, "I love you," and, "Did you keep the receipts," in the same breath.
+420. He wore a wedding ring on the first date and said, "It's complicated," and I said, "It's actually one of the simpler rings to interpret."
+421. My wife's hair ties are everywhere except her hair, like a species marking territory.
+422. And my beard trimmings apparently constitute "a crime scene," so the ecosystem balances.
+423. Breakup advice: don't text him, don't call him, and if you must drive past his house, use a rental.
+424. She said her walls were up because of her ex, and I get it, but I was hired for interior work and kept getting billed for demolition.
+425. Married people don't fight about big things; we fight about the correct way to hang a roll of paper towels, which is the big thing.
+426. My date said he was between jobs, between apartments, and between relationships, and I said I was between the table and the exit.
+427. Couples therapy homework: compliment each other daily. Day one: "You're better at this than I expected." Day two: session moved up.
+428. He said absence makes the heart grow fonder, and then tested the theory until my heart grew a lawyer.
+429. Our toddler asked why mommy and daddy sleep in one bed, and we said love, and she said, "But you have a whole couch," and honestly she's seen things.
+430. The situationship lasted nine months, which is ironic, because the one thing it could never do was deliver.
+431. My girlfriend does the "I'm fine" that comes with a font, a tone, and terms of surrender.
+432. He wanted a woman "who could keep up with him," and I did, straight to his other girlfriend's birthday dinner.
+433. Marriage is realizing your spouse's alarm goes off six times, and each one is for a different version of them, and none of them get up.
+434. My ex-wife and I split the friend group in the divorce, and she got the fun ones, which I only know because the boring ones tell me.
+435. She asked for my Instagram before my number, which is the modern background check, and I passed with three flags.
+436. We bought a mattress together, which is scarier than a lease, because a lease doesn't know how you argue in a showroom.
+437. My mother-in-law signs her texts "Mom," in quotes, and I've spent years decoding the punctuation.
+438. He said, "I don't need therapy, I have the gym," and his deadlift is impressive, but it never once asked him about his father.
+439. Our first fight as a married couple was in the parking lot of the reception, over who forgot the card box, and the marriage has been faithful to that theme.
+440. Dating in the digital age means your relationship can be long-distance even when you live together, depending on the Wi-Fi and the mood.
+441. My boyfriend cooks with every pot we own, like the meal is being catered for the pots.
+442. She said, "Tell me something nobody knows about you," and I did, and now two people are uncomfortable at this Olive Garden.
+443. The ex who "wasn't ready for commitment" now posts weekly about his sourdough starter, which he has kept alive longer than us.
+444. My husband and I do trivia night as a team, which is how the whole bar learned about the incident in Portugal.
+445. He said, "You deserve someone who can give you more," and then dated someone he gave more to, so it was less a breakup and more a price quote.
+446. Our couples counselor uses a sand timer for speaking turns, and we've both learned to talk like auctioneers.
+447. My girlfriend claims she's "not competitive," and our Monopoly set is in two households now.
+448. Love is sharing your fries without doing inventory, and marriage is doing inventory anyway, out loud, as a bit, for years.
+449. He put his location as "everywhere and nowhere," which turned out to mean his mom's basement in a suburb with excellent schools.
+450. The wedding toast from his college roommate told me more about my husband in four minutes than three years of dating had.
+451. My ex said, "I'll always care about you," which is what people say when they've switched you to their loyalty program.
+452. We downloaded a couples app to sync our schedules, and now the app knows we're avoiding each other with impressive coordination.
+453. She wanted a man in touch with his feelings, and I'm in touch with them the way I'm in touch with my cousin: holidays, briefly, with dread.
+454. Marriage means becoming bilingual: you speak your language and fluent Sigh.
+455. My date said, "I never do this," about a third date, dessert, and answering my texts, and the pattern was the real red flag.
+456. In-laws don't knock, they arrive, like weather.
+457. He said, "If it's meant to be, it'll be," which is a beautiful way to describe doing absolutely nothing and calling it fate.
+458. Our joint Costco membership has outlasted two cars and one couples therapist, because bulk pricing is the strongest bond known to science.
+459. My girlfriend reads the last page of books first, which explained why she asked about my retirement plan on date two.
+460. Breaking up with a gym couple means someone has to change gyms, and the custody hearing for the 6 a.m. spin class was brutal.
+461. My wife says I have selective hearing, and I chose not to hear that.
+462. He said his biggest fear was "being ordinary," and then ordered the same burger, told the same story, and ghosted the same way as the last three.
+463. We fell in love in the smoking area, quit together, and now we're each other's replacement habit, complete with cravings and relapses.
+464. My ex's mother still sends me birthday cards, which means I won the breakup where it counts: the maternal bracket.
+465. She said, "Don't make it weird," after telling me she'd read all my texts to her from her sister's phone first, as a screening process.
+466. The most married sentence in the English language is, "We have a thing that Saturday," said by someone who cannot name the thing.
+467. My boyfriend measures our relationship in video game terms: we started co-op, unlocked the apartment level, and now he's afraid of the marriage boss fight.
+468. Couples who whisper-fight at parties think they're subtle, but every guest has already chosen a side and a beverage.
+469. He said, "I'm not ready to meet your parents," after two years, and my dad said, "Same," which is the closest they ever came to bonding.
+470. Our dishwasher broke, and washing dishes by hand together for a week did more than four months of therapy, mostly out of shared rage at the dishwasher.
+471. My situationship introduced me as "his friend," so I introduced him as "my rough draft," and suddenly labels mattered.
+472. Marriage is arguing about whether you're arguing.
+473. My wife bought a decorative pillow that says "Home Sweet Home," and its main function is being thrown off the bed nightly, like a tiny recurring eviction.
+474. He said, "I love you," first, at a gas station, over the sound of the squeegee, and I said it back, because romance is about timing and ours was broken.
+475. The dating app asked, "What's your idea of a perfect first date?" and I wrote, "One that ends with both phones face down," and got flagged for extremism.
+476. My ex left his gaming chair when he moved out, and it's the most supportive thing he ever brought to the relationship.
+477. She said, "We never do anything fun anymore," while we were at an escape room, which we did not escape, for reasons the staff called "interpersonal."
+478. My in-laws' dog likes me more than they do, which I've weaponized at every gathering by simply holding him and smiling.
+479. He wanted "a partner, not a project," and I wanted the same, and we spent two years renovating each other anyway, without permits.
+480. Our love language quiz results came back, and mine said "acts of service" and his said "results pending," which the website swears isn't an option.
+481. My husband says, "It's on my list," and I've never seen the list, but it must be beautiful, a museum of intentions.
+482. She broke up with me at a farmers market, between the honey stand and the man playing pan flute, so now all my grief is locally sourced.
+483. Dating coaches tell you to "be yourself," which is how I know they get paid either way.
+484. My girlfriend and I both pretend to be asleep when the dog barks at 3 a.m., in what scientists call the longest-running clinical trial of marital chicken.
+485. He said, "I don't text first, it's a power thing," and I said, "So is this," and let the silence become my legacy.
+486. Our wedding was perfect except for one small hiccup: the officiant called me by his ex's name, which he had also done, once, memorably.
+487. The best relationship advice I ever got came from a divorce lawyer: "Everything you're about to ignore, I'm going to bill for later."
+488. My ex said I was "hard to love," and my husband says I'm "a puzzle," and I've decided the difference between those men is effort and vocabulary.
+489. We assemble holiday gifts for the kids at midnight every year, whisper-arguing over instructions, and honestly it's our most consistent date night.
+490. She said, "You never open up," so I told her my fear of dying alone, and she said, "Not now, we're at brunch," and honestly, fair, the frittata had arrived.
+491. My boyfriend treats "checking the score real quick" like a legal loophole that covers three hours and two overtimes.
+492. Long marriages have a shorthand: she says "the thing," I say "the guy," and somehow we arrive at the same restaurant angry about the same neighbor.
+493. He matched with me, messaged "hey," and then let the match expire, which in dating app terms is buying a plant specifically to not water it.
+494. My wife and I trade the last bite of dessert back and forth so long it becomes a diplomatic gift, like a panda.
+495. The situationship's final form: liking each other's posts forever, like two lighthouses that never got the budget for a bridge.
+496. My mother-in-law says, "You look tired," as a greeting, a verdict, and a family motto.
+497. He said, "Marriage is just a piece of paper," and I said, "So is money," and watched him develop a sudden respect for paper.
+498. Our couples therapist asked, "What first attracted you to each other?" and we both smiled for the first time in weeks, which was her whole trick, and worth every penny.
+499. My date said, "I'm an empath," and then didn't notice I'd been signaling for the check for twenty minutes.
+500. Five hundred jokes about love, and my wife just read over my shoulder and said, "Which one is about me?" and folks, they all are, and I'm saying none of them are.
+501. My ex-husband kept the air fryer, and some nights I miss it, and by it I mean I've moved on completely.
+502. She says, "I don't want to talk about it," and then talks about it, at length, with slides, and I've learned my role is audience, not panel.
+503. The first winter together is when you learn if you're dating a "layers" person or a "why is the heat at 74" person, and there is no third kind.
+504. My boyfriend apologized with flowers, then with dinner, then correctly, with words, and the learning curve took only four years and one grocery store meltdown.
+505. Dating profiles say "love to laugh" like it's rare, but nobody writes the truth: "love to be right," and that's the compatibility question.
+506. We got matching tattoos on our third date, and the relationship lasted two months, so now I have permanent proof that I commit harder than I vet.
+507. My wife plays white noise to sleep, and I play a podcast, and our bedroom sounds like a rainforest where two men argue about the Roman Empire.
+508. He said, "You're the female version of me," and I broke up with him out of respect for what he'd just confessed.
+509. In-laws at the hospital when the baby came: her mother brought food, my mother brought opinions, and both were technically nourishment.
+510. Our last fight ended when the smoke alarm went off, and we've considered installing more of them, in every room, as mediators.
+511. My situationship texted, "Thinking of you," at 2:14 a.m., which is less a feeling and more a bar closing.
+512. She wanted a gentleman, so I opened every door, and she walked through the last one with my roommate, which, credit where due, I held open.
+513. Marriage after kids means your love language is now "I let you sleep in," and it's the most erotic sentence in the house.
+514. My ex said, "I never loved you," in the fight, then, "I didn't mean that," in the apology, and the truth lives somewhere between, paying no rent.
+515. He does that husband thing of standing in front of the open fridge announcing there's no food, in front of the food, like a weatherman denying rain in a storm.
+516. And I do that wife thing of saying, "We need to leave by six," at five, at five-thirty, and then at six-fifteen, from the bathroom, in one shoe.
+517. The dating app's "verified" badge confirms his face, but there's no badge for "will help you move," and that's the verification that matters.
+518. My wife and I renew our library cards together every three years, which is the quietest vow renewal in America and the only one with late fees.
+519. He ghosted me in October and resurrected in December, which isn't a relationship, it's a religious calendar.
+520. Our couples therapist finally said, "You two actually like each other," and we both said, "Don't tell them," about the other one, in unison, and she closed our file with a smile.
+521. Love, in the end, is just two people agreeing to witness each other's browser history of choices and stay logged in anyway.
+522. My husband read this whole list and said, "I don't get number 12," and if you scroll back, you'll see that's the best review it could ever receive.

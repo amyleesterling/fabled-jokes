@@ -322,3 +322,83 @@
 318. The connecting flight boarded from a bus, onto stairs, in rain, at night, which budget airlines call "direct tarmac access" and I call "the second act of a war movie."
 319. The tide came in while we napped on the beach, redistributing our shoes along the coastline like a promotional giveaway.
 320. My out-of-office says I have "limited access to email," which is true in the sense that I am limiting my access, from a hammock.
+321. The hotel's decorative bed runner has one job, and that job is to be thrown on the floor by every guest since the building opened.
+322. My flight's gate agent announced a "slight delay" four times, which added up to a night in a terminal that plays smooth jazz at people like a punishment.
+323. The tourist map from the hostel has cartoon landmarks the size of city blocks, so I navigated by giant drawings of pretzels and regret.
+324. The overnight train's dining car ran out of everything except a soup no one ordered and everyone eventually ordered.
+325. My friend who studied abroad for one semester says "when I lived in Europe" the way generals say "when I was at war."
+326. The hotel key card sleeve has the wifi password on it, and the wifi password is where hope goes to buffer.
+327. Renting a scooter on vacation is how confident tourists become case studies in the phrase "the hospital was very nice, actually."
+328. The trail's "moderate incline" was moderate in the way that a heart attack is a cardiac event: technically named, personally devastating.
+329. My airline seat neighbor watched three movies without headphones plugged in fully, so I also watched three movies, through one ear, against my will.
+330. Beach parking costs forty dollars, which the ocean, famously free for four billion years, would find hilarious.
+331. The travel blog said "eat where the menus have no photos," and the locals said "we eat at the place with photos, the photos place is great."
+332. My hotel room's air conditioner had a remote, the remote had no batteries, and the front desk had a tone.
+333. The ferry crossing was "twenty minutes in good conditions," and conditions, like my inbox, are never good.
+334. The theme park's "45-minute wait" sign is a novelist: it builds a world, makes promises, and betrays you in the third act.
+335. My passport renewal photo rules forbid smiling, which is fine, because the fee already handled that.
+336. Every trailhead has a log book, and every log book has one entry that just says "beautiful!" and one that reads like the start of a survival film.
+337. The city's hop-on hop-off bus is perfect for seeing all the traffic a city has to offer.
+338. My luggage scale and the airline's scale disagree by exactly the weight of one pair of shoes, always in the airline's favor, always at the counter.
+339. The mountain lodge's "cozy" room description was accurate if cozy means the bed touches three walls and the door opens into a decision.
+340. Airport family restrooms are the terminal's best-kept secret, guarded by the sisterhood of parents who will not be telling you.
+341. The all-inclusive wristband tan line is the resort's parting gift: a pale bracelet that says "ask me about the buffet" for six weeks.
+342. My roadside attraction detour added two hours for a ball of twine, and I regret only that we didn't stay longer.
+343. The redeye's window shade rule is simple: whoever opens it at dawn over the ocean owes the entire cabin a personal apology.
+344. Hotel pools post "no diving" beside four feet of water, protecting a generation of optimists from geometry.
+345. The bike tour's "mostly downhill" description covered the first half, because the guide, like all storytellers, knew to open strong.
+346. My travel journal from the trip contains three pages of budgeting, one pressed flower, and the word "tired" in four languages.
+347. The cruise ship's Wi-Fi package costs more per day than the cabin, because at sea, the scarcest resource is your group chat.
+348. The airport's terminal renovation has been "improving your experience" since before my passport photo grew out its bangs.
+349. My beach town parking spot was so far from the beach it had its own microclimate.
+350. The visitor guide's "must-see" list has forty items for a two-day trip, because guilt is the official souvenir of every city.
+351. The rental cottage's welcome binder is 60 pages, and page one is the wifi, and pages two through sixty are threats about the septic system.
+352. My connecting airport's terminals are connected by a train, a tunnel, a shuttle, and a rumor.
+353. The nature cruise guaranteed whale sightings or your money back, and the whales, who never signed this contract, stayed home.
+354. Vacation grocery stores in beach towns price sunscreen like it's imported from the sun itself.
+355. The airline's meal came with a fork, a napkin, and a cube of cheese whose origin, purpose, and species remain classified.
+356. My hotel room faced the courtyard musician, who knew four songs, loved two of them, and worked long, honest hours.
+357. The mountain pass closes in winter, opens in spring, and terrifies in all seasons, which the locals call "the shortcut."
+358. Airport arrivals is the most romantic place on earth for ten minutes, and then you're in the cell phone lot circling like a vulture with a text tone.
+359. The walking tour was "at a leisurely pace," set by a guide whose legs were leisure-trained cross-country machines.
+360. My spontaneous trip was so spontaneous the hotel, flights, and restaurant reservations only took three weeks of spreadsheets.
+361. The tropical rain came at 3 p.m. daily, on schedule, which makes it the most reliable form of transportation-adjacent weather I've ever met.
+362. The famous market opens at dawn, and by 9 a.m. it's 80 percent tourists photographing the last three actual shoppers like wildlife.
+363. My aisle-seat strategy is airtight until the window passenger, a hydrated marathoner, begins her hourly pilgrimage.
+364. The lake was "a short drive" from the cabin, in the way that the moon is a short drive if the road went there.
+365. Hotel breakfast ends at 9:30 sharp on the one day of your vacation you finally slept, a law of physics no scientist will touch.
+366. The border town's currency situation is "we take both," at a rate invented fresh for each transaction, like a small-batch exchange rate.
+367. My hiking group has a "we stay together" rule that dissolves at the first switchback into three separate expeditions and a hostage (me).
+368. The cruise terminal's departure process involves four lines, three documents, two wristbands, and one photographer ambushing you in front of a fake life preserver.
+369. Every old city has a famous clock that tourists gather to watch strike noon, and the clock does exactly what clocks do, and we cheer, and it's beautiful, and I don't understand it either.
+370. My checked bag was "loaded onto the aircraft" according to the app, which aircraft, going where, remains between the bag and its higher power.
+371. The glamping tent had a chandelier and no heat, prioritizing exactly what the brochure photographer needed.
+372. Vacation alarm clocks work in reverse: you sleep through the sunrise cruise and wake at dawn on the do-nothing day.
+373. The interstate's "scenic byway" sign points to a road that adds ninety minutes, and the day you finally take it is the day you understand road trips.
+374. The resort's swim-up bar means you can drink without leaving the pool, combining hydration and dehydration into one billing system.
+375. My travel companion reads every plaque, and I photograph every plaque to read later, and neither of us has retained a single plaque.
+376. The airport's water bottle filling station counts bottles saved, and I refuse to be emotionally manipulated by a fountain, and also I felt great about bottle 1,000,001.
+377. The night market food stall with the longest line had the best food and the strongest argument against my dinner reservations.
+378. My rental car's fuel type was a mystery I solved at the pump, slowly, in front of a line, using context clues and prayer.
+379. The B&B's resident cat decides which guests matter, and the entire economy of the household bends to its verdicts.
+380. Every coastal town's lighthouse has a gift shop now, because even the loneliest job on earth eventually gets a point-of-sale system.
+381. The tour's "authentic village experience" had a schedule, a script, and a QR code, and the village watched us experience it with professional patience.
+382. My phone died at 2 percent the moment I opened the boarding pass, at the front of the line, as foretold by the prophecy.
+383. The campsite's "potable water" spigot is a quarter mile away, which converts every glass of water into a decision about how thirsty you really are.
+384. Hotel do-not-disturb signs work perfectly on housekeeping and not at all on the fire alarm test, scheduled for the morning after your redeye.
+385. The city's most famous bridge is best photographed from the other bridge, a fact that keeps both bridges employed.
+386. My motion sickness medication offers two options: nausea, or watching the fjords through the fog of an involuntary nap.
+387. The airline's boarding music is designed to soothe, which it would, if it weren't underscoring a land rush for bin space.
+388. The island had one road, one gas station, and one guy who owned both, and his mood was the local economy.
+389. My beach day inventory: two towels, one umbrella, three waters, five snacks, zero of the sunscreen, which is at the hotel, doing nothing.
+390. The train station's departure board flips through cities like a slot machine, and somewhere on it is your platform, changing.
+391. Vacation friendships are formed in two hours at a swim-up bar and maintained for eleven years by liking each other's photos of soup.
+392. The trail's summit register is a notebook in a metal box, and signing it is the closest most of us get to a legacy, and honestly it's not bad.
+393. My hotel's "complimentary shuttle" runs on the hour, except the hour you need, which it observes as a holiday.
+394. The moving walkway's "please hold the handrail" recording has said its line four million times, and it's still more sincere than my out-of-office.
+395. Every road trip's final stretch includes a silent agreement to stop for nothing, immediately broken by the world's most advertised fireworks store.
+396. The seaside restaurant's "catch of the day" costs market price, and the market, apparently, is doing incredibly well.
+397. My airport goodbye was cinematic: long hug, teary wave, and then we walked in the same direction for four minutes because parking was that way too.
+398. The hotel's twenty-four-hour front desk is staffed at 3 a.m. by one guy who has seen every kind of human emergency and rates yours a four.
+399. The map's legend says one inch equals ten miles, and my legs say the legend is a liar.
+400. Baggage claim reunions are the purest joy in travel: strangers weep for family, and I weep for a duffel bag, and the emotion is identical.

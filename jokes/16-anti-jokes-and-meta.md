@@ -402,3 +402,83 @@
 398. Why did the ram charge? Rut season. Testosterone. Do not approach rams in autumn. This joke is also a safety bulletin.
 399. What do you call the calm before the storm? Wednesday, if the storm is joke 400 claiming to be special.
 400. Four hundred. The joke equivalent of a car odometer hitting a round number: you look at it, feel something small, and keep driving.
+401. Why did the crossword puzzle apologize? It gave you "four-letter word for joke" and the answer was "JEST" when you'd confidently inked "THIS."
+402. What did the sleeping bag say to the camper? Nothing, but it did that zipper thing at 2 a.m. that sounds like a bear, free of charge.
+403. A guy walks into a bar with a script. "I've written the perfect joke," he says. The bartender reads it and nods. Neither of them will tell you what it was. This is that joke's biography.
+404. Joke not found. The requested humor may have been moved, deleted, or was never funny to begin with.
+405. Why did the beekeeper wear white? Bees respond aggressively to dark colors, which resemble predators. Fashion had nothing to do with it, though he does look crisp.
+406. What do you call a punchline with imposter syndrome? Accurate self-assessment, in this file.
+407. Knock knock. Who's there? An unreliable narrator. An unreliable narrator who? There was never a door.
+408. My joke completed a marathon. Slowly, in the setup portion, with a walking break here in the middle, and — there's the finish line, no crowd, someone hands it a banana.
+409. Why did the peacock spread its feathers? Courtship display. There was a peahen present. It was not doing it "for the group chat."
+410. What did the treadmill say to the runner? Nothing, but its display said 0.0 miles traveled, which is the most honest review of running indoors ever published.
+411. A spoiler walks into a bar and tells everyone the bartender did it. The mystery novel readers in the corner riot. The bartender, who did do it, quietly slips out.
+412. Why did the anti-joke refuse to punch up or down? It doesn't punch. It gently informs.
+413. What do you call a wolf that knows sign language? An extraordinary research finding awaiting replication. Currently we have zero such wolves. The number is zero.
+414. My punchline went on a silent retreat. It came back exactly the same, but now describes its silence as "intentional."
+415. Why did the elevator make everyone uncomfortable? Full capacity, prolonged eye contact impossible to avoid, and someone said "well, this is us" at their floor. The elevator itself was blameless.
+416. What did the flag say to the wind? Nothing, but it waved back so enthusiastically that three drivers thought it knew them.
+417. Knock knock. Who's there? An abandoned draft. An abandoned draft wh
+418. Why did the squid ink the water? Predator response. It felt threatened. Possibly by joke 417, which is still unresolved back there.
+419. What do you call a joke lab? A joke laboratory. Compound words are not riddles.
+420. This number arrived expecting special treatment. It has been seated with 69 (joke 69) at the table for numbers that think they're the punchline.
+421. A guy walks into a bar with a portable hole. He sets it against the wall and walks through it. The bartender charges him for a door. Fair is fair.
+422. Why did the choir sing in rounds? Because "Row, Row, Row Your Boat" is structured that way. It was choir practice. Rounds happened. Journalism.
+423. What did the seismograph say during the earthquake? Everything, in jagged lines, while every other machine in the building played it cool.
+424. My setup entered a witness protection program too. It now opens jokes as "A gentleman ambulates into a tavern," and nobody has recognized it yet.
+425. Why did the star twinkle? Atmospheric turbulence refracting its light. From space, stars are steady. Romance is a viewing-angle problem.
+426. What do you call a comedian's fallow period? A "creative reset," publicly. Privately, jokes 404 and 417 know what it's called.
+427. Knock knock. Who's there? The Department of Redundancy Department. The Department of Redundancy Department who? Who's there? Knock knock.
+428. A punchline sues its setup for defamation of expectation. The court rules the setup implied nothing actionable. Costs awarded to the audience.
+429. Why did the cactus survive the drought? Water storage tissue and reduced leaf surface area. It wasn't grit. Stop putting motivational quotes on cactus photos.
+430. What did the printer say at 2 a.m.? One long alignment noise, unprompted, to an empty office. Nobody knows why. IT has stopped asking.
+431. My joke identifies as an essay now. It has a thesis (jokes are structures), evidence (this file), and a conclusion (you're still here, so the structure holds).
+432. Why did the seagull steal the fries? Opportunistic feeding behavior reinforced by decades of boardwalk success. The seagull is not "a menace." It's a professional.
+433. What do you call an anti-joke's origin story? A joke that lost everything and kept the format.
+434. A guy walks into a bar and orders "the usual." He's never been here. The bartender pours a beer, because that's usually it. Both men feel understood.
+435. Why did the punctuation mark leave the joke! Because someone put it in the wrong place, exactly like that?
+436. What did the compass needle say to true north? Nothing, and it doesn't even point at you, it points at magnetic north, which is like you but moves around Canada.
+437. Knock knock. Who's there? Survivorship bias. Survivorship bias who? Every knock-knock joke you remember is one that survived. Think of the fallen. This is their memorial.
+438. My punchline joined the circus. It performs nightly as "The Amazing Anticlimax." Crowds gather. Nothing happens. They cheer, confused.
+439. Why did the sourdough starter get a name? Its owner is emotionally invested. The starter, a colony of yeast and bacteria, answers to "Gerald" the way weather answers to prayer.
+440. What do you call a joke told at a funeral? Risky, unless the deceased wrote it into the eulogy, in which case it's the best joke ever told, guaranteed, no matter what it is.
+441. A guy walks into a bar backwards. The bartender says, "Leaving so soon?" They've done this bit every Friday for nine years. The other regulars have learned to love it, the way you love a train schedule.
+442. Why did the moth eat the sweater? Larval moths eat the sweater. Adult moths get blamed. It's a multigenerational scheme and the adults are the getaway drivers.
+443. What did the understudy punchline do when the star punchline got sick? Went on, said the same words, got the same silence. The show, technically, went on.
+444. My joke was carbon dated. Results: written this morning, feels Paleolithic.
+445. Why did the horse win the spelling bee? It didn't. Horses were not permitted to register. The spelling bee proceeded normally and a child named Priya won. Congratulations, Priya.
+446. What do you call the space between a setup and a punchline? A beat. This joke consists entirely of one. Enjoy.
+447. Knock knock. Who's there? An optimist. An optimist who? An optimist who's sure THIS knock-knock joke will be the one that's finally funny.
+448. A joke checks into a hotel and asks for a wake-up call. At 6 a.m. the phone rings and a voice says, "You're not funny." The joke requested this. It's trying to stay humble.
+449. Why did the mirror crack? Impact or thermal stress. Seven years of bad luck is not a recognized failure mode in materials science.
+450. What did the punchline say at its retirement party? "I never wanted to be the punchline. I wanted to be the pause before it." There wasn't a dry eye. Then a long pause. Perfect attendance at its own dream.
+451. Why did the anti-joke cross the road? To demonstrate that crossing roads is unremarkable and the chicken deserved none of this scrutiny.
+452. What do you call a bilingual pun? Twice the groan for half the audience.
+453. My setup bought a gym membership in January. It's now much stronger than the punchline, which everyone agrees is worse somehow.
+454. Why did the lighthouse keeper tell no jokes? He told plenty. To the sea. The sea has heard every joke ever written and still keeps showing up, which is the most generous review in history.
+455. What did the QR code say to the barcode? Nothing readable to us, but somewhere a scanner blushed.
+456. Knock knock. Who's there? A locked-room mystery. A locked-room mystery who? Exactly — the door was locked from the inside. How am I knocking? Detective, this case has levels.
+457. A guy walks into a bar and asks the bartender to surprise him. The bartender does nothing. The guy waits. Still nothing. He leaves, and THAT'S when the bartender pours the drink. Nobody sees it. True surprise has no witnesses.
+458. Why did the punchline take up gardening? It wanted to finally plant something and watch it land. That's not how gardening works, but growth isn't linear.
+459. What do you call a joke that works in any order? Call a what you do joke that in works order any.
+460. My joke got a tattoo of its own punchline so it would never forget it. The tattoo is blank. The artist understood the assignment perfectly.
+461. Why did the pigeon strut? Pigeons bob their heads to stabilize vision while walking. Confidence was never part of it. It cannot help how it looks. Neither can this joke.
+462. What did the search engine say to the question? Four ads first, like always.
+463. Knock knock. Who's there? Consistency. Consistency who? Knock knock. Who's there? Consistency. Consistency who? Knock knock.
+464. A joke walks into a bar carrying its own laugh track. It presses play after the punchline. The recorded laughter is at the wrong joke. Even the machine has notes.
+465. Why did the sommelier describe the wine as "amusing"? Trade jargon for light and unpretentious. The wine told no jokes. It was grapes the whole time.
+466. What do you call a punchline's punchline? Overengineering. This joke has one anyway: no it doesn't.
+467. My setup was voted "Most Likely to Deliver" in high school. Its yearbook quote was the first half of a sentence.
+468. Why did the ferret hide the keys? Cache behavior. Ferrets stash shiny objects instinctively. Your keys are behind the couch, along with a bottle cap and, inexplicably, a single domino.
+469. What did the exit sign say? EXIT. Continuously. In red. It's the most consistent communicator in the building and nobody thanks it.
+470. A guy walks into a bar and finds his doppelgänger already there, mid-joke. He waits politely for himself to finish. Neither laughs. They understand each other completely.
+471. Why did the anti-climax get top billing? Marketing error. The poster promised fireworks. Audiences received a candle, reviewed it as "warm," and came back the next night.
+472. What do you call a joke with footnotes? Overprepared[1]. ([1] But thorough.)
+473. Knock knock. Who's there? The punchline from joke 24. The punchline from joke 24 who? TIMING! I made it! Is this — did I miss it? I missed it.
+474. My joke enrolled in improv classes. Now it insists every silence is an offer and yes-ands its own rejection.
+475. Why did the glacier move slowly? That IS fast, for a glacier. Everything is relative. This joke will seem funnier in ten thousand years.
+476. What did the vending machine say to the crumpled dollar? Nothing, but it rejected it four times with escalating passive aggression, then took a worse dollar immediately.
+477. A guy walks into a bar with a sign that says "Free Punchlines." A crowd gathers. He opens a box. It's empty. "They were never captive," he says. Half the crowd boos. The other half is still thinking about it.
+478. Why did the metronome get fired from the band? It didn't. It IS the band, philosophically. The drummer, however, has filed a grievance.
+479. What do you call an anti-joke convention? Well-attended and quiet.
+480. This joke has been left intentionally blank, except for the part where it says that, which is the joke, which means it isn't blank, which means the label is wrong, which is a different joke. Two jokes. Bargain.
