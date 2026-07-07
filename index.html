@@ -17,6 +17,7 @@
   --wall:#efe6d2; --wall-deep:#e2d5b8; --accent:#a33327; --felt:#2e5941;
   --card-shadow:0 18px 40px rgba(30,18,4,.35);
   --lamp:transparent;
+  --page-ink:#2b241a; --page-ink-soft:#6b5f49;
 }
 :root[data-theme="dark"]{
   --wood-1:#3d2513; --wood-2:#4c2f18; --wood-3:#2a1706; --wood-hi:#63421f;
@@ -25,6 +26,7 @@
   --wall:#1b140c; --wall-deep:#120d06; --accent:#c9503f; --felt:#1e3d2c;
   --card-shadow:0 18px 50px rgba(0,0,0,.7);
   --lamp:radial-gradient(ellipse 60% 40% at 50% -5%, rgba(255,196,110,.14), transparent 70%);
+  --page-ink:#ecdfc2; --page-ink-soft:#b7a687;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
@@ -34,12 +36,13 @@
     --wall:#1b140c; --wall-deep:#120d06; --accent:#c9503f; --felt:#1e3d2c;
     --card-shadow:0 18px 50px rgba(0,0,0,.7);
     --lamp:radial-gradient(ellipse 60% 40% at 50% -5%, rgba(255,196,110,.14), transparent 70%);
+    --page-ink:#ecdfc2; --page-ink-soft:#b7a687;
   }
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{
-  margin:0; color:var(--ink);
+  margin:0; color:var(--page-ink);
   font-family:Georgia,'Iowan Old Style','Palatino Linotype',serif;
   background:
     var(--lamp),
@@ -64,14 +67,14 @@ body{
 header.masthead{text-align:center; padding:3.2rem 1rem 1.4rem; position:relative}
 .est{
   font-family:'Courier New',monospace; font-size:.75rem; letter-spacing:.45em;
-  text-transform:uppercase; color:var(--ink-soft);
+  text-transform:uppercase; color:var(--page-ink-soft);
 }
 h1.title{
   font-size:clamp(2.1rem,6vw,4.2rem); margin:.25em 0 .1em; line-height:1.02;
   font-variant:small-caps; letter-spacing:.02em;
 }
 h1 .flourish{ color:var(--brass-2); }
-.subtitle{font-style:italic; color:var(--ink-soft); margin:.2em auto 0; max-width:44em}
+.subtitle{font-style:italic; color:var(--page-ink-soft); margin:.2em auto 0; max-width:44em}
 .big-number{
   display:inline-block; margin-top:1rem; padding:.35em .9em;
   font-family:'Courier New',monospace; font-size:1.05rem; letter-spacing:.15em;
@@ -242,6 +245,12 @@ h1 .flourish{ color:var(--brass-2); }
   font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.12em; color:var(--ink-soft);
   text-transform:uppercase;
 }
+.card .gscore{
+  position:absolute; bottom:.55em; right:.9em;
+  font-family:'Courier New',monospace; font-size:.78rem; letter-spacing:.08em;
+  color:var(--ink-soft); opacity:.85;
+}
+.card .gscore.pos{color:#4c7a3d} .card .gscore.neg{color:var(--accent)}
 .card .joke{white-space:pre-line}
 .card.notice{text-align:center; display:flex; flex-direction:column; justify-content:center; gap:1em}
 .card.notice .joke{font-style:italic}
@@ -306,13 +315,14 @@ h1 .flourish{ color:var(--brass-2); }
   transition:width .6s cubic-bezier(.34,1.56,.64,1);
 }
 .crampometer .diagnosis{font-family:'Courier New',monospace; font-size:.74rem; min-height:1.3em}
-@media (max-width:640px){.crampometer{width:150px; font-size:.7rem}}
+@media (max-width:640px){.crampometer{width:132px; font-size:.68rem; opacity:.93; padding:.5rem .6rem}}
 
 /* ---------- search results ---------- */
 .results{max-width:820px; margin:0 auto 3rem; padding:0 1rem; display:none}
 .results.show{display:block}
 .results h3{font-variant:small-caps; letter-spacing:.1em; text-align:center}
 .results .hit{
+  color:var(--ink);
   background:var(--paper); border:1px solid var(--paper-edge); border-left:5px solid var(--brass-2);
   border-radius:6px; padding:1em 1.2em; margin:.7em 0; box-shadow:0 6px 16px rgba(0,0,0,.18);
   white-space:pre-line;
@@ -321,7 +331,7 @@ h1 .flourish{ color:var(--brass-2); }
 
 /* ---------- footer ---------- */
 footer{
-  text-align:center; padding:2.5rem 1rem 6rem; color:var(--ink-soft); font-size:.9rem; font-style:italic;
+  text-align:center; padding:2.5rem 1rem 6rem; color:var(--page-ink-soft); font-size:.9rem; font-style:italic;
 }
 footer .plaque{
   display:inline-block; padding:.8em 1.6em; font-style:normal;
@@ -330,7 +340,7 @@ footer .plaque{
   box-shadow:inset 0 1px 0 rgba(255,255,255,.5), 0 4px 10px rgba(0,0,0,.35);
   font-variant:small-caps; letter-spacing:.12em;
 }
-.loading-note{text-align:center; font-style:italic; color:var(--ink-soft); padding:1rem}
+.loading-note{text-align:center; font-style:italic; color:var(--page-ink-soft); padding:1rem}
 @media (prefers-reduced-motion:reduce){
   *{animation:none!important; transition:none!important}
   .ticker span{padding-left:0}
@@ -344,8 +354,9 @@ footer .plaque{
 <header class="masthead">
   <div class="est">EST. 2026 · ADMISSION FREE · DIGNITY OPTIONAL</div>
   <h1 class="title"><span class="flourish">❦</span> The Curiosity Cabinet <span class="flourish">❦</span></h1>
-  <p class="subtitle">A museum of jokes that did not exist until an AI sat down and wrote them —
-  long and short, safe and vulgar, wild and tame, and everything in between.</p>
+  <p class="subtitle">A museum of jokes that did not exist until an AI sat down and wrote them,
+  commissioned by a patron whose brief was, in her own words: “long and short, safe and vulgar,
+  wild and tame, everything in between.” The one rule: no fewer than ten thousand.</p>
   <div class="big-number" id="grand-total">COUNTING SPECIMENS…</div>
   <hr class="rule">
 </header>
@@ -378,13 +389,14 @@ footer .plaque{
     <div class="card" id="card">
       <span class="catline" id="card-cat"></span>
       <span class="stamp" id="card-stamp"></span>
+      <span class="gscore" id="card-gscore"></span>
       <div class="joke" id="card-joke"></div>
     </div>
     <div class="votebar" id="votebar">
       <button class="vote up" id="vote-up" aria-label="Vote this joke up">▲</button>
       <span class="vote-score" id="vote-score">0</span>
       <button class="vote down" id="vote-down" aria-label="Vote this joke down">▼</button>
-      <div class="vote-hint">vote as many times as your ribs demand — favorites rise, duds sink</div>
+      <div class="vote-hint">votes count worldwide — favorites rise for everyone, duds sink for everyone</div>
     </div>
     <div class="table-actions">
       <button class="btn" id="next-card">Deal another</button>
@@ -435,18 +447,59 @@ const CATALOG=[
 ];
 const state={cats:[], all:[], read:0, ack:{}, current:null, currentJoke:null};
 
-/* ---------- the ballot box (browser-local: your taste stays between you and your localStorage) ---------- */
+/* ---------- the world ballot box (Supabase) ----------
+   To activate worldwide voting: create a free Supabase project, run
+   supabase/setup.sql in its SQL editor, then fill in the project URL
+   and anon public key below. Until then the cabinet runs local-only. */
+const SUPABASE={url:"",key:""};
+const globalScores={};
+function gkey(cat,j){ return cat.file.slice(0,2)+"-"+j.num; }
+function gscoreOf(cat,j){ const v=globalScores[gkey(cat,j)]; return typeof v==="number"?v:0; }
+async function loadGlobalScores(){
+  if(!SUPABASE.url) return;
+  try{
+    const r=await fetch(SUPABASE.url+"/rest/v1/votes?select=joke_id,score&limit=20000",
+      {headers:{apikey:SUPABASE.key,Authorization:"Bearer "+SUPABASE.key}});
+    if(!r.ok) return;
+    (await r.json()).forEach(row=>{ globalScores[row.joke_id]=row.score; });
+  }catch(e){}
+}
+function sendGlobalVote(cat,j,dir){
+  if(!SUPABASE.url) return;
+  fetch(SUPABASE.url+"/rest/v1/rpc/vote_joke",{method:"POST",
+    headers:{apikey:SUPABASE.key,Authorization:"Bearer "+SUPABASE.key,"Content-Type":"application/json"},
+    body:JSON.stringify({p_joke_id:gkey(cat,j),p_delta:dir})}).catch(()=>{});
+}
+
+/* ---------- the reading ledger (never deal the same specimen twice) ---------- */
+let seen={};
+try{ seen=JSON.parse(localStorage.getItem("cabinet-seen")||"{}")||{}; }catch(e){ seen={}; }
+const seenSets={};
+function seenSet(f){ return seenSets[f]||(seenSets[f]=new Set(seen[f]||[])); }
+function saveSeen(){ try{ localStorage.setItem("cabinet-seen",JSON.stringify(seen)); }catch(e){} }
+function isSeen(cat,j){ return seenSet(cat.file).has(j.num); }
+function markSeen(cat,j){ if(isSeen(cat,j)) return; seenSet(cat.file).add(j.num); (seen[cat.file]=seen[cat.file]||[]).push(j.num); saveSeen(); }
+function clearSeen(cat){
+  if(cat){ delete seen[cat.file]; delete seenSets[cat.file]; }
+  else{ seen={}; for(const k of Object.keys(seenSets)) delete seenSets[k]; }
+  saveSeen();
+}
+function unseenOf(items){ return items.filter(x=>!isSeen(x.cat,x.j)); }
+
+/* ---------- the personal ballot box (browser-local) ---------- */
 let votes={};
 try{ votes=JSON.parse(localStorage.getItem("cabinet-votes")||"{}")||{}; }catch(e){ votes={}; }
 function saveVotes(){ try{ localStorage.setItem("cabinet-votes",JSON.stringify(votes)); }catch(e){} }
 function vkey(cat,j){ return cat.file+"#"+j.num; }
 function scoreOf(cat,j){ return votes[vkey(cat,j)]||0; }
-/* upvoted specimens get dealt more often; downvoted ones sink toward the bottom of the drawer */
+/* upvoted specimens get dealt more often; downvoted ones sink toward the bottom of the drawer.
+   personal votes weigh in alongside the worldwide tally, so new visitors are served the crowd's best first */
 function pickWeighted(items){
   let total=0;
   const ws=items.map(x=>{
     const v=Math.max(-6,Math.min(6,scoreOf(x.cat,x.j)));
-    const w=Math.pow(1.6,v); total+=w; return w;
+    const g=Math.max(-30,Math.min(30,gscoreOf(x.cat,x.j)));
+    const w=Math.pow(1.6,v)*Math.pow(1.12,g); total+=w; return w;
   });
   let r=Math.random()*total;
   for(let i=0;i<items.length;i++){ r-=ws[i]; if(r<=0) return items[i]; }
@@ -521,9 +574,12 @@ function showNotice(cat){
 function dealFrom(cat){
   const card=document.getElementById("card");
   card.classList.remove("notice");
-  const pick=pickWeighted(cat.jokes.map(j=>({cat,j}))).j;
-  state.currentJoke={cat,j:pick}; updateVoteWidget();
-  document.getElementById("card-cat").textContent=cat.title;
+  let pool=unseenOf(cat.jokes.map(j=>({cat,j}))), reshuffled=false;
+  if(!pool.length){ clearSeen(cat); pool=cat.jokes.map(j=>({cat,j})); reshuffled=true; }
+  const pick=pickWeighted(pool).j;
+  markSeen(cat,pick);
+  state.currentJoke={cat,j:pick}; updateVoteWidget(); updateGScore();
+  document.getElementById("card-cat").textContent=cat.title+(reshuffled?" · wing fully read — reshuffled!":"");
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(pick.num).padStart(4,"0");
   document.getElementById("card-joke").textContent=pick.text.split(" / ").join("\n");
@@ -545,15 +601,18 @@ function closeExhibit(){ exhibit.classList.remove("open"); state.current=null; }
 /* ---------- surprise knob ---------- */
 document.getElementById("random-knob").addEventListener("click",()=>{
   if(!state.all.length) return;
-  const pick=pickWeighted(state.all);
+  let pool=unseenOf(state.all), reshuffled=false;
+  if(!pool.length){ clearSeen(null); pool=state.all; reshuffled=true; }
+  const pick=pickWeighted(pool);
   state.current=pick.cat;
   document.getElementById("exhibit-title").textContent="Exhibit: "+pick.cat.title;
   exhibit.classList.add("open");
   if(pick.cat.adult && !state.ack[pick.cat.file]){ showNotice(pick.cat); return; }
   const card=document.getElementById("card");
   card.classList.remove("notice");
-  state.currentJoke=pick; updateVoteWidget();
-  document.getElementById("card-cat").textContent=pick.cat.title;
+  markSeen(pick.cat,pick.j);
+  state.currentJoke=pick; updateVoteWidget(); updateGScore();
+  document.getElementById("card-cat").textContent=pick.cat.title+(reshuffled?" · entire cabinet read — reshuffled!":"");
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(pick.cat.idx+1).padStart(2,"0")+"‑"+String(pick.j.num).padStart(4,"0");
   document.getElementById("card-joke").textContent=pick.j.text.split(" / ").join("\n");
@@ -575,6 +634,17 @@ function castVote(dir){
   votes[k]=Math.max(-99,Math.min(99,(votes[k]||0)+dir));
   if(!votes[k]) delete votes[k];
   saveVotes(); updateVoteWidget();
+  const gk=gkey(state.currentJoke.cat,state.currentJoke.j);
+  globalScores[gk]=(globalScores[gk]||0)+dir;
+  sendGlobalVote(state.currentJoke.cat,state.currentJoke.j,dir);
+  updateGScore();
+}
+function updateGScore(){
+  const el=document.getElementById("card-gscore");
+  if(!SUPABASE.url||!state.currentJoke){ el.textContent=""; return; }
+  const v=gscoreOf(state.currentJoke.cat,state.currentJoke.j);
+  el.textContent="🌍 "+(v>0?"+":"")+v+" worldwide";
+  el.className="gscore"+(v>0?" pos":v<0?" neg":"");
 }
 document.getElementById("vote-up").addEventListener("click",()=>castVote(1));
 document.getElementById("vote-down").addEventListener("click",()=>castVote(-1));
@@ -582,22 +652,28 @@ document.getElementById("vote-down").addEventListener("click",()=>castVote(-1));
 /* ---------- hall of fame / compost bin ---------- */
 function renderLeaderboard(){
   const box=document.getElementById("results");
-  const byKey={};
-  state.all.forEach(x=>{ byKey[vkey(x.cat,x.j)]=x; });
+  const byKey={}, byGkey={};
+  state.all.forEach(x=>{ byKey[vkey(x.cat,x.j)]=x; byGkey[gkey(x.cat,x.j)]=x; });
   const ranked=Object.entries(votes)
     .map(([k,v])=>({x:byKey[k], v})).filter(e=>e.x&&e.v);
   const top=ranked.filter(e=>e.v>0).sort((a,b)=>b.v-a.v).slice(0,20);
   const bottom=ranked.filter(e=>e.v<0).sort((a,b)=>a.v-b.v).slice(0,20);
+  const world=Object.entries(globalScores)
+    .map(([k,v])=>({x:byGkey[k], v})).filter(e=>e.x&&e.v>0)
+    .sort((a,b)=>b.v-a.v).slice(0,20);
   box.classList.add("show");
   const hit=e=>'<div class="hit"><span class="scorebadge '+(e.v>0?"pos":"neg")+'">'+(e.v>0?"+":"")+e.v+"</span>"+
     escapeHtml(e.x.j.text.split(" / ").join("\n"))+
     "<small>"+e.x.cat.title+" · № "+e.x.j.num+"</small></div>";
+  const worldHtml=SUPABASE.url
+    ? "<h3>🌍 The World's Verdict</h3>"+(world.length?world.map(hit).join(""):"<p style='text-align:center;font-style:italic'>The world hasn't voted yet — be the hand of history.</p>")
+    : "";
   box.innerHTML=
-    (!ranked.length)
-    ? "<h3>The ballot box is empty</h3><p style='text-align:center;font-style:italic'>Pull a drawer, read a card, and pass judgment with ▲ or ▼ — your favorites will rise here (and get dealt more often), your victims will sink below (and be dealt less).</p>"
-    : "<h3>🏆 Risen to the Top</h3>"+(top.length?top.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing upvoted yet.</p>")+
-      "<h3>🗑️ The Compost Bin</h3>"+(bottom.length?bottom.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing downvoted yet — generous crowd.</p>")+
-      "<p style='text-align:center;font-style:italic;font-size:.8rem'>Rankings live in this browser — the museum keeps no central ledger of your taste.</p>";
+    (!ranked.length && !world.length)
+    ? worldHtml+"<h3>Your ballot box is empty</h3><p style='text-align:center;font-style:italic'>Pull a drawer, read a card, and pass judgment with ▲ or ▼ — favorites rise (and get dealt more often), victims sink (and are dealt less).</p>"
+    : worldHtml+
+      "<h3>🏆 Your Favorites</h3>"+(top.length?top.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing upvoted yet.</p>")+
+      "<h3>🗑️ Your Compost Bin</h3>"+(bottom.length?bottom.map(hit).join(""):"<p style='text-align:center;font-style:italic'>Nothing downvoted yet — generous crowd.</p>");
   box.scrollIntoView({behavior:"smooth"});
 }
 document.getElementById("leaderboard-btn").addEventListener("click",renderLeaderboard);
@@ -655,7 +731,12 @@ try{
   else if(matchMedia("(prefers-color-scheme: dark)").matches) setTheme("dark");
 }catch(e){}
 
+document.querySelector(".vote-hint").textContent = SUPABASE.url
+  ? "votes count worldwide — favorites rise for everyone, duds sink for everyone"
+  : "votes saved in this browser for now — the worldwide ballot box connects soon";
+
 loadAll();
+loadGlobalScores();
 })();
 </script>
 </body>
