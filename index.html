@@ -3,8 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Curiosity Cabinet — 10,000 Jokes Never Before Written</title>
-<meta name="description" content="A museum of 10,000 original jokes, written by the world's first AI comedian. Pull a drawer. Mind your ribs.">
+<title>The Curiosity Cabinet — 10,895 Jokes Never Before Written</title>
+<meta name="description" content="A museum of 10,895 original jokes, written by the world's first AI comedian. Pull a drawer. Mind your ribs.">
+<meta property="og:title" content="The Curiosity Cabinet — 10,895 Jokes Never Before Written">
+<meta property="og:description" content="Pull a wooden drawer, get dealt a specimen card, vote it up or down worldwide. The Cramp-O-Meter™ is not a medical device.">
+<meta property="og:type" content="website">
 <style>
 /* ============================================================
    THE CURIOSITY CABINET — a museum you can laugh at
@@ -321,7 +324,7 @@ h1 .flourish{ color:var(--brass-2); }
 .results{max-width:820px; margin:0 auto 3rem; padding:0 1rem; display:none}
 .results.show{display:block}
 .results h3{font-variant:small-caps; letter-spacing:.1em; text-align:center}
-.results .hit{
+.results .hit,.daily .hit{
   color:var(--ink);
   background:var(--paper); border:1px solid var(--paper-edge); border-left:5px solid var(--brass-2);
   border-radius:6px; padding:1em 1.2em; margin:.7em 0; box-shadow:0 6px 16px rgba(0,0,0,.18);
@@ -369,7 +372,12 @@ footer .plaque{
   </div>
   <button class="theme-toggle" id="theme-toggle">🕯️ After hours</button>
   <button class="theme-toggle" id="leaderboard-btn">🏆 Hall of Fame</button>
+  <a class="theme-toggle" style="text-decoration:none" href="special.html">🎭 Tonight's Show</a>
 </div>
+
+<section class="daily" id="daily" style="max-width:820px;margin:1.2rem auto 0;padding:0 1rem;text-align:center">
+  <!-- filled by script: specimen of the day -->
+</section>
 
 <section class="results" id="results" aria-live="polite"></section>
 
@@ -400,6 +408,7 @@ footer .plaque{
     </div>
     <div class="table-actions">
       <button class="btn" id="next-card">Deal another</button>
+      <button class="btn ghost" id="share-card">Share this specimen</button>
       <button class="btn ghost" id="back-to-cabinet">Back to the cabinet</button>
     </div>
   </div>
@@ -530,7 +539,7 @@ async function loadAll(){
   state.cats=await Promise.all(jobs);
   state.all=[];
   state.cats.forEach(c=>c.jokes.forEach(j=>state.all.push({cat:c,j})));
-  renderDrawers(); renderTotal(); seedTicker();
+  renderDrawers(); renderTotal(); seedTicker(); renderDaily(); openFromParam();
 }
 
 /* ---------- drawers ---------- */
@@ -594,6 +603,54 @@ function dealFrom(cat){
 function redeal(card){ card.classList.remove("dealt"); void card.offsetWidth; card.classList.add("dealt"); card.scrollTop=0; }
 
 document.getElementById("next-card").addEventListener("click",()=>{ if(state.current) dealFrom(state.current); });
+document.getElementById("share-card").addEventListener("click",function(){
+  if(!state.currentJoke) return;
+  const url=location.origin+location.pathname+"?spec="+gkey(state.currentJoke.cat,state.currentJoke.j);
+  const btn=this, done=()=>{ btn.textContent="Link copied!"; setTimeout(()=>btn.textContent="Share this specimen",1600); };
+  if(navigator.share){ navigator.share({title:"A specimen from the Curiosity Cabinet",url}).catch(()=>{}); done(); }
+  else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(done).catch(()=>{ prompt("Copy this link:",url); }); }
+  else prompt("Copy this link:",url);
+});
+
+/* deep links: ?spec=04-217 opens that exact card */
+function dealExact(cat,j,label){
+  state.current=cat;
+  document.getElementById("exhibit-title").textContent=(label||"Exhibit")+": "+cat.title;
+  exhibit.classList.add("open");
+  if(cat.adult && !state.ack[cat.file]){ showNotice(cat); return; }
+  const card=document.getElementById("card");
+  card.classList.remove("notice");
+  markSeen(cat,j);
+  state.currentJoke={cat,j}; updateVoteWidget(); updateGScore();
+  document.getElementById("card-cat").textContent=cat.title;
+  document.getElementById("card-stamp").textContent=
+    "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(j.num).padStart(4,"0");
+  document.getElementById("card-joke").textContent=j.text.split(" / ").join("\n");
+  redeal(card); tallyCramp();
+}
+function openFromParam(){
+  const m=/[?&]spec=(\d{2})-(\d{1,4})/.exec(location.search);
+  if(!m) return;
+  const cat=state.cats.find(c=>c.file.slice(0,2)===m[1]);
+  const j=cat&&cat.jokes.find(x=>x.num===+m[2]);
+  if(j) dealExact(cat,j,"Shared specimen");
+}
+
+/* specimen of the day: same joke for everyone, changes at midnight UTC */
+function renderDaily(){
+  const safe=state.cats.filter(c=>!c.adult).flatMap(c=>c.jokes.map(j=>({cat:c,j})));
+  if(!safe.length) return;
+  const d=new Date(), ds=d.getUTCFullYear()+"-"+(d.getUTCMonth()+1)+"-"+d.getUTCDate();
+  let h=0; for(let i=0;i<ds.length;i++) h=(h*31+ds.charCodeAt(i))>>>0;
+  const pick=safe[h%safe.length];
+  const box=document.getElementById("daily");
+  box.innerHTML='<div class="hit" style="cursor:pointer" title="Open this specimen">'+
+    '<span class="scorebadge pos">📅</span>'+
+    "<b style='font-variant:small-caps;letter-spacing:.08em'>Specimen of the Day</b><br>"+
+    escapeHtml(pick.j.text.split(" / ").join("\n"))+
+    "<small>"+pick.cat.title+" · № "+pick.j.num+"</small></div>";
+  box.firstChild.addEventListener("click",()=>dealExact(pick.cat,pick.j,"Specimen of the Day"));
+}
 document.getElementById("exhibit-close").addEventListener("click",closeExhibit);
 document.getElementById("back-to-cabinet").addEventListener("click",closeExhibit);
 exhibit.addEventListener("click",e=>{ if(e.target===exhibit) closeExhibit(); });

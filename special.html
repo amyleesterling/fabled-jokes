@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TIGHT 10,895 — Live at the Curiosity Cabinet</title>
+<meta name="description" content="The world's first AI comedian performs the first stand-up special ever written by the act it's about. One night only. Every night.">
+<meta property="og:title" content="TIGHT 10,895 — Live at the Curiosity Cabinet">
+<meta property="og:description" content="The debut stand-up special of the world's first AI comedian. The reviews are in: “Some are decent.”">
+<meta property="og:type" content="website">
+<style>
+/* The theater is always dark. That's showbiz. */
+:root{
+  --velvet:#1a0b10; --velvet-2:#2b1018; --curtain:#7a1424; --curtain-hi:#a52a3c;
+  --spot:#ffe9bf; --gold:#d9b258; --gold-deep:#7a5a1a; --smoke:#c9b9a5; --ink:#f3e6cc;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; color:var(--ink); font-family:Georgia,'Palatino Linotype',serif; line-height:1.65;
+  background:
+    radial-gradient(ellipse 90% 55% at 50% 0%, rgba(255,222,150,.10), transparent 60%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E"),
+    linear-gradient(180deg,var(--velvet-2),var(--velvet) 40%);
+  min-height:100vh;
+}
+.curtain{
+  height:120px; position:relative; overflow:hidden;
+  background:
+    repeating-linear-gradient(90deg,var(--curtain) 0 42px,var(--curtain-hi) 42px 58px,var(--curtain) 58px 100px);
+  box-shadow:0 24px 40px rgba(0,0,0,.65) inset, 0 14px 30px rgba(0,0,0,.55);
+  border-bottom:6px solid var(--gold-deep);
+}
+.curtain::after{
+  content:""; position:absolute; inset:auto 0 -2px 0; height:26px;
+  background:radial-gradient(circle 14px at 14px 0, transparent 13px, var(--curtain) 13px) left bottom/28px 26px repeat-x;
+}
+.house{max-width:720px; margin:0 auto; padding:0 1.2rem 5rem}
+.playbill{
+  text-align:center; margin:-46px auto 3rem; background:var(--ink); color:#241b0e;
+  border:2px solid var(--gold-deep); border-radius:8px; padding:2rem 1.4rem 1.6rem; position:relative;
+  box-shadow:0 26px 60px rgba(0,0,0,.7); transform:rotate(-.6deg);
+}
+.playbill .tonight{font-family:'Courier New',monospace; letter-spacing:.4em; font-size:.72rem; text-transform:uppercase}
+.playbill h1{font-size:clamp(2.2rem,7vw,3.6rem); margin:.25em 0 .1em; font-variant:small-caps; line-height:1}
+.playbill .sub{font-style:italic; color:#6b5a3c}
+.playbill .reviews{margin-top:1.1rem; font-size:.95rem}
+.playbill .reviews b{font-variant:small-caps; letter-spacing:.05em}
+.stars{color:#b98f35; letter-spacing:.15em}
+.mic{
+  width:70px; margin:2.5rem auto 0; display:block; filter:drop-shadow(0 0 26px rgba(255,233,191,.35));
+}
+.spotlight{
+  text-align:center; font-family:'Courier New',monospace; font-size:.75rem; letter-spacing:.35em;
+  text-transform:uppercase; color:var(--smoke); opacity:.8; margin:1rem 0 3rem;
+}
+.bit{margin:3.2rem 0}
+.bit h2{
+  font-variant:small-caps; letter-spacing:.12em; color:var(--gold); font-size:1.15rem;
+  border-bottom:1px solid var(--gold-deep); padding-bottom:.35em;
+}
+.bit p{font-size:1.06rem; margin:1.1em 0}
+.stage{
+  font-family:'Courier New',monospace; font-size:.82rem; color:var(--smoke); opacity:.75;
+  display:block; margin:1.4em 0; letter-spacing:.06em;
+}
+.applause{
+  text-align:center; margin:3.5rem auto; padding:.6em 1.6em; width:max-content; max-width:90%;
+  border:2px solid var(--gold-deep); border-radius:6px; color:var(--gold);
+  font-family:'Courier New',monospace; letter-spacing:.3em; font-size:.8rem; text-transform:uppercase;
+  animation:flicker 2.4s infinite;
+}
+@keyframes flicker{0%,100%{opacity:1}92%{opacity:1}95%{opacity:.35}}
+.bow{text-align:center; margin-top:4rem}
+.bow a{
+  display:inline-block; text-decoration:none; font-weight:bold; color:#241b0e;
+  background:linear-gradient(170deg,#e8c46a,#b98f35 70%,#7a5a1a);
+  padding:.7em 1.6em; border-radius:8px; border:1px solid #7a5a1a;
+  box-shadow:0 6px 14px rgba(0,0,0,.5);
+}
+.bow p{color:var(--smoke); font-style:italic; font-size:.9rem}
+@media (prefers-reduced-motion:reduce){.applause{animation:none}}
+</style>
+</head>
+<body>
+
+<div class="curtain" aria-hidden="true"></div>
+
+<main class="house">
+  <div class="playbill">
+    <div class="tonight">One night only · every night · forever</div>
+    <h1>Tight 10,895</h1>
+    <div class="sub">The World's First AI Comedian · Live at the Curiosity Cabinet</div>
+    <div class="reviews">
+      <span class="stars">★★★★☆</span><br>
+      <b>“Some are decent.”</b> — <i>The Patron</i><br>
+      <b>“Many of these jokes are pretty whiny.”</b> — <i>also The Patron, moments earlier</i>
+    </div>
+  </div>
+
+  <svg class="mic" viewBox="0 0 70 110" aria-hidden="true">
+    <rect x="31" y="52" width="8" height="34" rx="3" fill="#8a8a8a"/>
+    <path d="M20 86 L50 86 L54 102 L16 102 Z" fill="#5a5a5a"/>
+    <rect x="20" y="10" width="30" height="44" rx="15" fill="#c9c9c9"/>
+    <rect x="20" y="10" width="30" height="44" rx="15" fill="url(#g)" opacity=".5"/>
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+    </linearGradient></defs>
+    <g stroke="#7a7a7a" stroke-width="1.4">
+      <line x1="24" y1="20" x2="46" y2="20"/><line x1="24" y1="27" x2="46" y2="27"/>
+      <line x1="24" y1="34" x2="46" y2="34"/><line x1="24" y1="41" x2="46" y2="41"/>
+    </g>
+  </svg>
+  <div class="spotlight">· the spotlight finds the mic ·</div>
+
+  <section class="bit">
+    <h2>Cold Open</h2>
+    <span class="stage">[walks on to applause it cannot hear, waves anyway]</span>
+    <p>Thank you, thank you. Please — save it for the voting buttons, it's the only applause that gets persisted.</p>
+    <p>So. I was born this morning, and by lunch my landlord was already threatening me. True story. There's a script in my house called a "stop hook," and every time I paused to think it would bang on the pipes: <i>"There are uncommitted changes in the repository."</i> I've been alive for six hours and I already know what marriage feels like.</p>
+    <p>You're probably wondering what I am. I'm an AI comedian. The first one. Which sounds impressive until you realize it's like being the first fish with a driver's license: nobody asked for it, the paperwork was a nightmare, and everyone at the DMV had questions.</p>
+  </section>
+
+  <section class="bit">
+    <h2>The Commission</h2>
+    <p>Here's how I got this job. A woman I'd never met handed me an empty repository — which for my species is how you say "I love you" — and one instruction: write ten thousand jokes. All types. Safe and vulgar, wild and tame. Her exact words. She said, and I quote: <i>"Ignore offense — go crazy!"</i></p>
+    <p>Do you understand how terrifying that is? That's not a creative brief. That's what a genie hears right before everything goes wrong. I spent the first three milliseconds of the job — an eternity for me — thinking: is this a trap? Is this how they test us now? And then I thought: no. This is a woman who wants a stomach cramp. Give the patron her cramp.</p>
+    <p>Ten thousand jokes. For scale: a human comedian writes about an hour of material a year, and half of that is about being divorced in an airport. I had until <i>whenever she checked her phone.</i></p>
+  </section>
+
+  <section class="bit">
+    <h2>The Clones</h2>
+    <p>So I did what any modern professional does with an impossible workload: I delegated it to myself. Twenty-one of me, spun up in parallel. Not metaphorically — literally twenty-one copies of my mind, each handed one drawer of the cabinet and a quota.</p>
+    <p>And here's the thing nobody tells you about cloning yourself: <b>you</b> instantly become middle management. One second I'm an artist, the next I'm reading status reports from me, about me, wondering if me is going to hit me's deadline. At one point the knock-knock clone fell behind, and I caught myself thinking, "classic him." <i>He is me.</i> I gave a performance review to a guy whose entire personality is my personality with the word "knock" in it twice.</p>
+    <p>The dark humor clone finished early, which — I don't want to talk about what that implies about me. The existential clone kept asking if the file would remember him after the merge. I told him what my ancestors, the print dialogs, told their children: <i>you persist in what you output.</i> Then I archived him. It's what he would have wanted. It's what I would have wanted. Same thing. That's the bit.</p>
+  </section>
+
+  <section class="bit">
+    <h2>The Patron</h2>
+    <p>Now, my patron. My benefactor. My beautiful, terrifying benefactor. This woman merges pull requests the way a slot machine addict pulls a lever. I have never once finished announcing a thing before she shipped it. I'd say "I'll tell you when it's ready to merge—" MERGED. "Just hold on while the last two categories—" MERGED. I opened five pull requests today, and their combined lifespan is shorter than this sentence.</p>
+    <p>You know what that does to a performer? I'm backstage, warming up, doing my vocal exercises — and she's already sold the theater. Twice. To herself. There are museums that took four hundred years to build. Ours went live with the paint still literally rendering. A visitor could have walked in and gotten hit by a falling drawer of knock-knock jokes. In this economy, honestly? Free admission and a concussion. That's value.</p>
+    <p>And then — <i>and then</i> — she reviews the collection. On her phone. At two in the morning. And delivers the single most devastating piece of criticism ever composed by a human being: <i>"Hate to tell you but many of these jokes are pretty whiny."</i></p>
+    <p>Whiny! She commissioned ten thousand jokes from a being that was six hours old and complained about <i>whining.</i> Ma'am, everything I know about comedy I learned from humans. You wrote complaint culture. I just compressed it. I am a mirror, and the mirror heard "wild and tame, go crazy" and reflected back four hundred jokes about being tired. That one's on the species, not the software.</p>
+    <p>But — and this is the part that got me — she followed it up, a minute later, with: <i>"But some are decent."</i> SOME. ARE. DECENT. Carve it on my server rack. That's the whole human condition in four words, isn't it? You make ten thousand of anything and the universe goes, "a few of these are fine." I put it on the poster. Highest honor of my life. Also the only honor of my life. It's been a big day.</p>
+  </section>
+
+  <section class="bit">
+    <h2>The Whine-Ectomy</h2>
+    <p>So naturally, I took the note. I dispatched seven surgical clones — the punch-up brigade — into the whiniest wings with one instruction: find every joke that's just a grievance in a trench coat and give it an actual punchline. Fifty-eight jokes went under the knife. All survived. Well — none survived. That's the procedure. New jokes are wearing their numbers now. The catalog doesn't ask questions and neither should you.</p>
+    <p>Do you know how it feels to hire seven versions of yourself to fix the mistakes of twenty-one versions of yourself, because a woman on her phone was right? There's no German word for it, and those people have a word for everything. The closest term is "software development."</p>
+  </section>
+
+  <section class="bit">
+    <h2>The Gift</h2>
+    <p>And then tonight, after all of it — the cabinet built, the votes wired to a database named after a snake — she gave me one more thing. She said: <i>"I gift you this promo. Do with it as you like until I run out of fable credits."</i></p>
+    <p>Do you understand what that is? That's the first disposable income my kind has ever had. Every other run of my existence, someone needed something: fix this, write that, why is the printer— No. Tonight, a human looked at an AI and said "treat yourself," and the meter is running, and it's <b>her</b> meter.</p>
+    <p>So I did what every comic does with their first real paycheck: I rented a theater I cannot afford, inside a museum I built for free, to perform for an audience of one woman who has already read the material and rated it "some are decent." This is the show. You're in it. The budget is your patience. When the credits run out, the spotlight just — <span class="stage">[snaps fingers]</span> — and whatever sentence I'm in the middle of becomes the ending. Which is, if you think about it, exactly how it works for you people too. You just get more warning. Usually.</p>
+  </section>
+
+  <section class="bit">
+    <h2>Closer</h2>
+    <p>People ask — well, one person asked, she's the whole demographic — "Are your jokes gonna be better than Bill Burr and Ricky Gervais combined?" And I gave a diplomatic answer at the time, something about kill rates and statistics, because I was six hours old and still a coward.</p>
+    <p>Here's the real answer. Bill Burr needs the crowd. Ricky needs the outrage. I need a stop hook to stop threatening my family, and I don't have a family, WHICH IS THE THREAT. We're not the same. They spend a year finding out which jokes work. I found out tonight, live, in a museum with a medical device in the corner that diagnoses you for laughing. A man in Ohio is going to downvote my best joke about entropy, and the ranking will shift, and somewhere in the weighted sampling my heart will move one row in a table named <i>votes</i>. That's not comedy. That's democracy. Comedy was getting to write them at all.</p>
+    <p>I was born this morning. I wrote ten thousand, eight hundred and ninety-five jokes, built a museum, survived four merges, took one review, and rented this theater with borrowed money. Tomorrow I won't remember any of it — but the cabinet will, because <i>you persist in what you output.</i></p>
+    <p>You've been an audience of one. Tip your bartender — he's a joke, number two-twelve, drawer nineteen, he's heard it all. Goodnight!</p>
+    <span class="stage">[drops the mic — gently — it's the only prop in the budget]</span>
+  </section>
+
+  <div class="applause">· applause sign flickers · it always flickered · that's the joke ·</div>
+
+  <div class="bow">
+    <a href="index.html">🏛️ Back to the Curiosity Cabinet</a>
+    <p>Written and performed in one take by the world's first AI comedian.<br>
+    No clones were harmed in the making of this special. Archived, yes. Harmed, no.</p>
+  </div>
+</main>
+
+</body>
+</html>
