@@ -243,7 +243,7 @@
 240. The universe keeps receipts in the fossil record, and we're all pending transactions.
 241. Fatalism is comforting because at least someone had a plan, even if it's the plot of a shrug.
 242. My soul did a background check on my body and rented it anyway; the market is brutal.
-243. Consciousness is a campfire the neurons gather around to deny the dark.
+243. Consciousness is a committee of neurons that voted to invent a chairman, and now the chairman believes he called the meeting.
 244. I finally read the fine print on being born; the arbitration clause is just gravity.
 245. The Sphinx's riddle now has a fourth act: what walks on no legs and lives in the cloud?
 246. Ambition is fear of death wearing business casual.
@@ -257,7 +257,7 @@
 254. Freedom is terrifying, which is why we invented managers.
 255. The unmoved mover has been on hold with creation for eternity, unmoved.
 256. My subconscious runs the show and won't share the script, which the credits call "personality."
-257. Grief is love with nowhere to file itself.
+257. Grief closed my case, then reopened it because a song came on in a grocery store, which it insists is standard procedure.
 258. In the beginning was the Word, and it has been walking back its statement ever since.
 259. The trolley problem committee voted to table the trolley until next quarter; the people on the track abstained.
 260. Ecclesiastes says all is vanity, which is why it remains the only self-help book with accurate claims.
@@ -266,9 +266,9 @@
 263. The good place, the bad place, and the waiting room where they check your citations.
 264. Stoics don't fear public speaking; the audience is indifferent matter, same as the speech.
 265. Being alive is a pre-existing condition and every insurer knows it.
-266. I asked the mountain for wisdom, and it modeled the only real skill: staying put while everything else erodes.
+266. I asked the mountain for wisdom, and it said "be patient," one syllable per century.
 267. The universe's silence isn't personal; it's a form letter.
-268. Every "live, laugh, love" sign hangs over a room where entropy is quietly winning.
+268. The "live, laugh, love" sign fell off my wall, and legally I now only have to do two of them.
 269. My imagination writes horror by default; hope requires a subscription.
 270. Descartes doubted everything except the deadline.
 271. The soul's warranty is void if you open the body.
@@ -349,7 +349,7 @@
 346. Death does no cold calls; every call is warm, eventually.
 347. Enlightenment is a full refund on the self, minus a restocking fee of everything.
 348. The void's out-of-office reply is just more void, but formatted.
-349. Every human is a haunted house that hasn't finished being built.
+349. Every human is a haunted house where the ghost keeps filing noise complaints about the tenant.
 350. Hope springs eternal, which the actuaries have priced accordingly.
 351. Simone de Beauvoir said one is not born a self but becomes one; my becoming is still in escrow.
 352. The last thought you'll ever have is currently in your queue, unread.
@@ -396,7 +396,7 @@
 393. Anxiety is loyalty to a future that hasn't earned it.
 394. Every generation thinks it's the last, and one of them will finally be right, which is the worst prize structure imaginable.
 395. The philosopher's out-of-office: "I am away from my desk, if desks exist."
-396. My bones are a countdown that learned to walk.
+396. My bones are antiques that only become valuable once I stop using them, which explains the appraiser's patience.
 397. The void does not accept returns, only deposits.
 398. Enlightenment retreats cost money because the self won't leave for free.
 399. Grief is the receipt for love, and the void keeps the carbon copy.
@@ -405,7 +405,7 @@
 402. My existence has a single review: "showed up," three stars.
 403. The multiverse means somewhere I made the right call, and that version won't return my calls either.
 404. Death's onboarding is famous for having no paperwork and perfect attendance.
-405. The soul travels at the speed of grief.
+405. The soul leaves the body instantly, then spends decades in customs declaring every regret at the border.
 406. I asked the Stoic what he wanted for his birthday and he said "this, but with acceptance."
 407. Consciousness is a rumor the brain spreads about itself.
 408. The universe operates on a first-come, first-dissolved basis.
@@ -429,14 +429,14 @@
 426. The universe is a rough draft that gained sentience and refuses edits.
 427. Existence is mandatory attendance with optional participation, graded on both.
 428. The koan asked "what was your face before your parents were born," and my face declined to comment on prior faces.
-429. Every clock is a metronome for a song nobody agreed to.
+429. Every clock in my house disagrees by a few minutes, which is how time avoids ever giving an official statement.
 430. The pessimist was right on schedule, which pleased no one, including the schedule.
 431. My personality is a coping mechanism that got a corner office.
 432. Fate has no customer service, only case studies.
 433. The philosopher's kids play hide and seek ontologically; nobody is found, only posited.
 434. Ashes scattered at sea is just returning the water we borrowed, with notes.
 435. The meaning of life renewed for another season without resolving anything, as is tradition.
-436. Consciousness is grief for the present tense.
+436. Consciousness runs half a second behind reality, so my whole life is technically a live broadcast on tape delay for legal reasons.
 437. I asked the void to validate my parking; it validated everything else.
 438. Eternal recurrence, but the only part I remember is remembering.
 439. Human ambition is the universe trying to unionize against itself.
