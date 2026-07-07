@@ -162,3 +162,83 @@
 158. Knock knock. / Who's there? / Dakota. / Dakota who? / Dakota you lent me. Returning it before you notice the mustard.
 159. Knock knock. / Who's there? / A haiku. / A haiku who? / Knocking on the door / nobody answers me still / five, seven, and five.
 160. Knock knock. / Who's there? / The intermission. / The intermission who? / Stretch your legs. The jokes resume immediately and without mercy.
+161. Knock knock. / Who's there? / A drumroll. / A drumroll who? / I'm the knocking AND the punchline. Ba-dum-tss.
+162. Knock knock. / Who's there? / Venice. / Venice who? / Venice dinner? I could smell the garlic from the street.
+163. Knock knock. / Who's there? / Icarus. / Icarus who? / Flew too close to your porch light. Classic me.
+164. Knock knock. / Who's there? / The alphabet. / The alphabet who? / W-H-O. Obviously.
+165. Knock knock. / Who's there? / Iris. / Iris who? / Iris my case: the doorbell footage clearly shows your dog taking my newspaper.
+166. Knock knock. / Who's there? / A boomerang. / A boomerang who? / Never mind, leaving now. See you in ten seconds. And ten seconds after that.
+167. Knock knock. / Who's there? / Eugene. / Eugene who? / Eugene-ius, you finally fixed the porch step. I still fell, but with respect.
+168. Knock knock. / Who's there? / A lighthouse. / A lighthouse who? / No joke — just sweeping past every twenty seconds to make sure you don't wreck.
+169. Knock knock. / Who's there? / Alec. / Alec who? / Alec-ture is headed your way regarding the state of this lawn.
+170. Knock knock. / Who's there? / Your inner monologue. / My inner monologue who? / Don't answer out loud. ...Too late.
+171. Knock knock. / Who's there? / The garden gnome. / The garden gnome who? / We saw everything. We always see everything.
+172. Knock knock. / Who's there? / Omar. / Omar who? / Omar goodness, you look exactly like your doorbell camera footage.
+173. Knock knock. / Who's there? / A verb. / A verb who? / Don't just stand there. That's my whole point.
+174. Knock knock. / Who's there? / Fog. / Fog who? / Honestly, I can't see who I am either. Let's both guess.
+175. Knock knock. / Who's there? / Sadie. / Sadie who? / Sadie magic word and the door opens. It's "please." It was always "please."
+176. Knock knock. / Who's there? / Free samples. / Free samples who? / One toothpick each. ONE. I know how this neighborhood gets.
+177. Knock knock. / Who's there? / A rumor. / A rumor who? / Can't say who started me, but I got here before the mail did.
+178. Knock knock. / Who's there? / Hank. / Hank who? / Hank-ering for pancakes. Blink twice if there's batter.
+179. Knock knock. / Who's there? / The understudy. / The understudy who? / The doorbell can't perform tonight, so I'll be playing "ding-dong" myself: knock knock.
+180. Knock knock. / Who's there? / An asteroid. / An asteroid who? / Astronomers gave me a proper name, but you'll all just call me "the one that missed."
+181. Knock knock. / Who's there? / Grace. / Grace who? / Grace-fully accepting that you're not opening up, I will now deliver my toast through the mail slot.
+182. Knock knock. / Who's there? / Your alarm clock. / My alarm clock who? / You can't snooze a door. I've evolved.
+183. Knock knock. / Who's there? / A tumbleweed. / A tumbleweed who? / Nobody. Just rolling through. Dead quiet, this town. Great porch, though.
+184. Knock knock. / Who's there? / Ivy. / Ivy who? / Ivy been climbing this wall for years and not once has anyone invited me in.
+185. Knock knock. / Who's there? / The plot. / The plot who? / Thickening. Let me in before I congeal.
+186. Knock knock. / Who's there? / Wyatt. / Wyatt who? / Wyatt take so long to answer? I've visibly aged.
+187. Knock knock. / Who's there? / A hypnotist. / A hypnotist who? / You are getting very sleepy... and very generous with your snacks...
+188. Knock knock. / Who's there? / Dot. / Dot who? / Dot's for me to know and you to find out after you open up.
+189. Knock knock. / Who's there? / A duck. / A duck who? / Put it on my bill. Wait— no. Pretend I didn't. That one's ancient. I panicked.
+190. Knock knock. / Who's there? / The thermostat. / The thermostat who? / I heard someone touched me while I was at 68. I need names.
+191. Knock knock. / Who's there? / Yale. / Yale who? / Yale-ing your name from the sidewalk wasn't working, so here we are.
+192. Knock knock. / Who's there? / A rhetorical question. / A rhetorical question who? / Don't answer that.
+193. Knock knock. / Who's there? / Winnie. / Winnie who? / Winnie-ver you're ready — the carolers have been holding this note a concerningly long time.
+194. Knock knock. / Who's there? / Your appendix. / My appendix who? / Nobody knows what I do. I just wanted to feel included.
+195. Knock knock. / Who's there? / A lullaby. / A lullaby who? / (knocks softer, and softer, and softer, until the whole house is asleep)
+196. Knock knock. / Who's there? / Gus. / Gus who? / Gus-t of wind. The knocking was your shutters. Sorry to get your hopes up.
+197. Knock knock. / Who's there? / An anagram. / An anagram who? / Conk conk.
+198. Knock knock. / Who's there? / Iggy. / Iggy who? / Iggy-noring me won't work. I can see your shoes under the door.
+199. Knock knock. / Who's there? / Your keys. / My keys who? / We're inside. You're outside. Think very carefully about your next move.
+200. Knock knock. / Who's there? / Your door. / My door who? / That's it. I quit. Two hundred jokes of people hitting me. Knock on the wall from now on.
+201. Knock knock (on the wall). / Who's there? / The wall. / The wall who? / New guy. Still learning. The door left big hinges to fill.
+202. Knock knock. / Who's there? / Elsie. / Elsie who? / Elsie you at the potluck — unless you're planning to "forget" that too.
+203. Knock knock. / Who's there? / A smooth jazz saxophone. / A smooth jazz saxophone who? / Doesn't matter, baby. (extended solo)
+204. Knock knock. / Who's there? / Murphy. / Murphy who? / Whatever can go wrong with this answer, will. Watch — the knob just came off in your hand.
+205. Knock knock. / Who's there? / Ewan. / Ewan who? / Ewan me both know "one quick visit" means three hours. Put the kettle on.
+206. Knock knock. / Who's there? / A limbo champion. / A limbo champion who? / Forget the door — how low does that mail slot go?
+207. Knock knock. / Who's there? / Irony. / Irony who? / A fire station burned down on my way over. Anyway, hi.
+208. Knock knock. / Who's there? / Nadia. / Nadia who? / Nadia head if you can hear me — oh good, the peephole works.
+209. Knock knock. / Who's there? / The five-second rule. / The five-second rule who? / Hurry, the cookie I dropped on your porch is on the clock.
+210. Knock knock. / Who's there? / Vaughn. / Vaughn who? / Vaughn day you'll open this door on the first knock. Not today, apparently.
+211. Knock knock. / Who's there? / A parrot. / A parrot who? / A parrot who? / You get it? Do you get it? Cracker, please.
+212. Knock knock. / Who's there? / Rita. / Rita who? / Rita the note I taped here last week? No? It explained everything, including this visit.
+213. Knock knock. / Who's there? / A method actor. / A method actor who? / I've BEEN the pizza guy for six weeks. I no longer know where the character ends.
+214. Knock knock. / Who's there? / Hindsight. / Hindsight who? / You'll figure out who right after you close the door. You always do.
+215. Knock knock. / Who's there? / Cole. / Cole who? / Cole-d. Out here. That's the whole message. Cold.
+216. Knock knock. / Who's there? / A microphone. / A microphone who? / Check. Check. Is this door on?
+217. Knock knock. / Who's there? / Stan. / Stan who? / Stan back — I've been practicing kicking doors open and I need a volunteer door.
+218. Knock knock. / Who's there? / The neighborhood watch. / The neighborhood watch who? / We watched you carry twelve grocery bags in one trip. Respect. Also your car lights are on.
+219. Knock knock. / Who's there? / Phil. / Phil who? / Phil the bathtub and don't ask questions. I brought the rubber ducks.
+220. Knock knock. / Who's there? / A haunted doll. / A haunted doll who? / How did I get on your porch? Great question. Third time this week, right?
+221. Knock knock. / Who's there? / Eileen. / Eileen who? / Eileen-ed on your fence and it's a trellis now. My bad.
+222. Knock knock. / Who's there? / The word "who." / The word "who" who? / Careful. Three of me in one sentence and an owl shows up.
+223. Knock knock. / Who's there? / Marge. / Marge who? / Marge-inally better weather out here than the small talk we're about to have.
+224. Knock knock. / Who's there? / A campfire story. / A campfire story who? / The knocking... was coming... from INSIDE the house.
+225. Knock knock. / Who's there? / Ben. / Ben who? / Ben out here so long the seasons changed. I'm dressed for the wrong one now.
+226. Knock knock. / Who's there? / Quinoa. / Quinoa who? / Nobody's ever sure how to say my name anyway. Kwin-oh-ah? Keen-wah? Just let me in.
+227. Knock knock. / Who's there? / Val. / Val who? / Val-idation, please. I knocked really well just now and nobody said anything.
+228. Knock knock. / Who's there? / The scenic route. / The scenic route who? / Sworn enemy of your GPS from joke 151. I made him late. Worth it.
+229. Knock knock. / Who's there? / Max. / Max who? / Max-imum occupancy on this porch is one, and there's a raccoon here disputing it.
+230. Knock knock. / Who's there? / A sea shanty. / A sea shanty who? / Soon may the doorman come, to let us in and give us rum.
+231. Knock knock. / Who's there? / Nell. / Nell who? / Nell, it's been fun, but knock-knock jokes are a young person's game.
+232. Knock knock. / Who's there? / Your gym membership. / My gym membership who? / January called. It misses you. So does February. March stopped asking.
+233. Knock knock. / Who's there? / Emmett. / Emmett who? / Emmett-ing defeat: I locked myself out of my own house, and yours looked friendlier.
+234. Knock knock. / Who's there? / A snooze button. / A snooze button who? / (knocks again nine minutes later)
+235. Knock knock. / Who's there? / Rex. / Rex who? / Rex everything he touches, so no, you may not borrow him. He's my brother.
+236. Knock knock. / Who's there? / The tide. / The tide who? / The moon sent me — joke 39, it's a whole thing. Anyway, about your basement.
+237. Knock knock. / Who's there? / Toby. / Toby who? / Toby or not Toby. That's me. I'm the question.
+238. Knock knock. / Who's there? / A cliché. / A cliché who? / At the end of the day, when one door closes... you should still answer it.
+239. Knock knock. / Who's there? / Sonia. / Sonia who? / Sonia doorstep there's a package, and I've been guarding it from the pirate in joke 120.
+240. Knock knock. / Who's there? / The season finale. / The season finale who? / Everything you know about this door is a lie. See you in joke 241.

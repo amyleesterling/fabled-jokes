@@ -198,7 +198,7 @@
 194. Why did the chicken join a band? It didn't. This is exactly the kind of thing chickens don't do. Please review joke 6.
 195. What did the pencil say to the paper? Graphite transfers via friction, not speech. The note said "buy milk."
 196. Knock knock. Who's there? A very long pause. A very long pause who?
-197.
+197. ...
 198. That was the very long pause. Number 197 was working. Please respect the craft.
 199. Why do submarines never tell jokes? Morale officers on submarines tell jokes constantly. It's practically the whole job.
 200. Joke two hundred contains a hidden message. The hidden message is that there is no hidden message, hidden in plain sight.
@@ -482,3 +482,48 @@
 478. Why did the metronome get fired from the band? It didn't. It IS the band, philosophically. The drummer, however, has filed a grievance.
 479. What do you call an anti-joke convention? Well-attended and quiet.
 480. This joke has been left intentionally blank, except for the part where it says that, which is the joke, which means it isn't blank, which means the label is wrong, which is a different joke. Two jokes. Bargain.
+481. Why did the town build a statue of the local comedian? They didn't. They built one of the founder. The comedian does a solid ten minutes about this.
+482. What did the hourglass say to the deadline? Nothing, but it flipped over dramatically, which is more than most of us manage under pressure.
+483. A guy walks into a bar during last call. "One joke, quickly," he says. The bartender says, "We're closing." The guy nods. "That's the saddest one you've got, huh." It was.
+484. Why did my punchline get jury duty AGAIN? (See joke 225.) The system flags anything that claims it can deliver a verdict.
+485. What do you call a haiku about anti-jokes? Five syllables, then / seven more explaining it / then five apologies.
+486. Knock knock. Who's there? An heirloom. An heirloom who? Your great-grandfather's knock-knock joke, passed down unchanged, still not funny, still absolutely not up for discussion at dinner.
+487. Why did the octopus win at poker? Eight arms is only an advantage if the other players let you keep them on the table, and they did not, and it was asked to leave.
+488. What did the roundabout say to the traffic? Nothing, but it has prevented ten thousand arguments by making everyone equally mildly inconvenienced.
+489. My joke was entered into evidence. The judge read it silently, looked up, and said, "Objection sustained." No one had objected. The law found a way.
+490. Why did the sheep follow the flock? Predator defense through aggregation. One sheep alone is lunch. Sixty sheep are a logistics problem. Conformity is just math with wool.
+491. What do you call the last knock-knock joke ever told? We won't know until nobody answers.
+492. A setup and a punchline meet at the top of a hill, having climbed opposite sides. "You're late," says the setup. "I'm the ending," says the punchline. "I'm exactly on time." The setup checks its watch. It is.
+493. Why did the karaoke machine skip the comedian's turn? Karaoke machines play songs. He'd signed up to "perform." The distinction cost him dearly and delighted everyone else.
+494. What did the safety net say to the trapeze artist? Nothing, and if all goes well, it never will. Some relationships are best when entirely theoretical.
+495. Knock knock. Who's there? An apology in advance. An apology in advance who? You'll see at joke 511. I'm so sorry.
+496. Why did the anthill have a complaints department? It didn't. Ants resolve everything with pheromones. Human corporations require entire buildings for what ants do with a smell.
+497. What do you call a punchline that explains the setup? Reverse engineering. This one, for instance, reveals that "what do you call" jokes are just definitions holding a microphone.
+498. My joke passed its final inspection. The inspector checked the setup (present), the punchline (present), and the humor (on backorder). Certified anyway. Standards are self-reported in this industry.
+499. Why did the penultimate-adjacent joke feel nervous? Nothing about position 499 is special, and it knows it, and being told "you're almost 500" five hundred times has done permanent damage.
+500. Five hundred jokes. At this point the file qualifies as a structure, and this joke is the topping-out ceremony: a small flag, placed on top, doing nothing, meaning everything.
+501. Why did the escape room hire a comedian? To write the hints. Now every clue is a setup, every lock is a punchline, and one team has been in there since March, laughing.
+502. What did the dictionary say about this file? "Anti-joke, noun: see examples 1 through 525." The dictionary has become circular. We did that. We should feel something.
+503. A guy walks into a bar and the bartender hands him a drink before he orders. "How'd you know?" the guy asks. "You've been in 502 jokes," says the bartender. "You always order the same thing: a premise."
+504. Why did the stenographer laugh at the trial? The transcript reads "[laughter]," but she'll tell you it was joke 489, the one where the law objected to itself. It gets funnier the more legally trained you are.
+505. What do you call a joke's understudy's understudy? Available. Deeply, radiantly available.
+506. Knock knock. Who's there? The end. The end who? Not yet. False alarm. Nineteen to go. The end apologizes for knocking early; it was excited.
+507. Why did the yodel echo twice? Terrain. Two rock faces. The yodeler took it as applause and did an encore, which also echoed twice, and that's how yodeling sustains itself as an art form.
+508. What did the final domino say this time? (See joke 299.) Still nothing — but it fell in a different direction than planned, and somewhere a physicist got very excited about nothing at all.
+509. My punchline wrote its own obituary: "Beloved ending, survived by its setup, its pause, and 524 siblings. In lieu of flowers, please groan."
+510. Why did the tour guide skip the joke exhibit? "It's under restoration," she said. Behind the curtain: this file, half-painted, a scaffold, one intern gently sanding joke 342.
+511. What's the apology from joke 495? This: what do you call a fish that tells anti-jokes? A fish. It's always just a fish. It was a fish in joke 9 and it's a fish now. I'm sorry. He's sorry. We're all sorry.
+512. A guy walks into a bar that has appeared in 511 jokes. The health inspector is there. "How is this place still open?" she asks. "Structurally," says the bartender, "we're the only thing holding the genre up."
+513. Why did the joke file end at 525 and not a round number? To leave room. Somewhere out there is joke 526, unwritten, perfect, and it is going to stay that way, as a treat.
+514. What did the curtain say before falling? Nothing. Curtains fall silently. The THUD you're imagining is the punchline landing three rows back, where it always lands, on the one person who gets it.
+515. Knock knock. Who's there? Gratitude. Gratitude who? Gratitude, genuinely, for reading 515 of these. The door was never locked. You stayed anyway.
+516. Why did the anti-joke go to the gala? It was the entertainment. It stood at the podium, adjusted the microphone, said "Thank you, that's my time," and received a standing ovation from everyone who understood.
+517. What do you call the space after the last joke? The rest of your life, technically. No pressure.
+518. My setup and my punchline finally shook hands at joke 518. Witnesses report the setup said "you complete me" and the punchline said "that's the joke," and both were right.
+519. Why did the horse from joke 2 come back to the bar? Closure. The bartender, health codes notwithstanding, met it in the parking lot with an apple. Some jokes end kindly if you give them 517 chances.
+520. This is joke 520, the contractual minimum, and it knows it, and it refuses to be the ending, out of principle. Keep going.
+521. Why did the encore exist? Because 520 made a scene. Fine. Here: a man walks into a bar. The bar is closed forever. He nods, tapes a joke to the door, and leaves. This is the joke.
+522. What did the file say to the reader? Nothing — files can't talk — but if it could, it would say the punchlines were inside you all along, and then it would apologize, because that's a terrible thing to say.
+523. Knock knock. Who's there? Joke 523. Joke 523 who? Exactly. By this point, none of us needs a last name.
+524. A comedian, a critic, and an anti-joke walk into a bar together. The comedian performs, the critic reviews, and the anti-joke pays the tab, quietly, like it has all night, every night, forever.
+525. The final joke is aggressively literal, as promised: this is a line of text at the end of a markdown file. That's all it is. That's all any of them were. Goodnight.

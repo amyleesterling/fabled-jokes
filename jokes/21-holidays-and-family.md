@@ -482,3 +482,48 @@
 478. Co-parenting during the holidays means negotiating custody of Christmas morning like it's beachfront property.
 479. My half-brother, stepsister, and I made a family tree for school, and the teacher gave us extra credit and a counselor's card.
 480. Our blended family is beautiful: two dads at graduation, three names on the emergency form, and one child who plays all sides like a diplomat.
+481. Hosting Thanksgiving for the first time means your mother arrives early to "help," which is a hostile takeover with oven mitts.
+482. I hosted the holidays once, and my family critiqued the turkey, the seating, and the thermostat, then voted to return the franchise to Mom.
+483. The host's job at family gatherings is to cook for twenty, smile for six hours, and cry briefly in the pantry on a schedule.
+484. We rotate holiday hosting duties in my family the way countries rotate hosting the Olympics: with debt, regret, and a closing ceremony.
+485. My guest bathroom has special towels no one may use, a tradition I mocked in my mother's house and now enforce with her exact face.
+486. Holiday hosting math: invite twelve, cook for twenty, seat fourteen, and somehow run out of chairs, forks, and patience simultaneously.
+487. Every family dinner needs one folding table, and whoever sits at it stays legally a child regardless of age or mortgage.
+488. The good china comes out twice a year to be washed by hand and worried about out loud.
+489. After hosting the holidays, my dishwasher and I both need a minute, and only one of us gets a rinse cycle.
+490. My family arrives for dinner in three waves: forty minutes early, exactly on time, and "we said we're five minutes away" for one hour.
+491. Baby's first Christmas is a photoshoot the baby will boycott from inside a costume shaped like a turkey.
+492. We took the baby to meet the extended family, and she cried at exactly the relatives we'd have warned her about anyway.
+493. My newborn's visitors follow one rule: wash your hands, and one tradition: telling me everything I'm doing differently than 1974.
+494. The baby announcement got 74 likes; the follow-up asking people to please call before visiting got read receipts and betrayal.
+495. Everyone wants to hold the baby until the baby needs anything, at which point the baby becomes exclusively mine again, like a boomerang with lungs.
+496. Grandma predicted the baby's gender by dangling a ring over my belly, and her method has the same accuracy as the hospital's with twice the confidence.
+497. My mother-in-law calls the baby "her baby," which is adorable and also why we're reviewing the paperwork.
+498. The family debates who the baby looks like as if there's prize money, and Grandma has never once lost.
+499. We gave the baby a family name, which satisfied one grandmother and started a forty-year cold front with the other.
+500. A baby's first laugh gets forty replays in the group chat; the parent's first full night of sleep gets a moment of silence, eventually, someday.
+501. My family whispers around the sleeping baby and then lets the dog bark like it pays rent.
+502. The holiday season with a newborn means celebrating three time zones of feedings in one house with mandatory cheer.
+503. Everyone says "sleep when the baby sleeps," which is easy: the baby sleeps in the car, at 2 p.m., for nine minutes.
+504. Family advice on the baby comes in one flavor: contradiction, served warm, with a side of "well, YOU turned out fine."
+505. Our family holiday card ranks the household: kids first, dog centered, parents cropped like witnesses in a documentary.
+506. The dog is the only family member who's excited when everyone arrives and sorry when everyone leaves, which is why he's the favorite.
+507. My parents said no pets my whole childhood, and now their dog has a stroller, a raincoat, and a stocking bigger than mine ever was.
+508. The family cat attends every holiday from the top of the fridge, judging us like an ancestor in a portrait.
+509. We sign the dog's name on greeting cards, and honestly his signature has less baggage than any of ours.
+510. The family argument about whether the dog can have turkey is settled every year by Grandpa, quietly, under the table, guilty as sin.
+511. Thanksgiving with the family dog means every guest swears they didn't feed him, and the dog's silhouette says otherwise by Friday.
+512. My inheritance is Grandma's ring, Dad's tools, and Mom's inability to leave a party in under an hour.
+513. Genetics is wild: I have my father's nose, my mother's eyes, and my grandmother's ability to hold a grudge through a growing season.
+514. Family recipes are sacred documents, which is why Grandma's handwriting is illegible in exactly the spots that matter.
+515. Grandma's secret ingredient was love, plus a stick of butter she lied about until the cardiologist got involved.
+516. My mother gave me her famous recipe with one ingredient missing, which is how I learned that love has DRM.
+517. Every family heirloom is one part history, two parts dust, and a full generation of arguing about whose garage it lives in.
+518. Our family's photo albums stop abruptly in 2007, when the camera roll took over and the memories moved to a cloud nobody can log into.
+519. Grandpa's advice was "never go to bed angry," which explains why he watched television until 3 a.m. for fifty years.
+520. My family isn't perfect, but we show up: late, loud, carrying casseroles and grudges, and staying long past the point of love, which is the point.
+521. The best family gatherings end with sore cheeks from laughing, a fridge full of foil swans, and one relative already texting the recap to the group chat from the driveway.
+522. We are a family bound by blood, loyalty, and the shared secret of what actually happened to Mom's good scissors.
+523. Every family is a group project, and every group project has one member doing the cooking, one doing the talking, and several who'll take credit at the funeral.
+524. My therapist asked me to describe my family in one word, and I asked for an extension, a whiteboard, and immunity.
+525. In the end, family is just the people who knew you before you had a personality and love you anyway, loudly, with commentary, forever.

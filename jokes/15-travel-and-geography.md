@@ -402,3 +402,83 @@
 398. The hotel's twenty-four-hour front desk is staffed at 3 a.m. by one guy who has seen every kind of human emergency and rates yours a four.
 399. The map's legend says one inch equals ten miles, and my legs say the legend is a liar.
 400. Baggage claim reunions are the purest joy in travel: strangers weep for family, and I weep for a duffel bag, and the emotion is identical.
+401. The gate area's outlets are all behind seats occupied by people at 100 percent battery, a cruelty the Geneva Conventions forgot.
+402. My cruise cabin's porthole showed sea, sky, or lifeboat depending on the itinerary, and I paid extra for all three.
+403. The hostel's "female-only dorm" was quiet, clean, and organized, and the mixed dorm next door sounded like a documentary about raccoons.
+404. Every canyon overlook has one guy standing past the railing for a photo, sponsored by gravity's patience.
+405. The airline rebooked me automatically onto a flight that solves their problem and creates three of mine, then congratulated us both.
+406. My road trip car games peaked with the alphabet game, which died in the desert at Q, as all things do.
+407. The old town's cobblestones are charming to the eye and a class-action lawsuit to the rolling suitcase.
+408. Hotel towel-folding is an art form: swans, hearts, elephants, and my personal favorite, "we've run out and here's a hand towel."
+409. The visitor center film is eighteen minutes long, shown on the hour, and somehow you always arrive at :07 and wait like it's a space launch.
+410. My duty-free chocolate melted in the overhead bin, redistributing itself through my carry-on like a will being executed.
+411. The trailhead parking lot fills by 7 a.m., which means every nature experience now begins with a competitive urban skill.
+412. Time zone flexing is real: my coworker abroad starts every meeting with "well, it's almost midnight here," like a hostage of his own choices.
+413. The rental house's grill had one working burner and the previous guest's philosophy of cleanup, which was that cleanup is a myth.
+414. The city's underground metro is faster, cheaper, and cooler than any taxi, and I still surfaced facing the wrong direction every single time.
+415. My postcards arrived home two weeks after I did, so I got to read my own vacation like a stranger's, and honestly that guy had fun.
+416. The beach's red flag warning system is universally understood by everyone except the one guy already in the water, waving back.
+417. Airplane windows are engineered marvels of layered acrylic, and every child on board is licking theirs.
+418. The mountain weather forecast is less a prediction and more a shrug with numbers.
+419. My travel wallet organizes passport, boarding passes, and currency into one convenient item to panic about.
+420. The tour company's cancellation policy has more tiers than the wedding cake, and every tier keeps my deposit.
+421. Sleeping in an airport teaches you that armrests exist specifically to prevent you from doing that, by design, personally.
+422. The famous sunset spot has a crowd, a countdown, and applause at the end, because we cheer for the sun now, and the sun, a professional, doesn't bow.
+423. My vacation's step count doubled my normal week, powered entirely by walking the wrong way first.
+424. The airport's "short-term parking" rates suggest they'd like you to sell the car and simply live at the airport.
+425. Every rental car smells like the previous driver's air freshener fighting the driver before that, a museum of vanilla battles.
+426. The coastal hike's guidebook photo was taken by a drone, which explains why my version of the view includes so much of my own feet.
+427. My hotel neighbor's TV plays through the wall at conversation volume, so I fell asleep to half a crime drama and dreamed the verdict.
+428. The train's "assigned seating" survives exactly until the first stop, when it converts to a philosophy discussion.
+429. The road trip cooler's ice lasts one day, so day two is cold water with floating cheese, which we drink around like a family.
+430. The peninsula's one road in is the one road out, a fact the traffic report calls "congestion" and the locals call "Tuesday."
+431. My flight anxiety isn't about crashing, it's about the overhead bin closing on my bag at an angle, forever, in front of everyone.
+432. The resort's nightly entertainment was a man with a keyboard set to "full orchestra," and by night three we requested songs like regulars.
+433. Vacation sunburn placement follows one law: exactly where you can't reach, in the shape of exactly how you missed.
+434. The airport bookstore's bestseller wall is the closest thing our culture has to a national mood ring.
+435. My homestay host's directions included "turn left at the dog," and the dog, a professional landmark, was there.
+436. The cruise's midnight buffet exists because someone asked "what if dinner, but again," and the sea said yes.
+437. Renting bikes as a couple is a trust exercise with gears, scored publicly by every pedestrian we scattered.
+438. The famous steps from the movie are just steps, and four hundred of us climbed them to feel something, and dammit, we felt it.
+439. My carry-on fits in the sizer if I remove the laptop, hold my coat, wear both hats, and redefine what a pocket is.
+440. The tropical resort's gecko in my room did more pest control than the front desk, so I tipped no one and thanked the gecko.
+441. Airport TSA bins are the great equalizer: CEOs and toddlers alike, shoeless, beltless, holding their pants and their dignity in the same hand.
+442. The lake cabin's motto is "no wifi, disconnect and unwind," printed on a sign next to the wifi password, because they know.
+443. My guided tour's headset crackled out during the important part, so my version of history has a hole where the king's fate should be.
+444. The city's bike share app, parking app, metro card, and ferry pass have unionized against my phone storage.
+445. Every trail has a false summit, which is nature's way of teaching you about middle management.
+446. The redeye's armrest treaty of row 27 held for five hours, then collapsed at dawn like all fragile peace.
+447. My beach umbrella rental cost more than the umbrella costs at the store next door, which is the beach's version of airport pricing.
+448. The famous hot springs were "a comfortable soak" according to the sign and "soup" according to my legs.
+449. Airline miles credit cards have made everyone at the dinner party an economist with one weird passion.
+450. The hostel's "book exchange" shelf is where paperbacks go to meet worse paperbacks, forever, in every language.
+451. My connecting flight's terminal change was announced in a language I don't speak, which I learned from the sudden migration of everyone smarter than me.
+452. The vacation rental's kitchen has fourteen wine glasses, one knife, no cutting board, and a blender with a past.
+453. Every "shortcut" my dad took added twenty minutes, and every one is now a family landmark: "this is where we lost the summer of '09."
+454. The plane's descent announcement wakes you from the only good sleep of the flight, which the airline schedules on purpose out of respect for tradition.
+455. The tide pools were teeming with life, said the guide, and the life was mostly the same crab, pointed at by forty people.
+456. My travel toiletries bag contains four hotel pens, three shower caps, and the sewing kit I've carried through nine countries for a button I lost in the tenth.
+457. The gondola ride's romance is priced per minute and shared with a stranger couple mid-argument, which is honestly better entertainment.
+458. Airport moving walkways make you feel superhuman for thirty feet, and then the regular floor returns and gravity files its report.
+459. The safari guide said "they're more scared of you," which is comforting math until you see the size of what's scared.
+460. My hotel's "sea view junior suite" was junior in the sense that the sea was visible to a junior with binoculars.
+461. The road trip's designated DJ position carries absolute power, and absolute power corrupts absolutely into a three-hour ska phase.
+462. The pyramid, cathedral, or temple took two hundred years to build, and the tour allots twenty-five minutes, which is our civilization's exchange rate.
+463. My sunhat blew into the ocean on day one, so the rest of the vacation was sponsored by a gift shop hat that says "Beach Vibes" against my will.
+464. The train's window seat faces backward, so I experienced the entire countryside as a place I was being taken away from.
+465. Airport hydration strategy: buy the giant water after security, drink it all in gratitude, then spend the flight in a middle-seat bathroom negotiation.
+466. The mountain village's one restaurant is closed on the day you're there, which is a form of fame: everyone who visits has the same story.
+467. My luggage tag lists my name and number, essentially a business card for a bag with a better travel history than mine.
+468. The kids' sandcastle survived the tide longer than my beach chair survived my own weight, and both taught me about foundations.
+469. Turbulence etiquette: grip the armrest, exhale audibly, and make brief eye contact with a stranger to transfer half your fear at no cost to them.
+470. The city's famous food is now a food festival, a walking tour, a cooking class, and a t-shirt, and somewhere under all that, a grandmother's recipe rolls its eyes.
+471. My e-visa was approved instantly, printed "just in case" four times, and requested by no one, which is the best possible outcome and still annoying.
+472. The lake's "no wake zone" is enforced by one buoy and the collective glare of every dock owner, which is enough.
+473. Vacation laundry math: pack seven outfits for ten days and come home with three unworn and one mystery sock earning miles it didn't book.
+474. The hotel's concierge recommended his cousin's restaurant, and honestly the cousin came through, which is the whole travel economy in one sentence.
+475. The observation deck charges thirty dollars to see the city you're already in, and the line is full of us, paying to confirm it exists.
+476. My aisle armrest, my window wall, and the middle seat's twin thrones: the constitution is clear, and yet here we are, elbow to elbow, lawless.
+477. The trail mix's chocolate pieces are gone by mile one, converting the rest of the bag into a fiber-based punishment for optimism.
+478. The ferry's car deck loading is a ballet performed by one man's hand signals, and I have never trusted a stranger more.
+479. Every waterfall's mist zone has a couple taking wedding photos and a tourist in a poncho photobombing them into eternity.
+480. My flight home always lands at the moment my vacation brain finally turned off, which the calendar calls "efficient" and my soul calls "theft."
