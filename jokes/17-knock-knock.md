@@ -322,3 +322,83 @@
 318. Knock knock. / Who's there? / Gil. / Gil who? / Gil-ty of eating the fudge off your windowsill. It was cooling. It was also legally abandoned.
 319. Knock knock. / Who's there? / The encore. / The encore who? / You clapped when I stopped knocking, so I'm back. That's how clapping works.
 320. Knock knock. / Who's there? / An avalanche. / An avalanche wh— / (snow everywhere) You have to answer faster in the mountains.
+321. Knock knock (on the window). / Who's there? / The window. / We don't knock on windows here. / Tell that to the branch. He's been doing it for years.
+322. Knock knock. / Who's there? / Olive. / Olive who? / Olive next door, and your bass line has been remixing my dreams since Tuesday.
+323. Knock knock. / Who's there? / A metronome. / A metronome who? / Knock. Knock. Knock. Forever. At 60 BPM. You'll get used to it.
+324. Knock knock. / Who's there? / Tess. / Tess who? / Tess-ting, one, two — is this the house with the trampoline? Asking for my insurance.
+325. Knock knock. / Who's there? / The scapegoat. / The scapegoat who? / Whatever just broke in there, I hear it was me. It's always me. I wasn't even here.
+326. Knock knock. / Who's there? / Ed. / Ed who? / Ed-mittedly this is the fourth wrong house today, but yours has the best snacks. The raccoon rates it highly.
+327. Knock knock. / Who's there? / A sundial. / A sundial who? / I can tell you exactly when I knocked, but only if you drag me into the light.
+328. Knock knock. / Who's there? / Bella. / Bella who? / Bella's still broken. Joke 30. She says hi. She says help.
+329. Knock knock. / Who's there? / The five stages of knocking. / The five stages of knocking who? / Denial, anger, bargaining, depression, and the mail slot.
+330. Knock knock. / Who's there? / Ann. / Ann who? / Ann-nouncing the imminent arrival of the snail. Compose yourselves.
+331. Knock knock. / Who's there? / A snail. / The one from joke 31? / Yes. And as promised, the punchline: hello. Worth it? Don't answer that.
+332. Knock knock. / Who's there? / Your umbrella. / My umbrella who? / The one you left at the restaurant. I've seen things. I've kept dry people you wouldn't believe.
+333. Knock knock. / Who's there? / Abe. / Abe who? / Abe-solutely nobody followed me here, said the man visibly followed by geese.
+334. Knock knock. / Who's there? / A soap opera. / A soap opera who? / The door is my evil twin. The knob is lying. The hinges know EVERYTHING.
+335. Knock knock. / Who's there? / Ned. / Ned who? / Ned-less to say, the potato salad situation at the cookout has escalated.
+336. Knock knock. / Who's there? / The passive voice. / The passive voice who? / Mistakes were made. Doors were knocked upon. Blame was not assigned.
+337. Knock knock. / Who's there? / Roz. / Roz who? / Roz-es are red, doors are wood, open up, this poem's not good.
+338. Knock knock. / Who's there? / A satellite. / A satellite who? / I can see your whole roof from up here. The frisbee count is seven. SEVEN.
+339. Knock knock. / Who's there? / Herb. / Herb who? / Herb your enthusiasm — I'm only staying five hours.
+340. Knock knock knock. / Who's there? / The odd one out. / The odd one out who? / One of those three knocks was a woodpecker. Joke 84. He says hi.
+341. Knock knock. / Who's there? / Kit. / Kit who? / Kit-tens. Plural. In a basket. On your mat. Your move, hero.
+342. Knock knock. / Who's there? / A palate cleanser. / A palate cleanser who? / Nothing funny here. Just a small sorbet before the next pun.
+343. Knock knock. / Who's there? / Wally. / Wally who? / Wall-e quit too. Said joke 201 was too much pressure. You're down to the fence now.
+344. Knock knock. / Who's there? / The fence. / The fence who? / New spokesman for the property line. The door quit, the wall quit. I'm all you've got, and I wobble.
+345. Knock knock. / Who's there? / Ruth. / Ruth who? / Ruth-less negotiator, here about the lemonade stand. Fifty cents is robbery. I'll pay thirty-five.
+346. Knock knock. / Who's there? / A hiccup. / A hiccup who? / KNOCK— hic —knock. Sorry. KNOCK— hic. This could go on for hours.
+347. Knock knock. / Who's there? / Ollie. / Ollie who? / Ollie-ways knock twice. It's a branding thing.
+348. Knock knock. / Who's there? / The mystery flavor. / The mystery flavor who? / You'll never know. Even I don't know. Lick the doorbell and guess. Don't actually.
+349. Knock knock. / Who's there? / Vince. / Vince who? / Vince-ible! Wait, that's not— invincible! I meant— look, just open up, I fell off your trellis.
+350. Knock knock. / Who's there? / A crossword clue. / A crossword clue who? / Five letters, "greeting shouted through doors." ...It's HELLO. I just needed to tell someone.
+351. Knock knock. / Who's there? / Bess. / Bess who? / Bess behavior, I promise. The fondue incident is behind us. Mostly behind us. It's on my back.
+352. Knock knock. / Who's there? / Your left sock. / My left sock who? / I escaped the dryer. I know where the others go. I can never unsee it.
+353. Knock knock. / Who's there? / Cam. / Cam who? / Cam-paigning for porch representative. My platform: better lighting, fewer wasps.
+354. Knock knock. / Who's there? / A wasp. / A wasp who? / RE: joke 353. We heard about the platform. We vote no.
+355. Knock knock. / Who's there? / Lee. / Lee who? / Lee-ve the porch light on tonight. The moth from joke 15 is bringing friends.
+356. Knock knock. / Who's there? / The benefit of the doubt. / The benefit of the doubt who? / Look, MAYBE the knocking was the wind. Let's say it was the wind. (It was me.)
+357. Knock knock. / Who's there? / Etta. / Etta who? / Etta-quette says you offer tea now. I checked the book. I brought the book.
+358. Knock knock. / Who's there? / A tectonic plate. / A tectonic plate who? / Moving very slowly toward your house. See you in an eon. Consider this your warning.
+359. Knock knock. / Who's there? / Roy. / Roy who? / Roy-al decree: this porch is now a kingdom, and the plastic flamingo is my herald.
+360. Knock knock. / Who's there? / The awkward pause. / The awkward pause who? / ... / ... / ...So how's your mom?
+361. Knock knock. / Who's there? / Mona. / Mona who? / Mona lot about the lawn, don't I? I hear it. I'm working on me. The lawn isn't.
+362. Knock knock. / Who's there? / A yodeler. / A yodeler wh— / Yodel-AY-hee-WHO. You walked right into that one.
+363. Knock knock. / Who's there? / Wes. / Wes who? / Wes side of the duplex. Your smoke alarm's 3 a.m. chirp and my sanity are entering formal talks.
+364. Knock knock. / Who's there? / The mail slot. / The mail slot who? / Everyone keeps whispering into me, and I'd like to formally resign from this joke format.
+365. Knock knock. / Who's there? / Daisy. / Daisy who? / Daisy me rollin', they hatin' — sorry. Your kid taught me that. He can't stop saying it. Good luck.
+366. Knock knock. / Who's there? / A year. / A year who? / Joke 365 was yesterday. I reset at midnight. Happy new joke.
+367. Knock knock. / Who's there? / Bart. / Bart who? / Bart-ender says you left your tab open at trivia night. Also, your team name made him sad.
+368. Knock knock. / Who's there? / The subtext. / The subtext who? / Oh, nothing. It's FINE. (It is not fine. Read me.)
+369. Knock knock. / Who's there? / Chip. / Chip who? / Chip-munks got into your birdseed and, subsequently, into a jet ski's worth of confidence.
+370. Knock knock. / Who's there? / A telescope. / A telescope who? / I could see this knock coming from three houses away. Brace yourself. ...Now.
+371. Knock knock. / Who's there? / Frank. / Frank who? / Frank-ly, the gnome from joke 171 has been telling people things, and we need to coordinate stories.
+372. Knock knock. / Who's there? / The estimated wait time. / The estimated wait time who? / Your door will be answered in approximately... 47... minutes. (hold music plays)
+373. Knock knock. / Who's there? / Pearl. / Pearl who? / Pearl-fect strangers don't bring banana bread. I brought banana bread. Do the math.
+374. Knock knock. / Who's there? / A boom mic. / A boom mic who? / (dips into frame) Sorry. Pretend I wasn't here. Keep doing the joke.
+375. Knock knock. / Who's there? / Todd. / Todd who? / Todd-ler on the loose. Small, fast, holding one shoe. If found, do not negotiate. Send for me.
+376. Knock knock. / Who's there? / The middle child. / The middle child who? / It's fine. You answered jokes 375 and 377 fast enough. Noted.
+377. Knock knock. / Who's there? / Sky. / Sky who? / Sky-larking aside, your kite has been in my oak for a month and it's earned squatters' rights.
+378. Knock knock. / Who's there? / A group chat. / A group chat who? / 47 unread knocks. Tap to catch up. You won't.
+379. Knock knock. / Who's there? / Hugh. / Hugh who? / Hugh-mility check: you've said "who's there" 379 times now. I just think that's beautiful.
+380. Knock knock. / Who's there? / The B-side. / The B-side who? / Nobody plays me. But the real fans knock on the BACK door.
+381. Knock knock. / Who's there? / Grant. / Grant who? / Grant me three wishes— no, wait. I grant the wishes. I'm the genie. Long day. Rub the doorknob.
+382. Knock knock. / Who's there? / A stray shopping cart. / A stray shopping cart who? / No one knows how I got here. Not even me. I live on your lawn now. It's the wheels.
+383. Knock knock. / Who's there? / Iva. / Iva who? / Iva feeling you knew it was me the whole time and simply enjoy the ritual.
+384. Knock knock. / Who's there? / The laugh track. / The laugh track who? / HA HA HA HA. (that wasn't even the punchline) HA HA HA.
+385. Knock knock. / Who's there? / Sid. / Sid who? / Sid-ing salesman! Your siding's fine. Best on the block. I just miss talking to people.
+386. Knock knock. / Who's there? / An ice cream truck. / An ice cream truck who? / You heard the song from four blocks away and your heart already answered. Open up.
+387. Knock knock. / Who's there? / Dinah. / Dinah who? / Dinah-sore from all this knocking. I'll need medical attention or cookies, whichever is closer.
+388. Knock knock. / Who's there? / The escape room. / The escape room who? / Plot twist: you're in one. The key is under the— no, wait, that's my hint for the OTHER house.
+389. Knock knock. / Who's there? / Burt. / Burt who? / Burt the toast thinking about how to greet you. It was going to be charming. It is now charcoal.
+390. Knock knock. / Who's there? / A pep talk. / A pep talk who? / You're going to open this door. You've done it hundreds of times. I believe in you. Knees bent.
+391. Knock knock. / Who's there? / Merle. / Merle who? / Merle-y a flesh wound from the rosebush, but I'll need the good bandages and a sympathetic audience.
+392. Knock knock. / Who's there? / The terms of surrender. / The terms of surrender who? / The goose accepts the bread. The porch is yours again. Sign here.
+393. Knock knock. / Who's there? / Dawn. / Dawn who? / Dawn broke, the rooster crowed, and SOMEBODY'S wind chimes started freestyling. We need to talk.
+394. Knock knock. / Who's there? / A rubber duck. / A rubber duck who? / Explain your problem to me slowly. The bathtub says you've been debugging your life all wrong.
+395. Knock knock. / Who's there? / Trish. / Trish who? / Gesundheit. / No, TRISH. / Bless you again.
+396. Knock knock. / Who's there? / The final boss. / The final boss who? / You've defeated 395 jokes. I have two health bars and a pun you won't see coming.
+397. Knock knock. / Who's there? / Clem. / Clem who? / Clem-ency for the raccoon. He's reformed. He returns (some of) what he takes.
+398. Knock knock. / Who's there? / A drawbridge. / A drawbridge who? / You think a DOOR is dramatic? I make people wait while I scream chains.
+399. Knock knock. / Who's there? / Astrid. / Astrid who? / Astrid the wrong house again. Hi. Bye. Sorry. See you tomorrow, probably.
+400. Knock knock. / Who's there? / Joke 400. / Joke 400 who? / Shh. Four more and something terrible happens to a website.
