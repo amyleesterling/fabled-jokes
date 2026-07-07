@@ -58,8 +58,8 @@
 54. I don't need anger management; I need people to manage their behavior around my anger.
 55. My ancestors crossed oceans so I could argue with strangers about whether a hot dog is a sandwich.
 56. I put my toddler's art on the fridge to remind him that even his best work gets covered by magnets eventually.
-57. I bought a treadmill desk and now I'm exhausted and behind on everything at the same time.
-58. My phone autocorrected "I'm fine" to "I'm find," and even the algorithm knows I'm lost.
+57. I bought a treadmill desk so I could finally run from my responsibilities without missing a meeting.
+58. My phone autocorrected "I'm fine" to "I'm fired," and by Friday it had been upgraded from typo to prophecy.
 59. I told the barista my name was Voldemort just to hear someone finally say it.
 60. I have a personal trainer, and by that I mean a dog who screams at six a.m.
 61. I keep a gratitude journal, and today's entry is just the word "caffeine" underlined twice.

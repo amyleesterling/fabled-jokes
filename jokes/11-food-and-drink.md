@@ -89,7 +89,7 @@
 85. The tasting menu had nine courses, eight of which were foam with a backstory.
 86. Our server introduced himself like the meal was a wedding and he was marrying us to the specials.
 87. The steakhouse asked how I wanted my steak, and I said "in a way I can afford," so they brought a candle.
-88. The restaurant's "small plates" were small the way my patience was by the fourth one.
+88. The small plates were so small the waiter announced each one like a birth: "It's a scallop. Three ounces."
 89. I made a reservation for 7, arrived at 7, and was seated at the concept of 8.
 90. The special was market price, and apparently the market was having a very emotional day.
 91. Our table wobbled, so the waiter folded a napkin under it with the gravity of a field surgeon.
@@ -163,14 +163,14 @@
 159. The app said my food was "being crafted," and it arrived crafted the way a hostage note is crafted.
 160. The fries at the bottom of the bag are the closest thing adulthood has to finding treasure.
 161. My delivery arrived with someone else's order, so now I know Marcus likes extra pickles and I like Marcus's dinner more than mine.
-162. Fast food breakfast ends at 10:30, which is exactly when I remember fast food breakfast exists.
+162. I rolled up for fast food breakfast at 10:31, and the cashier lowered a little flag while a bugler played taps for the hash browns.
 163. I ordered a "snack size" and received a portion so small it should come with a magnifying glass and a eulogy.
 164. The pizza tracker said "quality check," which I imagine is one guy nodding at a pizza with immense respect.
 165. My delivery fee, service fee, and small-order fee added up to more than the burrito, which is now a limousine burrito.
 166. The taco place asks "mild, medium, or hot," and my mouth says hot while my body files a formal objection.
 167. I asked for no onions, and the kitchen heard "extra onions, as a treat, everywhere."
 168. The gas station hot dog rollers are a Ferris wheel for food that has given up on being chosen.
-169. My "20 minutes or less" pizza arrived in 90, so technically it's a free lesson in disappointment.
+169. My "20 minutes or less" pizza showed up in 90, and the driver had a tan and a souvenir keychain from wherever they'd been together.
 170. The drive-thru handed me a bag so hot on top and cold on the bottom it had its own climate zones.
 171. I upgraded to curly fries for fifty cents, which is the best financial decision I've made this fiscal year.
 172. The sandwich artist asked what I wanted on it, and after the fourth topping her eyes said "this is a hostage situation."
@@ -183,15 +183,15 @@
 179. Ordering "just water" at the drive-thru makes the speaker go silent like I've asked for the manager's soul.
 180. The ketchup packets in my glovebox outnumber the maps, the napkins, and, frankly, my prospects.
 181. My diet starts Monday, which is why every Sunday is legally recognized as a farewell tour.
-182. I'm doing intermittent fasting, which means I fast intermittently between snacks.
+182. I'm doing intermittent fasting: I sleep through the sixteen hours and treat the eight like a heist with a closing window.
 183. My diet app sent me a notification that just said "again?" and honestly, fair.
 184. I tried a juice cleanse and cleansed my body of joy, money, and the will to speak kindly before noon.
 185. Cutting carbs was easy for the first four hours, which historians now call "the before times."
 186. I eat clean, if you count the plate — I clean the plate every time.
 187. My cheat day filed for full-time status with benefits.
-188. The scale and I have agreed to see other people.
+188. I weigh myself under strict lab conditions: morning, empty stomach, full exhale, one finger on the towel rack — the scale calls it tampering, I call it peer review.
 189. I counted my macros today: cookies, crackers, and macaroni. Nailed it.
-190. Keto taught me that I can give up anything except everything keto asks me to give up.
+190. Keto banned my bread, rice, and apples, then handed me bacon wrapped in cheese and called it discipline — that's not a diet, that's a loophole in a lab coat.
 191. My portion control strategy is controlling the portion so it doesn't escape before I finish it.
 192. I bought smaller plates to eat less, and now I simply refill smaller plates more often, like a hummingbird with a deficit.
 193. The nutritionist said "listen to your body," and my body said "nachos," so we're at an impasse with her invoice.
@@ -235,7 +235,7 @@
 231. My café punch card is the closest I've come to completing a long-term goal.
 232. The espresso shot was so strong I heard my grandmother's advice in real time.
 233. I switched to half-caf, and now I'm half the person I used to be by 2 p.m.
-234. The coffee shop has oat, almond, soy, and macadamia milk, and still the cow option is the only one that doesn't cost extra — make it make sense.
+234. The café charges 80 cents extra for oat milk, which is fair — oats are notoriously hard to milk: tiny udders, skittish, and they scatter when you bring out the stool.
 235. My French press makes excellent coffee and, judging by the sediment, a small beach.
 236. I ordered a "medium," and the barista corrected me to "grande" with the tenderness of a hostage negotiator.
 237. Espresso martinis exist because someone asked, "what if the night had a deadline?"

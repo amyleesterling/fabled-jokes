@@ -18,7 +18,7 @@
 15. The company values are painted on the wall so they don't have to be anywhere else.
 16. I put "self-starter" on my résumé because no one else will start paying me to sit here.
 17. Quiet quitting? I've been quiet promoted — same pay, more silence.
-18. The all-hands meeting: where all hands are checking their phones.
+18. At the all-hands, the CEO said we're all rowing in the same direction, which was news to those of us below deck with the drums.
 19. My job title is "coordinator," which means I apologize to two departments at once.
 20. We pivoted so many times this quarter the business plan is just a ballerina now.
 21. HR's job is to protect the company from you, which is why they smile like insurance adjusters.
@@ -38,7 +38,7 @@
 35. Our unlimited PTO policy is unlimited the way the breadsticks are — technically, and with judgment.
 36. My cover letter said I'm passionate about logistics. My therapist and I are still unpacking that lie.
 37. We hired a consultant to tell us what we already knew, but in a font we respected.
-38. The Wi-Fi password changes weekly. Morale does not.
+38. IT changes the Wi-Fi password weekly for security, then tapes it to the wall, where it protects us from anyone who can't read.
 39. My boss calls it "wearing many hats." OSHA calls it "understaffing."
 40. The suggestion box is a shredder with a slot.
 41. Onboarding took three weeks. Offboarding was a Slack message and a shrug.
@@ -72,13 +72,13 @@
 69. "We're like a family here" — yes, dysfunctional, with money secrets.
 70. I asked for feedback and got a compliment sandwich where the bread was also criticism.
 71. The night shift differential is fifty cents and the slow erosion of your circadian soul.
-72. My badge photo was taken on day one, back when my eyes had light in them.
+72. Security flagged that my badge photo no longer matches my face, so as of Tuesday this job is legally identity theft.
 73. Corporate jargon translator: "bandwidth" means "no," "alignment" means "surrender."
 74. The new hire has energy. Give it a month; we compost that here.
 75. My side hustle is recovering from my main hustle.
 76. The manager's open-door policy ends at the door to the salary spreadsheet.
 77. I don't gatekeep at work. I don't know enough to keep any gates.
-78. The company anniversary gift for ten years was a lapel pin worth less than one hour of my time.
+78. My ten-year anniversary gift was a lapel pin. The fifteen-year gift is a slightly heavier pin, so at least my loyalty is priced by weight.
 79. "Other duties as assigned" is the fine print that ate my job description.
 80. The office plant is plastic, like our growth projections.
 81. The reorg chart looks like someone sneezed on the old one.
@@ -99,7 +99,7 @@
 96. The stand-up meeting is a seated meeting where the agenda stands us up.
 97. "Let's put a pin in that" — the pin is going into the idea's tiny voodoo heart.
 98. My manager's calendar is so full he schedules time to be unreachable.
-99. Retail closing shift: mopping a floor that eight people will ruin before you clock out.
+99. Mopping the store at closing is like a Zen monk raking gravel, if the gravel could walk back in at 8:59 asking if we're open.
 100. I don't fear AI taking my job. I fear it doing my job and revealing how little there was.
 101. Corporate wellness program: a discount on a gym you're too tired to attend from the job that tired you.
 102. The break is fifteen minutes, ten of which are walking to and from where breaks are allowed.
@@ -121,7 +121,7 @@
 118. "Flat hierarchy" means nobody can promote you but everybody can assign you things.
 119. The dishwasher at work is Schrödinger's appliance: simultaneously clean, dirty, and someone else's problem.
 120. Gig apps call me a partner, which is adorable coming from an algorithm that fired a guy via push notification.
-121. Two-factor authentication at work: my password and my will to live, both expired.
+121. Work login requires a password, a code, and a fingerprint — three forms of ID to guard a spreadsheet no thief has ever wanted.
 122. The client said "make it pop" and my soul made a small popping sound instead.
 123. I asked for headcount and got "let's revisit in Q3," which is Latin for "no."
 124. Corporate swag: a water bottle worth more than my raise, with a logo I resent.
@@ -171,7 +171,7 @@
 168. "Streamlining operations" means the stream now flows directly over your desk.
 169. The customer said "the website says you have it in stock." The website also says we value your feedback.
 170. I set boundaries at work: the company crossed them, then expensed the trip.
-171. Our hybrid schedule means commuting to take video calls I could take at home, but sadder.
+171. Return-to-office is about collaboration: I drive forty minutes to sit beside Dave so we can both video-call a man in Tampa.
 172. The temp agency called me "talent," which is the nicest thing anyone's said before paying me minimum wage.
 173. My email signature says "Sent with care." It is sent with rage, from the toilet.
 174. The office fantasy football league has better documentation than any of our products.
@@ -179,7 +179,7 @@
 176. My work friends and I are bonded like hostages — deeply, and by circumstance.
 177. The training module made me watch a cartoon explain ethics, then the executives skipped it.
 178. Our ticketing system has a status called "in progress" that functions as a hospice.
-179. Store policy is whatever the customer screams loudest, apparently.
+179. Store policy has two volumes: the official manual, and whatever a man named Rick negotiated by yelling in 2019, which supersedes it.
 180. I updated my résumé to say "survived three reorgs," which recruiters should treat like combat experience.
 181. The break room TV plays company news nobody asked for, like a hostage video we produced ourselves.
 182. "Total compensation package" includes the salary, the dental, and the emotional damage.
@@ -229,7 +229,7 @@
 226. The company gave us Friday afternoon off and scheduled the make-up work for Thursday night.
 227. My reference check consists of my old boss saying "he existed" with plausible deniability.
 228. The uniform policy costs me two paychecks a year to look like everyone the customers ignore.
-229. "Deep work" at this office is any task completed between interruptions, so, roughly none.
+229. I blocked two hours for deep work and the calendar suggested adding attendees. Even my focus time needs a stakeholder now.
 230. I asked what success looks like in this role. Nobody had a photo.
 231. The severance package was a box for my things and directions to the exit, laminated.
 232. Corporate town halls take questions in advance so the answers can be pre-disappointed.
@@ -262,7 +262,7 @@
 259. The manager who says "I don't micromanage" has already read this over my shoulder.
 260. Corporate offsite agenda: alignment, vision, and a trust exercise that generated four HR cases.
 261. The tip jar says "college fund." It's not lying — it's just very behind.
-262. My commute podcast is forty minutes of someone else describing a better job.
+262. My commute podcast is true crime, so I get forty minutes a day of listening to people who at least had an exit strategy.
 263. "End of day" means my end of day to me and sunrise in Tokyo to my boss.
 264. The company newsletter's "employee spotlight" is the closest thing to a raise this fiscal year.
 265. I once said "no" in a meeting and it's now a story they tell new hires, like folklore.
@@ -296,13 +296,13 @@
 293. I labeled my lunch with my name, my department, and a curse. Only the curse worked.
 294. "Move the needle" — our needle is decorative; it came painted on.
 295. The onboarding buddy assigned to me quit during my onboarding, which was itself very informative onboarding.
-296. My timesheet rounds to the quarter hour; my anxiety does not.
+296. My timesheet rounds down to the quarter hour, so every day I donate fourteen minutes to a company that bills clients by the second.
 297. The drive-thru timer is the only performance metric enforced by a countdown clock and a scream.
 298. Our succession plan is a sticky note that says "hopefully Marcus."
 299. "This is a marathon, not a sprint," said management, sprinting toward the exits with bonuses.
 300. Milestone: joke three hundred, still no ergonomic chair.
 301. The customer said "you've lost a customer!" like the fifth trumpet of Revelation, and bought socks anyway.
-302. My hybrid days are chosen by whoever schedules the meetings, which is to say, chaos.
+302. I chose my hybrid days to avoid leadership, who chose theirs to avoid us, so now we orbit each other like binary stars of avoidance.
 303. The office microwave has two settings: raw and biohazard.
 304. "Ownership mentality" means own the failures; the equity stays upstairs.
 305. My professional development budget is a book, annually, if the book is on sale.
@@ -386,7 +386,7 @@
 383. "You're irreplaceable," they said, listing my role on three job boards as "easily backfilled."
 384. The safety meeting was rescheduled due to production targets, which is a safety incident in itself.
 385. Our office library has forty leadership books and a waitlist for the one about quitting.
-386. My badge lets me in at 6 a.m. but the culture won't let me leave at 4 p.m., and that asymmetry has a name: my life.
+386. My badge works from 6 a.m. to midnight, which HR calls "flexible access" and the zoo would call "enclosure hours."
 387. The tip screen at the counter flipped around is the modern duel — eye contact at ten paces.
 388. "Founder energy" is a diagnosis, not a compliment.
 389. My department's budget is a rumor that finance neither confirms nor funds.
@@ -413,7 +413,7 @@
 410. "Deliverables" is such an ugly word for "things I'll be blamed about."
 411. The freight elevator has more character development than our brand guidelines.
 412. My performance review compared me to my potential, a coworker I've never met who apparently crushes it.
-413. The night audit shift at the hotel is just being paid to witness humanity at its weirdest and quietest.
+413. On hotel night audit, a guest holding a live goose asked me at 3 a.m. if the pool was open. I said it closed at ten, and he nodded like the goose was the flexible part.
 414. "Growth mindset" posters hang in the room where they explain the promotion freeze.
 415. Our disaster was upgraded to a "learning" before the smoke cleared.
 416. The office charity drive competes departments against each other, so even generosity has a leaderboard here.
@@ -471,7 +471,7 @@
 468. The customer's "keep the change" was four cents, delivered like a knighthood.
 469. "Fast-tracked for leadership" means you'll do a manager's job at your salary while they check.
 470. The office recycling bin and the office trash meet in the same dumpster, like all our initiatives.
-471. My white-noise machine at my desk plays "distant highway," which is where I'd rather be.
+471. My desk white-noise machine has an "office ambience" setting, which means somewhere a stranger falls asleep to a recording of my typing.
 472. The scheduling app sent me a shift reminder for a job I quit, like an ex texting "you up?"
 473. "Strategic ambiguity" is when leadership doesn't know either, but in a blazer.
 474. The break room couch has absorbed more despair than the EAP hotline.
@@ -525,4 +525,4 @@
 522. "New fiscal year, new us," said the company, carrying the same problems across the date line like luggage.
 523. My two-week notice period is fourteen days of being treated like a spy who's already sold the secrets.
 524. The office's last donut is protected by a social force field stronger than any password policy.
-525. Clocking out doesn't end the shift; it just moves the shift into my dreams, unpaid.
+525. I dreamed I was restocking shelves all night, and when I mentioned it, my manager pulled up the dream on camera and said I'd missed a spot.
