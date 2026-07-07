@@ -481,3 +481,48 @@
 478. The Antonine Wall was abandoned for Hadrian's Wall, meaning even Rome once conceded that Scotland wasn't worth the second attempt.
 479. Popocatepetl the warrior became a volcano mourning his beloved Iztaccihuatl, Aztec legend explaining why Mexico's mountains smoke like a grieving widower.
 480. The Statute of Laborers tried to freeze wages after the Black Death, history's first employer attempt to legislate away a labor market and its first failure at it.
+481. The Voynich manuscript remains undeciphered after six centuries, either an elaborate hoax or history's most secure diary.
+482. Pele, the Hawaiian volcano goddess, allegedly curses those who take lava rocks, and park rangers receive mailed-back rocks with apologies yearly, mythology's only functioning returns department.
+483. The Roman census moved Joseph and Mary to Bethlehem, meaning Western civilization's central story begins with tax compliance travel.
+484. The Mughal emperor Akbar hosted debates between all religions at his court, achieving interfaith dialogue centuries before it had a conference budget.
+485. Herostratus burned the Temple of Artemis purely to be remembered, and the ban on speaking his name failed immediately, history's first proof that deplatforming has limits.
+486. The medieval trial of animals put pigs, rats, and locusts before actual courts with actual lawyers, jurisprudence's most confident era.
+487. Gilgamesh rejected Ishtar's proposal by listing her exes' fates, ancient literature's most thoroughly cited breakup text.
+488. The Inca practiced skull surgery with survival rates near ninety percent, outperforming battlefield medicine three centuries later, a benchmark surgeons prefer not to discuss.
+489. The Luxor obelisk in Paris was a gift from Egypt, whose twin still stands in Luxor, the only pair of monuments separated by a diplomatic thank-you.
+490. Huitzilopochtli required constant sacrifice to keep the sun moving, the Aztec sun running on the most demanding subscription model in theology.
+491. The Habsburgs' strategic marriages built an empire and a jawline, dynastic planning's twin legacies.
+492. Ancient Greek symposia were structured drinking parties with mandatory philosophical discussion, the original conference happy hour with a syllabus.
+493. The Great Stink of 1858 finally forced London to build sewers, proving Parliament acts fastest when the problem enters the building.
+494. Jörmungandr the world serpent will release its tail at Ragnarok, meaning the Norse apocalypse begins the moment someone lets go of a deadline they've held for eons.
+495. The Carolingian minuscule standardized handwriting across an empire, Charlemagne's court inventing the font.
+496. The Zanj rebellion of enslaved East Africans shook the Abbasid Caliphate for fourteen years, history's reminder that every empire's spreadsheet has a revolt row.
+497. Roman soldiers were partly paid in salt allowances, the origin of "salary," meaning every paycheck is seasoning by inheritance.
+498. The Cahokia mounds hosted a city larger than London in 1100, and American textbooks discovered it roughly nine centuries late.
+499. Tlaloc, the Aztec rain god, required tears for rain, meteorology's darkest procurement contract.
+500. The Congress of Vienna danced through the night while redrawing Europe, diplomacy's only summit with a better soundtrack than outcome.
+501. The Benin Bronzes were looted in 1897 and museums have spent a century calling the return process complicated, the world's slowest package tracking.
+502. Ancient Egyptian dream books interpreted visions with the confidence of a horoscope and the authority of a government office.
+503. The Varangian Guard's Norse warriors scratched runic graffiti into the Hagia Sophia, meaning Constantinople's greatest church contains a Viking's "Halfdan was here."
+504. The samurai Yasuke, an African retainer of Oda Nobunaga, saw more of Japanese history's turning points than most Japanese chroniclers, and got fewer scrolls written about him.
+505. The Riace bronzes lay in the sea for two millennia and emerged as masterpieces, history's strongest argument that some art improves by missing its own art market.
+506. The Sumerians listed kings reigning tens of thousands of years, ancient record keeping's first case of inflated tenure on the resume.
+507. Hades's helm of invisibility was borrowed by Perseus and returned, mythology's only successful equipment loan between departments.
+508. The Ashanti golden stool held the soul of the nation and never touched the ground, the only throne with stricter handling rules than the king.
+509. The Roman tortoise formation locked shields overhead and marched into arrow fire, siege warfare's proof that teamwork is mostly agreeing where to hold the ceiling.
+510. Ctesibius built water organs and air-powered devices in ancient Alexandria, an inventor whose portfolio outlived his patents by twenty-two centuries.
+511. The Nazca lines are visible only from the air, meaning either the gods had window seats or the artists had extraordinary faith in the review.
+512. The Byzantines guarded the secret of Greek fire so well it was lost forever, security's rare achievement of encrypting something from its own successors.
+513. Rome's Cloaca Maxima sewer had a goddess, Cloacina, because the empire correctly identified which infrastructure deserved worship.
+514. The Taiping Rebellion was led by a man claiming to be Jesus's brother and killed more people than most world wars, history's deadliest case of unverified credentials.
+515. Ötzi the Iceman was found with tattoos, tools, and an arrow in his back, a 5,300-year-old cold case where the victim outlasted every suspect's civilization.
+516. The Hittites kept meticulous treaty archives, meaning the Bronze Age's greatest military power was also its most diligent legal department.
+517. Emperor Ashurbanipal built a library and looted others to fill it, history's first collector to confuse acquisition with scholarship.
+518. Freyr's golden boar could run through the sky and glow in the dark, dwarven engineering's only vehicle to ship with headlights standard.
+519. The Rosetta spacecraft was named for the stone and landed a probe on a comet, meaning humanity honored its greatest translation by sending it somewhere with nothing to read.
+520. The last woolly mammoths died out after the pyramids were built, meaning somewhere an Egyptian accountant and a mammoth were alive at the same time, both unaware they were each other's fun fact.
+521. Herodotus reported ants that mined gold in Persia, ancient journalism's first viral story that was too good to fact-check.
+522. The Parthenon has served as temple, church, mosque, and munitions depot, history's most overqualified building with the most catastrophic final job.
+523. Njal's Saga ends with nearly everyone burned or slain over escalating insults, medieval Iceland's warning about what happens when nobody mutes the thread.
+524. The Aztec pochteca merchants doubled as spies, commerce and intelligence sharing an office long before anyone pretended otherwise.
+525. Archaeologists date sites by broken pottery, meaning civilization's most enduring legacy is its dishes, dropped.

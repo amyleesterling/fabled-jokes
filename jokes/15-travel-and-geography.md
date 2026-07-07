@@ -482,3 +482,43 @@
 478. The ferry's car deck loading is a ballet performed by one man's hand signals, and I have never trusted a stranger more.
 479. Every waterfall's mist zone has a couple taking wedding photos and a tourist in a poncho photobombing them into eternity.
 480. My flight home always lands at the moment my vacation brain finally turned off, which the calendar calls "efficient" and my soul calls "theft."
+481. The airport's "relaxation zone" is four lounge chairs beside the busiest corridor, occupied since 2019 by one man with a hoodie over his face, our king.
+482. My rental GPS's British accent made every wrong turn sound like a disappointed butler, which is the correct amount of shame.
+483. The cruise's disembarkation talk is a forty-minute seminar on how to leave a boat, and attendance is somehow standing room only.
+484. The beach town's parking meters take an app, the app takes a login, the login takes a password reset, and the ocean, watching all this, takes nothing.
+485. My hiking boots died on the trail, so I descended in a duct tape sculpture, which the mountain accepted as a tribute.
+486. The overnight bus's curtain divides your seat from the aisle, converting a public vehicle into forty tiny theaters of discomfort.
+487. Every capital city has a changing-of-the-guard ceremony, and tourists gather to watch someone else be at work, punctually, in a great hat.
+488. The airline's texture-of-chicken meal option comes with a roll that has passed through customs harder than I did.
+489. My beach book club of one has a five-year backlog and a 100 percent attendance record at the swim-up bar instead.
+490. The mountain road's guardrail is intermittent, appearing only where the view is boring, because the highway department understands drama.
+491. Hotel checkout at 11 and flight at 9 p.m. converts you into a lobby cryptid, haunting the luggage room and metabolizing free apples.
+492. The famous canal tour is lovely and informative, and every fifth boat is a bachelor party learning that echoes work over water.
+493. My compass, map, and trail app all agreed for once, so naturally I doubted all three and asked a stranger with worse information.
+494. The airport perfume cloud at duty-free is a weather system with a checkout counter.
+495. Vacation Day 1 me plans a sunrise run, and Vacation Day 2 me, a stranger to that man, orders the churros at breakfast.
+496. The tiny island's museum is one room, one docent, and one artifact, and it was the best museum of the entire trip, don't ask me to explain.
+497. My row's flight attendant call button glowed for forty minutes, a lighthouse of thirst no ship answered.
+498. The switchback trail shows you the summit thirty times before letting you have it, which is also how my career works.
+499. The rental car's previous driver left the seat in a position that suggests they were either a giant or driving from the back seat, and both thoughts haunt me.
+500. Five hundred jokes in and my luggage still hasn't arrived, which at this point is less an airline error and more a lifestyle it chose.
+501. The hotel breakfast omelet station line moves at the speed of one man's very specific relationship with mushrooms.
+502. The scenic pullout's telescope costs a quarter for ninety seconds, which is the only fair pricing in the entire tourism industry.
+503. My international phone plan activated in one country, roamed in the second, and in the third simply sent me a text that said "good luck."
+504. The dive shop's release form lists every possible catastrophe alphabetically, and you sign it in a swimsuit, holding a flipper, feeling great.
+505. Every historic district's horse-drawn carriage moves at the exact speed of the seventeen cars trapped behind it, learning about history against their will.
+506. The trail's bear warning sign has a bell dispenser next to it, monetizing fear at two dollars a jingle, and I bought three.
+507. My red-eye seatmate and I never spoke, but we fought a silent eight-hour war over one armrest and parted as veterans.
+508. The vacation rental's checkout list includes stripping beds, running the dishwasher, and taking out trash, at which point the cleaning fee becomes a tip for supervision.
+509. The city's love-lock bridge groans under ten tons of padlocks, the only infrastructure failing from commitment.
+510. My travel strategy of "we'll find parking when we get there" has a documented success rate, and the documents are parking tickets.
+511. The airport gate's seat design ensures no human can lie down, a triumph of engineering over the one thing everyone there wants.
+512. The tour boat's "guaranteed dolphin sighting" fine print defines dolphin as "marine activity," and defines sighting as "the captain pointing."
+513. Hotel room searches follow protocol: safe, drawers, under the bed, and one final sweep where you find the previous guest's phone charger, your inheritance.
+514. The high-altitude town's welcome sign lists the elevation first and the population second, because up there, oxygen is the bigger celebrity.
+515. My meticulously folded packing job survives exactly one hotel, after which the suitcase converts to soup mode for the remainder of the trip.
+516. The airport's final security question, "did you pack your own bags," is the only quiz I've ever aced while sweating like a smuggler.
+517. The seaside cliff walk's warning sign shows a stick figure falling with remarkable calm, the bravest man in all of signage.
+518. My last-row seat doesn't recline, sits beside the bathroom, and hears every galley secret, which the airline calls a seat and I call a residency.
+519. The trip's best moment wasn't on the itinerary, the worst moment was, and the photo we framed was taken in a parking lot, which is travel, entirely.
+520. My luggage finally came home three weeks later with a new dent, a foreign customs sticker, and no explanation, and honestly, after everything, neither of us asked.

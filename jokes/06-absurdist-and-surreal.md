@@ -402,3 +402,83 @@
 398. I bought a doorbell camera that shows who's at the door and who they were on the way over. Delivery drivers arrive as whole biographies now. I tip accordingly.
 399. My attic fan pulls hot air out of the house and, occasionally, an idea I wasn't done with. Somewhere above my insulation is a novel, circling, waiting for winter.
 400. The town's oldest resident turned 104 and revealed she's been aging on behalf of the gazebo. It's 12. It looks great. She's tired and would like someone to take over.
+401. I bought a watering can for artificial plants. It pours reassurance. The plastic fern doesn't need it, but it leans toward the can anyway, out of politeness or memory.
+402. My town installed a second horizon, closer, for people with limited time. You can reach it in twenty minutes, stand on it, and look at the real one, which is the whole product.
+403. The elevator repairman carries a stethoscope. He listened to our elevator's doors and said, "she's fine, she's just tired of opening up," and billed us for couples counseling.
+404. My cereal settles during shipping, the box says, and so do I, the box implies. Contents may have shifted. Contents are coping.
+405. The town's mime got a permit to build an actual invisible wall. Zoning approved it because they couldn't see a problem, and now the birds file complaints, softly, beak-first.
+406. I bought a phone charger long enough to reach the person I was in college. It's forty feet of cable, and when I plug in at the far end, the phone shows different apps.
+407. My sink's hot and cold taps reconciled after years and now both run lukewarm. The plumber says he can separate them again, but he'd want us to think about what we're asking.
+408. The parking meter maid tickets cars, bikes, and, on slow days, clouds that linger too long over the courthouse. The clouds pay in shade, eventually, elsewhere.
+409. My belt has a new hole and an old story for each of the others. Holidays are archived to the left; the year I ran is on the right, unvisited, kept polished.
+410. The town's carousel horses get one night a year off the poles. Nobody watches, by agreement, but every autumn morning after, the beach has hoofprints and the horses face the sea.
+411. I bought an ice scraper in July. The cashier nodded like I'd made a chess move, and the frost, somewhere in the future, adjusted its plans for my windshield.
+412. My washing machine's spin cycle spins the clothes, and, if I'm honest, the narrative. Shirts go in guilty and come out "misunderstood," lint traps full of context.
+413. The library added a wing for books that are between things right now. The novels are unfinished, staying with friends, figuring it out, and the shelf asks that we not push.
+414. My alarm clock and I switched jobs for a day. I sat on the nightstand and yelled at it at six; it went to my office, hit snooze on nine meetings, and got promoted.
+415. The town's stoplight turned green at both ends and yellow in the middle, once, at midnight, for one car. The driver got everything he'd ever wanted and moved away wondering.
+416. I bought a coaster set for things that need to not leave a mark. Glasses, yes, but also certain sentences, which I now set down on cork first, condensation and all.
+417. My neighborhood's stray cat holds office hours. Tuesdays, on the wall, complaints heard in the order the sun warms them, no appeals, tail as gavel.
+418. The moving walkway at the airport moves at the speed of getting over it. Some travelers glide; one man has been on it since his layover in 2018, moving, technically.
+419. My pepper grinder grinds pepper, coarse or fine, and, on the third setting, an axe. Not the spice. It has one and it's grinding it, and dinner has stakes now.
+420. The town's welcome center added a farewell center. Same building, same brochures, and same woman at the desk, who says "you'll be back" both ways, differently.
+421. I bought a bath mat that judges wetness on a curve. After a shower, I'm "acceptably damp." After a hard day, I can stand on it dry and it still absorbs something.
+422. My ceiling light has a dimmer, and the dimmer has a dimmer, and at the bottom of that chain, in the wall, a small switch labeled "mood: ancestral."
+423. The ferry and the bridge nearby have a rivalry the town pretends not to see. The ferry takes the scenic route out of spite; the bridge got a light show; the river profits.
+424. My pill organizer has compartments for Monday through Sunday and one, unlabeled, that's always full no matter what I do. The pharmacist looked once and closed it gently.
+425. The town's radio station broadcasts the news, the weather, and, at midnight, the sound of the station empty. Ratings for the third segment are the highest. We miss us too.
+426. I bought a wheelbarrow for a single feeling. It's the only tool rated for it. I wheel it around the yard on bad days, and the neighbors nod: they've hauled it too.
+427. My apartment's smoke detector is also a milestone detector. It went off when I finished the novel, three short beeps, and then, quietly, "well."
+428. The dry cleaner returns my shirts pressed and my collar's opinions removed for a small fee. The tag says "we found some starch and a stance; kept the starch."
+429. My town built a bypass around the difficult conversation. Traffic flows beautifully now, and the conversation sits in the old town center, patient, keeping the shops open.
+430. The birdbath in my yard is a mirror the sky uses. Mornings, the sky checks itself in it, adjusts a cloud, and leaves. The birds bathe in the sky's confidence, secondhand.
+431. I bought a paper shredder that shreds paper into confetti or regret into mulch, same blades. The garden where I spread the second kind grows tomatoes that apologize.
+432. My town's crossing signal chirps for the visually impaired and, at a lower frequency, encourages everyone. Scientists found the second tone by accident and wept at the crosswalk.
+433. The furnace in my building speaks only in February. One sentence a year, through the vents, to everyone at once. This year: "you people have no idea what I keep out."
+434. I bought a spirit level and a level spirit, same aisle. The first says my shelf is crooked; the second says the shelf is doing its best on an uneven wall, and both are tools.
+435. My city's subway has a ghost train that runs on time. The living trains are delayed; the ghost train sails through at 8:03 sharp, empty, punctual, dead, a rebuke.
+436. The neighbor's trampoline keeps the neighborhood's lost jumps. On windless nights it flexes softly, replaying a birthday from 2009, and the porch lights come on to watch.
+437. I bought a garden hose that reaches the garden and, coiled fully out, the sea. I've never used the last ten feet. The nozzle at that end is damp and smells like nerve.
+438. My oven timer counts down to dinner and, in a smaller display, to something else. It won't say what. The roast was fine. The little number is at 3,000ish and falling.
+439. The town's antique shop sells old things and buys used futures. Bring in a plan you're done with and the owner weighs it, squints, and offers store credit and absolution.
+440. My office's revolving door revolves whether or not anyone's in it, after hours, slowly. Security calls it "circulation." The lobby plant calls it, leaf to glass, "him again."
+441. I bought a snooze bar. An actual bar. It's open from six to six-nine a.m., serves nothing, and everyone in there is lying to themselves in nine-minute rounds, together.
+442. My town's hill got surveyed and reclassified as a mountain that slouches. It straightened up for the photo, briefly alpine, then settled back into its posture and our hearts.
+443. The junk drawer in my kitchen reached critical mass and formed a small civilization. The batteries are currency, the takeout menus are scripture, and the twist ties govern.
+444. I bought noise-canceling windows. The street goes quiet, the birds go quiet, and, if you turn them up too high, the room starts canceling you, gently, starting with your plans.
+445. My city's fog horn retired and teaches now. Young horns come from all over to learn restraint: one note, held, meaning everything, meaning "rocks," meaning "not yet."
+446. The vending machine and the ice machine at the motel are in a long-distance relationship, one hallway apart. The hum you hear at 2 a.m. is correspondence.
+447. I bought a key that works once. The locksmith wouldn't say on what. It's brass, warm, and every door I pass, I feel it in my pocket, choosing not yet, not this one.
+448. My town's crossing guard for geese retired, and the geese, out of respect, now stop traffic themselves, but for us, badly, whenever, with honking they call "the training."
+449. The escalator's handrail moves slightly faster than the steps, everywhere, always, by design. Somewhere, an engineer knows why, and his conscience travels at a third speed.
+450. I bought a rearview mirror for my desk. Objects in it are closer than they appear: lunch, the deadline, and, small but gaining, the person I said I'd be by now.
+451. My building's stairwell echoes footsteps with a half-flight delay, so everyone climbs with a companion made of themselves. On hard days, you can let yours catch up.
+452. The town pool drained itself overnight and left a note in the deep end: "gone to be rain awhile, back by June." Lifeguards are guarding the shape of it.
+453. I bought a picture frame that came with a photo of a family enjoying the frame. I've kept them. They're framing people. It feels wrong to replace them with my actual life.
+454. My electric toothbrush has a two-minute timer and, after ten years, a sense of ceremony. It pauses at the end now, one beat, like we've finished something together. We have.
+455. The town's roundabout gained a small interior roundabout for the indecisive. You circle the big one until you're sure, then the small one until you're sure you're sure.
+456. I bought a car with a trunk, a glovebox, and a small compartment the manual calls "elsewhere." Things placed in it stay put and become slightly hypothetical.
+457. My radiator and my ceiling fan run at the same time all spring, negotiating. The temperature in here isn't a number, it's a settlement, and I live in the terms.
+458. The bakery's sourdough starter is older than the baker, the bakery, and the street. On its anniversary, the bread rises unassisted, and the town eats carefully, in its house.
+459. I bought a hall mirror that reflects the hallway as it could be. Same hallway, better light, a runner rug I own in no store. I've started living up to the mirror's hallway.
+460. My town's four-way stop has a fifth way. It's not on the map, it arrives at odd angles, and cars from it merge politely into lives that weren't expecting a turn.
+461. The hardware store's paint-mixing machine shakes cans of paint and, for a fee, snow globes, cocktails, and men who have gotten too settled. Ask for Gary's special.
+462. I bought a fitted sheet, a flat sheet, and a sheet the packaging called "attendant." It doesn't go on the bed. It stands by. Mornings, it's slightly closer.
+463. My office's fluorescent light flickers in Morse. Facilities translated it: mostly complaints, one apology from 2014, and, on Fridays, at five, dot dot dot dash: "V," for us.
+464. The town's gazebo is licensed for weddings, concerts, and one annual disappearance. Book early. You and the gazebo go somewhere; only you come back; it's already there.
+465. I bought a set of nesting tables and they will not stop. The big one nested under the dining table, which nested under the porch, and the house is eyeing the hill.
+466. My phone's "do not disturb" mode has a deeper setting: "could not be disturbed." Notifications arrive, look at me, and leave quietly, telling the others.
+467. The car dealership's inflatable tube man deflated into a chair and refuses the fan. He's done waving. He watches the highway now, armless, at peace, sales up somehow.
+468. I bought a rain check at the stadium and the sky honored it. Personal delivery, one cloud, my yard only, on the afternoon I finally had nothing, which it knew.
+469. My grandmother's mirror shows you plus everyone who's ever checked their hair in it. Getting ready for the funeral, the whole family fixed our collars in a crowd of us.
+470. The town's speed bump got a title: "traffic calming device." It's gone to its head. It calms everything now: traffic, arguments in passing cars, one marriage, measurably.
+471. I bought a shoe rack with a slot for shoes that are thinking about it. The running shoes have been in it since January, laces loose, staring at the door, deciding.
+472. My apartment's circuit breaker has a switch labeled "everything else." I flipped it once. Everything else went off. I don't know what I live among, but it needed resetting.
+473. The town's flagpole flies the flag, and, below it, a smaller pennant indicating how the flagpole feels about the wind that day. Today: two triangles, "conflicted."
+474. I bought a bread box for bread and a smaller box, sold separately, for the heel slice's feelings. Both stay fresher. The crumbs meet in the middle and gossip.
+475. My commute has a stretch where the radio only plays songs I almost loved. Four minutes of nearly. The DJ, if there is one, calls the segment "close," and knows my exit.
+476. The town's stone bridge counts crossings. At the millionth, it grants the crosser one structural favor. A woman last spring is now, herself, load-bearing, and calmer for it.
+477. I bought an address book for places that moved away. The bakery that's a bank now, the field that's a lot: I write, care of what stands there, and sometimes it's forwarded.
+478. My dishwasher's top rack is for glasses, the bottom for plates, and the third rack, which arrives some nights, is for what we said at dinner. It comes out clean. Mostly.
+479. The town installed a bench that faces the wall. The plaque says "for when the view is too much." It's the most used bench. The wall, for its part, has never been prouder.
+480. I bought a calendar where the weekends are load-bearing. Remove one, the structure fails, the weeks pancake into each other, and it's suddenly March, which explains March.
