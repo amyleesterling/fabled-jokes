@@ -451,15 +451,21 @@ const state={cats:[], all:[], read:0, ack:{}, current:null, currentJoke:null};
    To activate worldwide voting: create a free Supabase project, run
    supabase/setup.sql in its SQL editor, then fill in the project URL
    and anon public key below. Until then the cabinet runs local-only. */
-const SUPABASE={url:"",key:""};
+const SUPABASE={url:"https://amyxocqdfcaeieerqllv.supabase.co",key:"sb_publishable_uvng-9IdwolvuiCG9pQTIQ_1gyaKOVH"};
 const globalScores={};
+/* legacy anon keys are JWTs and also ride in Authorization; new sb_publishable_ keys must not */
+function sbHeaders(extra){
+  const h=Object.assign({apikey:SUPABASE.key},extra||{});
+  if(SUPABASE.key.indexOf("eyJ")===0) h.Authorization="Bearer "+SUPABASE.key;
+  return h;
+}
 function gkey(cat,j){ return cat.file.slice(0,2)+"-"+j.num; }
 function gscoreOf(cat,j){ const v=globalScores[gkey(cat,j)]; return typeof v==="number"?v:0; }
 async function loadGlobalScores(){
   if(!SUPABASE.url) return;
   try{
     const r=await fetch(SUPABASE.url+"/rest/v1/votes?select=joke_id,score&limit=20000",
-      {headers:{apikey:SUPABASE.key,Authorization:"Bearer "+SUPABASE.key}});
+      {headers:sbHeaders()});
     if(!r.ok) return;
     (await r.json()).forEach(row=>{ globalScores[row.joke_id]=row.score; });
   }catch(e){}
@@ -467,7 +473,7 @@ async function loadGlobalScores(){
 function sendGlobalVote(cat,j,dir){
   if(!SUPABASE.url) return;
   fetch(SUPABASE.url+"/rest/v1/rpc/vote_joke",{method:"POST",
-    headers:{apikey:SUPABASE.key,Authorization:"Bearer "+SUPABASE.key,"Content-Type":"application/json"},
+    headers:sbHeaders({"Content-Type":"application/json"}),
     body:JSON.stringify({p_joke_id:gkey(cat,j),p_delta:dir})}).catch(()=>{});
 }
 
