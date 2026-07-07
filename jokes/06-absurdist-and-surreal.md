@@ -482,3 +482,48 @@
 478. My dishwasher's top rack is for glasses, the bottom for plates, and the third rack, which arrives some nights, is for what we said at dinner. It comes out clean. Mostly.
 479. The town installed a bench that faces the wall. The plaque says "for when the view is too much." It's the most used bench. The wall, for its part, has never been prouder.
 480. I bought a calendar where the weekends are load-bearing. Remove one, the structure fails, the weeks pancake into each other, and it's suddenly March, which explains March.
+481. My town's phone booth accepts calls only. It rings for whoever's walking by, and the rule is you answer. It's always someone's mother, somehow, and always partly yours.
+482. I bought an armchair described as "gently used by a philosopher." It won't let me sit until I can say what sitting is for. I read standing now. The chair calls this progress.
+483. My kitchen scale weighs flour, sugar, and, if you place them carefully, decisions. Moving to the city came in at 340 grams, most of it packaging.
+484. The town's sundial has a night shift now: a lampdial. Same gnomon, municipal bulb, and hours that are technically correct but taste different.
+485. I bought a spare tire, a spare key, and a spare hour. The hour lives in the glovebox and can only be used once, and every traffic jam I hold it, weighing the day.
+486. My neighbor's garden gnome and my garden gnome exchange positions on the solstice. Neither of us moves them. We've stopped discussing it. Property law has no chapter for this.
+487. The office's motivational poster of a mountain updated itself. The climber is higher now than in 2019. Slow, but he's moving, and honestly he's the only one of us who is.
+488. I bought a funnel for narrowing things down. Options in the top, one choice out the bottom, and a residue in the funnel the manual calls "the others," dishwasher safe, barely.
+489. My city's pigeons switched to a subscription model. Crumbs weekly or they redirect their attention, and you do not want the attention of pigeons who feel unsubscribed from.
+490. The hotel hallway's carpet pattern repeats every twelve feet, except once, near room 214, where it hesitates. Housekeeping vacuums that spot last, and with respect.
+491. I bought an anchor for a boat I don't own. It sits in the yard, holding the property in place. Since it arrived, the house has stopped drifting toward the neighbors', mostly.
+492. My alarm went off this morning and just kept going: down the hall, out the door, gone. It rings somewhere in the neighborhood at six, wild now, waking whoever's ready.
+493. The town's mapmaker includes one street that isn't there, to catch plagiarists. People keep reporting good dreams set on it. He's begun charging rent, in dreams, collected.
+494. I bought a soap dish for the soap and a soap for the dish. They diminish together now, evenly, and the bathroom has the mood of a long marriage, humid and correct.
+495. My car's turn signal blinks at the rate of my certainty. Confident lane changes tick like clocks; the exit toward my hometown flutters like a moth in a jar.
+496. The library's card catalog was digitized, and the wooden cabinet was kept "for the drawers' sake." Nights, it indexes the librarians, on cards, in a hand nobody admits to.
+497. I bought a curtain rod rated for heavy curtains and heavier atmospheres. It holds the velvet, the light at bay, and, on holidays, the room's composure, at 40 pounds each.
+498. My town's echo point has a suggestion box. Top request, year after year, in every visitor's own voice: "say something worth repeating." The canyon files it under pending.
+499. I bought a stopwatch that stops watching. Click once, it times your lap; click twice, it looks away, and you can do the lap however you actually do it, untimed, true.
+500. My freezer's ice dispenser offers cubed, crushed, and "as it was." The third setting dispenses one piece of the glacier it dreams of being, and hums for a while after.
+501. The town's night watchman watches the night itself, per the job title, and reports it sound. The buildings watch themselves; they've all got cameras; the night was lonely.
+502. I bought a picnic blanket that assembles the picnic's mood in advance. Spread it out and the afternoon arrives pre-warmed, ants included, at a ratio the label calls "honest."
+503. My stapler ran out of staples and kept going, pressing pages together with sheer conviction. Some documents hold; the quarterly report is loose-leaf; belief has limits.
+504. The town's bridge troll refinanced. He's under the overpass now, better traffic, worse acoustics, and the riddles are multiple choice because nobody has time.
+505. I bought a globe of a slightly different Earth. The continents are all a bit kinder to each other, and my hometown is coastal, and I spin it when the news is on.
+506. My washing machine and the moon are on the same cycle this month. Heavy loads at the full, delicates at the new, and the tides in the drum are pulling my socks somewhere.
+507. The office's out-of-order sign fell on its side. Nobody fixed it. It's the sign that's out of order now, and the copier, uncovered, has quietly resumed working, out of shock.
+508. I bought a hat rack that accepts hats and roles. I hang up "manager" at the door, and "son" when I get back from visiting, and the rack bears it all, coats too, uncomplaining.
+509. My town's weather vane rusted pointing homeward, everyone's. From every yard it aims at a different house, and the meteorologist calls the forecast "longing, from the west."
+510. I bought a two-slot toaster with a third slot the manual doesn't mention. Bread placed in it returns toasted and changed: raisin where there was none, and a new confidence.
+511. My building's mail slots include one for the building. Letters addressed to it get answered in creaks. It's corresponding with a warehouse in Ohio; we think it's serious.
+512. The town's kite festival was won by a string with no kite. It stood straight up for an hour, taut against nothing, and the judges wept, and the kites all looked down at us.
+513. I bought a rocking chair that rocks on its own schedule. It's rocking for someone, the woodworker said, and one evening a year it rocks hardest, and I let it have the porch.
+514. My colander and my umbrella met in the closet and compared duties. One lets everything through, one lets nothing, and they've agreed the real job is being held over something.
+515. The town's traffic circle installed a gift shop in the middle. You can't reach it. Sales are zero and rising, and the postcards inside show the view: you, circling, wanting.
+516. I bought a mirror for the back of my head. Between it and the front mirror, an infinite hallway of me, and somewhere down that corridor, one of us has finally started the book.
+517. My oven's self-cleaning cycle finished, and then, unprompted, it started on itself: old temperatures, grudges against the broiler, the casserole of 2021. It runs cooler now.
+518. The town's lost mitten pole has held one red mitten since 1998. Its match arrived by mail last week, no return address, and the pole flies them both now, like a country.
+519. I bought a level, a plumb line, and a small brass instrument the shop called "a whether." It doesn't measure if the shelf is straight. It measures whether. The shelf passed.
+520. My town ends at a sign that says "you are now leaving." Not the town's name, just that. Past it, the road continues, and everyone who drives out reports the same thing: arrival.
+521. I bought a nightstand book light and it only illuminates sentences I'm ready for. Whole chapters stay dim for months, then one morning, page 214 is blazing.
+522. My town's fireworks display was canceled, so the sky did what it could: one meteor, unscheduled, over the ballfield, and the crowd, who had stayed anyway, went home full.
+523. The junk mail addressed to "Current Resident" finally found him. He'd been living in my walls, current as anything, and he came out for the coupons, and we split the pizza deal.
+524. I bought a set of coasters shaped like the moments before things. Before the toast, before the news, before the kettle. You set your glass down on almost, and it holds.
+525. My last joke moved out. It left a note on the refrigerator: "gone to be someone's first laugh somewhere else." The refrigerator hums it sometimes. We're all very proud.
