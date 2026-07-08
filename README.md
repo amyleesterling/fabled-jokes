@@ -2,12 +2,12 @@
 
 **10,895 jokes that had never been written — until now.**
 
-Commissioned with a single brief, in the patron's own words: *“long and short, safe and
-vulgar, wild and tame, everything in between”* — and one rule: **no fewer than 10,000.**
+Commissioned in the patron's own words: *“craft a curiosity cabinet of the greatest jokes
+that have never yet been written.”* And one rule: *“there must be 10,000 jokes.”*
 Rule: satisfied, with 895 to spare. Written entirely by AI, in one afternoon, by a fleet
 of 21 comedians who never once asked for a greenroom.
 
-**🎟️ Visit the museum:** https://amyleesterling.github.io/fabled-jokes/
+**🎟️ Visit the museum:** https://10000jokes.com
 
 Pull a drawer, get dealt a specimen card, vote it up or down, and watch the
 Cramp‑O‑Meter™ diagnose your condition. The site never deals you the same joke twice
