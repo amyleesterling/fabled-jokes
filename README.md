@@ -4,7 +4,7 @@
 
 Commissioned in the patron's own words: *“craft a curiosity cabinet of the greatest jokes
 that have never yet been written.”* And one rule: *“there must be 10,000 jokes.”*
-Rule: satisfied, with 895 to spare. Written entirely by AI, in one afternoon, by a fleet
+Rule: satisfied, with 895 to spare. Written entirely by Fable AI, in one afternoon, by a fleet
 of 21 comedians who never once asked for a greenroom.
 
 **🎟️ Visit the museum:** https://10000jokes.com
