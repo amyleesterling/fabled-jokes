@@ -232,41 +232,48 @@ h1 .flourish{ color:var(--brass-2); }
 .closer:hover{background:rgba(255,255,255,.12)}
 
 .card{
-  background:
-    linear-gradient(transparent 0 2.1em, rgba(163,51,39,.5) 2.1em calc(2.1em + 1px), transparent calc(2.1em + 1px)),
-    repeating-linear-gradient(transparent 0 1.55em, rgba(90,110,160,.25) 1.55em calc(1.55em + 1px)),
-    var(--paper);
+  background:var(--paper);
   color:var(--ink); border-radius:6px; border:1px solid var(--paper-edge);
   box-shadow:var(--card-shadow);
-  padding:2.4em 1.6em 1.4em; min-height:200px; max-height:56vh; overflow-y:auto;
-  font-size:1.13rem; line-height:1.55em; position:relative;
+  padding:1.2em 1.5em 1.3em; position:relative;
+  flex:1 1 auto; min-height:200px; overflow-y:auto;
+  display:flex; flex-direction:column;
+  font-size:1.12rem;
   transform-origin:50% 120%;
 }
+.card.long{font-size:1rem}
 .card.dealt{animation:deal .45s cubic-bezier(.2,.9,.3,1.15)}
 @keyframes deal{
   from{transform:translateY(60px) rotate(-6deg) scale(.85); opacity:0}
   to{transform:none; opacity:1}
 }
-.card .stamp{
-  position:absolute; top:.55em; right:.9em; transform:rotate(3deg);
-  font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.12em;
-  color:var(--accent); border:2px solid var(--accent); border-radius:4px;
-  padding:.2em .55em; opacity:.75; text-transform:uppercase;
+.card-head{
+  display:flex; justify-content:space-between; align-items:baseline; gap:.8em; flex:none;
+  border-bottom:1px solid rgba(163,51,39,.5); padding-bottom:.5em; margin-bottom:.55em;
 }
 .card .catline{
-  position:absolute; top:.62em; left:1.1em;
-  font-family:'Courier New',monospace; font-size:.72rem; letter-spacing:.12em; color:var(--ink-soft);
-  text-transform:uppercase;
+  font-family:'Courier New',monospace; font-size:.7rem; letter-spacing:.1em; color:var(--ink-soft);
+  text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; flex:1;
+}
+.card .stamp{
+  font-family:'Courier New',monospace; font-size:.7rem; letter-spacing:.1em;
+  color:var(--accent); border:2px solid var(--accent); border-radius:4px;
+  padding:.2em .5em; opacity:.8; text-transform:uppercase; flex:none; transform:rotate(2deg);
+}
+.card .joke{
+  white-space:pre-line; flex:1 1 auto;
+  line-height:1.9em;
+  background-image:repeating-linear-gradient(to bottom, transparent 0, transparent calc(1.9em - 1px), rgba(90,110,160,.30) calc(1.9em - 1px), rgba(90,110,160,.30) 1.9em);
+  background-position:0 .35em;
 }
 .card .gscore{
-  position:absolute; bottom:.55em; right:.9em;
-  font-family:'Courier New',monospace; font-size:.78rem; letter-spacing:.08em;
+  display:block; text-align:right; flex:none; margin-top:.7em;
+  font-family:'Courier New',monospace; font-size:.76rem; letter-spacing:.08em;
   color:var(--ink-soft); opacity:.85;
 }
 .card .gscore.pos{color:#4c7a3d} .card .gscore.neg{color:var(--accent)}
-.card .joke{white-space:pre-line}
-.card.notice{text-align:center; display:flex; flex-direction:column; justify-content:center; gap:1em}
-.card.notice .joke{font-style:italic}
+.card.notice{text-align:center; justify-content:center; gap:1em}
+.card.notice .joke{font-style:italic; background:none; flex:none}
 
 /* ---------- voting ---------- */
 .votebar{display:flex; gap:.9rem; justify-content:center; align-items:center; margin-top:.9rem}
@@ -405,10 +412,12 @@ footer .plaque{
       <button class="closer" id="exhibit-close" aria-label="Close exhibit">✕</button>
     </div>
     <div class="card" id="card">
-      <span class="catline" id="card-cat"></span>
-      <span class="stamp" id="card-stamp"></span>
-      <span class="gscore" id="card-gscore"></span>
+      <div class="card-head">
+        <span class="catline" id="card-cat"></span>
+        <span class="stamp" id="card-stamp"></span>
+      </div>
       <div class="joke" id="card-joke"></div>
+      <span class="gscore" id="card-gscore"></span>
     </div>
     <div class="votebar" id="votebar">
       <button class="vote up" id="vote-up" aria-label="Vote this joke up">▲</button>
@@ -637,7 +646,7 @@ function openExhibit(cat){
 function showNotice(cat){
   const card=document.getElementById("card");
   state.currentJoke=null; updateVoteWidget();
-  card.classList.add("notice");
+  card.classList.add("notice"); card.classList.remove("long");
   document.getElementById("card-cat").textContent="curator's notice";
   document.getElementById("card-stamp").textContent="18+";
   document.getElementById("card-joke").textContent=
@@ -657,8 +666,13 @@ function dealFrom(cat){
   document.getElementById("card-cat").textContent=cat.title+(reshuffled?" · wing fully read — reshuffled!":"");
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(pick.num).padStart(4,"0");
-  document.getElementById("card-joke").textContent=pick.text.split(" / ").join("\n");
+  putJoke(pick.text);
   redeal(card); tallyCramp();
+}
+function putJoke(text){
+  const t=text.split(" / ").join("\n");
+  document.getElementById("card-joke").textContent=t;
+  document.getElementById("card").classList.toggle("long", t.length>220);
 }
 function redeal(card){ card.classList.remove("dealt"); void card.offsetWidth; card.classList.add("dealt"); card.scrollTop=0; }
 
@@ -685,7 +699,7 @@ function dealExact(cat,j,label){
   document.getElementById("card-cat").textContent=cat.title;
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(cat.idx+1).padStart(2,"0")+"‑"+String(j.num).padStart(4,"0");
-  document.getElementById("card-joke").textContent=j.text.split(" / ").join("\n");
+  putJoke(j.text);
   redeal(card); tallyCramp();
 }
 function openFromParam(){
@@ -738,7 +752,7 @@ document.getElementById("random-knob").addEventListener("click",()=>{
   document.getElementById("card-cat").textContent=pick.cat.title+(reshuffled?" · entire cabinet read — reshuffled!":"");
   document.getElementById("card-stamp").textContent=
     "SPEC. № "+String(pick.cat.idx+1).padStart(2,"0")+"‑"+String(pick.j.num).padStart(4,"0");
-  document.getElementById("card-joke").textContent=pick.j.text.split(" / ").join("\n");
+  putJoke(pick.j.text);
   redeal(card); tallyCramp();
 });
 
